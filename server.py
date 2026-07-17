@@ -1,14 +1,13 @@
 """
-Backend web app cho chat AI + trang admin "Hoc tu YouTube" (dung de deploy len Railway).
+Backend web app cho chat AI + trang "Hoc tu YouTube" (dung de deploy len Railway).
 
 - "/"            trang chat cong khai (ai co link cung vao chat duoc)
-- "/admin"       trang rieng de dan link YouTube day them kien thuc, can dung ADMIN_KEY
+- "/admin"       trang de dan link YouTube day them kien thuc (khong can mat khau)
 - "/chat"        API chat (JSON) - dung cho ChatWidget.tsx nhung tren Lovable neu muon
-- "/admin/learn" API hoc tu YouTube (JSON) - can header X-Admin-Key
+- "/admin/learn" API hoc tu YouTube (JSON)
 
 Bien moi truong can co tren Railway:
     GEMINI_API_KEY   - API key Gemini
-    ADMIN_KEY        - mat khau rieng de dung trang /admin (tu dat, vd 1 chuoi ngau nhien dai)
     KNOWLEDGE_FILE    - (tuy chon) duong dan file knowledge.json, vd /data/knowledge.json neu
                         gan Railway Volume de du lieu khong mat khi redeploy
 
@@ -20,7 +19,7 @@ import os
 import threading
 from contextlib import asynccontextmanager
 
-from fastapi import FastAPI, Header, HTTPException
+from fastapi import FastAPI, HTTPException
 from fastapi.middleware.cors import CORSMiddleware
 from fastapi.responses import HTMLResponse
 from pydantic import BaseModel
@@ -28,8 +27,6 @@ from google import genai
 
 import chat
 import learn_from_youtube as lfy
-
-ADMIN_KEY = os.getenv("ADMIN_KEY", "").strip()
 
 _chunks: list[dict] = []
 _chunk_embeddings: list[list[float]] = []
@@ -94,13 +91,6 @@ class LearnResponse(BaseModel):
     results: list[LearnResultItem]
 
 
-def require_admin(x_admin_key: str = Header(default="")) -> None:
-    if not ADMIN_KEY:
-        raise HTTPException(status_code=503, detail="Server chua cau hinh ADMIN_KEY.")
-    if x_admin_key != ADMIN_KEY:
-        raise HTTPException(status_code=401, detail="Sai admin key.")
-
-
 @app.get("/health")
 def health():
     with _lock:
@@ -127,8 +117,7 @@ def chat_endpoint(req: ChatRequest):
 
 
 @app.post("/admin/learn", response_model=LearnResponse)
-def admin_learn(req: LearnRequest, x_admin_key: str = Header(default="")):
-    require_admin(x_admin_key)
+def admin_learn(req: LearnRequest):
     if _client is None:
         raise HTTPException(status_code=503, detail="Server chua cau hinh GEMINI_API_KEY.")
 
@@ -214,28 +203,25 @@ ADMIN_PAGE = """<!doctype html>
 <style>
   body{margin:0;font-family:'Segoe UI',sans-serif;background:#0f1420;color:#e7eaf3;padding:20px}
   h1{font-size:18px}
-  input[type=password],textarea{width:100%;box-sizing:border-box;padding:10px;border-radius:8px;border:none;background:#1c2438;color:#f0f2f7;font-size:14px;margin-bottom:10px}
+  textarea{width:100%;box-sizing:border-box;padding:10px;border-radius:8px;border:none;background:#1c2438;color:#f0f2f7;font-size:14px;margin-bottom:10px}
   textarea{height:120px;resize:vertical;font-family:inherit}
   button{padding:10px 20px;border-radius:8px;border:none;background:#5865f2;color:#fff;font-weight:700;cursor:pointer}
   button:disabled{opacity:.5;cursor:default}
   #out{margin-top:16px;white-space:pre-wrap;font-size:13px;background:#1c2438;padding:12px;border-radius:8px;max-height:400px;overflow-y:auto}
 </style></head>
 <body>
-<h1>📺 Hoc tu YouTube (rieng tu)</h1>
-<input id="key" type="password" placeholder="Admin key">
+<h1>📺 Hoc tu YouTube</h1>
 <textarea id="links" placeholder="Dan link YouTube, moi dong 1 link"></textarea>
 <button id="btn">Bat dau hoc</button>
 <div id="out"></div>
 <script>
 const btn=document.getElementById('btn'), out=document.getElementById('out');
 btn.onclick=async()=>{
-  const key=document.getElementById('key').value.trim();
   const links=document.getElementById('links').value.split('\\n').map(s=>s.trim()).filter(Boolean);
-  if(!key||!links.length){ out.textContent='Thieu admin key hoac link.'; return; }
+  if(!links.length){ out.textContent='Thieu link.'; return; }
   btn.disabled=true; out.textContent='Dang xu ly...';
   try{
-    const res=await fetch('/admin/learn',{method:'POST',headers:{'Content-Type':'application/json','X-Admin-Key':key},body:JSON.stringify({links})});
-    if(res.status===401){ out.textContent='Sai admin key.'; btn.disabled=false; return; }
+    const res=await fetch('/admin/learn',{method:'POST',headers:{'Content-Type':'application/json'},body:JSON.stringify({links})});
     const data=await res.json();
     out.textContent=data.results.map(r=>`[${r.status}] ${r.link}\\n${r.detail}`).join('\\n\\n');
   }catch(e){ out.textContent='Loi: '+e; }
