@@ -159,7 +159,7 @@ def admin_learn(req: LearnRequest):
 CHAT_PAGE = """<!doctype html>
 <html lang="vi"><head><meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
-<title>Tro ly Peptide Shop</title>
+<title>Trợ lý Peptide Shop</title>
 <style>
   body{margin:0;font-family:'Segoe UI',sans-serif;background:#0f1420;color:#e7eaf3;height:100vh;display:flex;flex-direction:column}
   header{background:#161d2e;padding:16px 20px;font-weight:700}
@@ -173,9 +173,9 @@ CHAT_PAGE = """<!doctype html>
   button:disabled{opacity:.5;cursor:default}
 </style></head>
 <body>
-<header>Tro ly Peptide Shop</header>
+<header>Trợ lý Peptide Shop</header>
 <div id="log"></div>
-<form id="f"><input id="q" placeholder="Nhap cau hoi..." autocomplete="off"><button id="send">Gui</button></form>
+<form id="f"><input id="q" placeholder="Nhập câu hỏi..." autocomplete="off"><button id="send">Gửi</button></form>
 <script>
 const log=document.getElementById('log'), q=document.getElementById('q'), f=document.getElementById('f'), send=document.getElementById('send');
 let history=[];
@@ -189,10 +189,10 @@ f.onsubmit=async(e)=>{
     const data=await res.json();
     add(data.reply,'bot');
     history.push({role:'Khach hang',text:text},{role:'Tro ly',text:data.reply});
-  }catch(err){ add('Loi ket noi, thu lai sau.','bot'); }
+  }catch(err){ add('Lỗi kết nối, thử lại sau.','bot'); }
   send.disabled=false; q.focus();
 };
-add('Xin chao! Ban muon hoi gi ve san pham, cach dung, hay gia ca khong?','bot');
+add('Xin chào! Bạn muốn hỏi gì về sản phẩm, cách dùng, hay giá cả không?','bot');
 </script>
 </body></html>"""
 
@@ -210,21 +210,21 @@ ADMIN_PAGE = """<!doctype html>
   #out{margin-top:16px;white-space:pre-wrap;font-size:13px;background:#1c2438;padding:12px;border-radius:8px;max-height:400px;overflow-y:auto}
 </style></head>
 <body>
-<h1>📺 Hoc tu YouTube</h1>
-<textarea id="links" placeholder="Dan link YouTube, moi dong 1 link"></textarea>
-<button id="btn">Bat dau hoc</button>
+<h1>Learn from YouTube</h1>
+<textarea id="links" placeholder="Paste link YouTube"></textarea>
+<button id="btn">Start</button>
 <div id="out"></div>
 <script>
 const btn=document.getElementById('btn'), out=document.getElementById('out');
 btn.onclick=async()=>{
   const links=document.getElementById('links').value.split('\\n').map(s=>s.trim()).filter(Boolean);
-  if(!links.length){ out.textContent='Thieu link.'; return; }
-  btn.disabled=true; out.textContent='Dang xu ly...';
+  if(!links.length){ out.textContent='Missing link.'; return; }
+  btn.disabled=true; out.textContent='Processing...';
   try{
     const res=await fetch('/admin/learn',{method:'POST',headers:{'Content-Type':'application/json'},body:JSON.stringify({links})});
     const data=await res.json();
     out.textContent=data.results.map(r=>`[${r.status}] ${r.link}\\n${r.detail}`).join('\\n\\n');
-  }catch(e){ out.textContent='Loi: '+e; }
+  }catch(e){ out.textContent='Error: '+e; }
   btn.disabled=false;
 };
 </script>
