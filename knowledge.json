@@ -1,0 +1,1915 @@
+{
+  "products": [
+    {
+      "name": "AOD9604",
+      "category": "Lose Fat",
+      "description_en": "AOD9604 is a modified fragment of human growth hormone (amino acids 177-191 of hGH), designed to retain fat-metabolizing effects without the blood sugar or tissue-growth effects of full-length hGH. It is commonly researched for its potential to promote lipolysis (fat breakdown) and inhibit new fat accumulation. This makes it a popular compound in weight management and fat-loss research.",
+      "description_vi": "AOD9604 là một đoạn peptide biến đổi từ vùng axit amin 177-191 của hormone tăng trưởng người (hGH), được thiết kế để giữ lại tác dụng chuyển hóa mỡ mà không ảnh hưởng đến đường huyết hay tăng trưởng mô như hGH đầy đủ. Peptide này thường được nghiên cứu về khả năng thúc đẩy quá trình phân giải mỡ (lipolysis) và ức chế tích tụ mỡ mới. Đây là lựa chọn phổ biến trong các nghiên cứu về giảm cân và kiểm soát cân nặng.",
+      "reconstitution_en": "Commonly reconstituted with 2mL of Bacteriostatic Water to yield a concentration of approximately 5mg/mL.",
+      "reconstitution_vi": "Thường được pha với 2ml nước Bacteriostatic Water để đạt nồng độ khoảng 5mg/ml.",
+      "usage_frequency_en": "AOD9604 is commonly researched at once-daily subcutaneous dosing, typically taken in the morning on an empty stomach, often over cycles of several weeks.",
+      "usage_frequency_vi": "AOD9604 thường được nghiên cứu với tần suất một lần mỗi ngày, thường vào buổi sáng khi bụng đói, theo các đợt kéo dài vài tuần.",
+      "benefits_en": [
+        "Commonly researched for stimulating fat breakdown (lipolysis) in adipose tissue",
+        "May help inhibit the formation of new fat cells (lipogenesis)",
+        "Does not appear to significantly affect blood sugar or IGF-1 levels, unlike full-length HGH",
+        "Studied as part of body-recomposition and weight-management research",
+        "Often used in research alongside diet/exercise protocols for fat-loss studies"
+      ],
+      "benefits_vi": [
+        "Thường được nghiên cứu về khả năng thúc đẩy phân giải mỡ (lipolysis) trong mô mỡ",
+        "Có thể giúp ức chế hình thành tế bào mỡ mới (lipogenesis)",
+        "Dường như không ảnh hưởng đáng kể đến đường huyết hay IGF-1 như HGH đầy đủ",
+        "Được nghiên cứu trong các chương trình tái cấu trúc cơ thể và kiểm soát cân nặng",
+        "Thường được dùng trong nghiên cứu kết hợp với chế độ ăn/tập luyện cho mục tiêu giảm mỡ"
+      ],
+      "slug": "/aod9604",
+      "active": true,
+      "featured": true,
+      "variants": [
+        {
+          "dose": "10mg",
+          "sku": "AOD9604-10MG",
+          "price": 142.0,
+          "stock": 100,
+          "low_at": 5
+        }
+      ],
+      "order_url": "https://pacificpeptidesciences.com/product/aod9604",
+      "tagline_en": "C-terminal hGH fragment. Lipolytic without GH side effects.",
+      "official_short_en": "Modified fragment of growth hormone (residues 176–191). Stimulates lipolysis and inhibits lipogenesis without affecting blood glucose or IGF-1.",
+      "official_long_en": "AOD9604 isolates the fat-mobilizing region of human growth hormone. It activates β3-adrenergic receptors in adipose tissue and is widely studied as a body-recomposition compound.",
+      "mechanism_en": "β3-adrenergic stimulation in adipocytes.",
+      "protocol_en": [
+        "250–500 mcg subcutaneous, once daily, fasted AM.",
+        "Cycle: 12 weeks on, 4 weeks off. Rotate injection sites."
+      ],
+      "half_life": "~30 minutes",
+      "official_reconstitution_en": "Add 2 mL bacteriostatic water to the 10 mg vial. Each 0.05 mL = 250 mcg.",
+      "official_storage_en": "Lyophilized: 2–8 °C. Reconstituted: 2–8 °C, use within 30 days.",
+      "specs": [
+        {
+          "label": "Molecular Weight",
+          "value": "1815.1 g/mol"
+        },
+        {
+          "label": "Sequence Length",
+          "value": "16 amino acids"
+        },
+        {
+          "label": "CAS Number",
+          "value": "221231-10-3"
+        },
+        {
+          "label": "Synonyms",
+          "value": "hGH 176-191 analog"
+        }
+      ]
+    },
+    {
+      "name": "Bacteriostatic Water",
+      "category": "Supplies",
+      "description_en": "This is not a peptide but a sterile diluent containing 0.9% benzyl alcohol as an antimicrobial preservative, used to reconstitute lyophilized (freeze-dried) peptide powders before use in research. The benzyl alcohol inhibits bacterial growth, which is why vendors commonly cite reconstituted vials as usable for up to about 28 days refrigerated, versus a much shorter window with plain sterile water. It is a supporting supply item with no biological activity of its own.",
+      "description_vi": "Đây không phải là một peptide mà là dung môi vô trùng chứa 0.9% benzyl alcohol có tác dụng kháng khuẩn, dùng để pha loãng (reconstitute) các loại peptide dạng bột đông khô trước khi sử dụng trong nghiên cứu. Nhờ benzyl alcohol ức chế vi khuẩn, các nhà cung cấp thường ghi nhận lọ đã pha có thể dùng được đến khoảng 28 ngày nếu bảo quản lạnh, lâu hơn nhiều so với dùng nước cất thông thường. Sản phẩm này là vật tư hỗ trợ đi kèm, không có tác dụng sinh học riêng.",
+      "benefits_en": [
+        "Provides a sterile, consistent way to reconstitute lyophilized peptides",
+        "Benzyl alcohol content helps inhibit bacterial growth, extending usable time of a mixed vial versus plain water",
+        "Reduces contamination risk compared to non-sterile diluents",
+        "Allows more precise control over final peptide concentration (mg/mL)",
+        "Multi-use vial format supports reconstituting several peptide vials from one bottle"
+      ],
+      "benefits_vi": [
+        "Cung cấp cách pha chế vô trùng, ổn định cho peptide dạng bột đông khô",
+        "Thành phần benzyl alcohol giúp ức chế vi khuẩn, kéo dài thời gian sử dụng lọ đã pha so với nước thường",
+        "Giảm nguy cơ nhiễm khuẩn so với dung môi không vô trùng",
+        "Cho phép kiểm soát chính xác hơn nồng độ peptide cuối cùng (mg/ml)",
+        "Dạng lọ nhiều lần dùng giúp pha được nhiều lọ peptide từ một chai"
+      ],
+      "slug": "/bac-water",
+      "active": true,
+      "featured": true,
+      "variants": [
+        {
+          "dose": "10ml",
+          "sku": "BAC-WATER-10ML",
+          "price": 12.0,
+          "stock": 100,
+          "low_at": 5
+        },
+        {
+          "dose": "3ml",
+          "sku": "BAC-WATER-3ML",
+          "price": 8.0,
+          "stock": 96,
+          "low_at": 5
+        }
+      ],
+      "order_url": "https://pacificpeptidesciences.com/product/bac-water",
+      "tagline_en": "0.9% benzyl-alcohol sterile water. Reconstitution standard.",
+      "official_short_en": "Sterile water with 0.9% benzyl alcohol as bacteriostatic preservative. Standard reconstitution diluent for lyophilized peptides.",
+      "official_long_en": "Bacteriostatic water keeps reconstituted peptides stable for up to 30 days at refrigeration. Required for any lyophilized vial protocol.",
+      "mechanism_en": "Reconstitution diluent.",
+      "protocol_en": [
+        "Use per peptide reconstitution instructions."
+      ],
+      "half_life": "n/a",
+      "official_reconstitution_en": "n/a",
+      "official_storage_en": "Room temperature. Discard 28 days after first puncture.",
+      "specs": [
+        {
+          "label": "Composition",
+          "value": "Sterile water + 0.9% benzyl alcohol"
+        },
+        {
+          "label": "Use",
+          "value": "Peptide reconstitution diluent"
+        },
+        {
+          "label": "Shelf life (sealed)",
+          "value": "24 months"
+        },
+        {
+          "label": "Shelf life (opened)",
+          "value": "28 days"
+        }
+      ]
+    },
+    {
+      "name": "BPC-157",
+      "category": "Recovery",
+      "description_en": "BPC-157 (Body Protection Compound-157) is a 15-amino-acid peptide derived from a partial sequence of a protein found in human gastric juice. It is commonly researched for its potential to support soft tissue, tendon, and ligament repair, gut lining recovery, and the formation of new blood vessels (angiogenesis). It is one of the most widely studied peptides in the recovery and gut-health research space.",
+      "description_vi": "BPC-157 (Body Protection Compound-157) là một peptide gồm 15 axit amin, có nguồn gốc từ một đoạn protein được tìm thấy trong dịch vị dạ dày người. Peptide này thường được nghiên cứu về khả năng hỗ trợ phục hồi mô mềm, gân, dây chằng và niêm mạc tiêu hóa, cũng như thúc đẩy quá trình hình thành mạch máu mới (angiogenesis). Đây là một trong những peptide phổ biến nhất trong lĩnh vực nghiên cứu phục hồi chấn thương và sức khỏe đường ruột.",
+      "reconstitution_en": "Commonly reconstituted with 2mL of Bacteriostatic Water to yield a concentration of approximately 5mg/mL.",
+      "reconstitution_vi": "Thường được pha với 2ml nước Bacteriostatic Water để đạt nồng độ khoảng 5mg/ml.",
+      "usage_frequency_en": "BPC-157 is commonly researched at once- or twice-daily dosing, often for several weeks at a time.",
+      "usage_frequency_vi": "BPC-157 thường được nghiên cứu với tần suất một hoặc hai lần mỗi ngày, kéo dài trong vài tuần.",
+      "benefits_en": [
+        "Commonly researched for supporting healing of tendons, ligaments, and muscle tissue",
+        "Studied for promoting formation of new blood vessels (angiogenesis) in injured areas",
+        "Researched for supporting gut lining integrity and digestive comfort",
+        "May support modulation of local inflammation during tissue repair",
+        "Frequently studied in combination with other recovery peptides such as TB-500"
+      ],
+      "benefits_vi": [
+        "Thường được nghiên cứu về hỗ trợ lành gân, dây chằng và mô cơ",
+        "Được nghiên cứu về khả năng thúc đẩy hình thành mạch máu mới (angiogenesis) tại vùng tổn thương",
+        "Được nghiên cứu về hỗ trợ niêm mạc đường tiêu hóa và sự thoải mái tiêu hóa",
+        "Có thể hỗ trợ điều hòa viêm tại chỗ trong quá trình phục hồi mô",
+        "Thường được nghiên cứu kết hợp với các peptide phục hồi khác như TB-500"
+      ],
+      "slug": "/bpc-157",
+      "active": true,
+      "featured": true,
+      "variants": [
+        {
+          "dose": "10mg",
+          "sku": "BPC-157-10MG",
+          "price": 76.0,
+          "stock": 99,
+          "low_at": 5
+        }
+      ],
+      "order_url": "https://pacificpeptidesciences.com/product/bpc-157",
+      "tagline_en": "Body Protection Compound. The default systemic-repair peptide.",
+      "official_short_en": "15-amino-acid fragment from gastric juice BPC. Promotes angiogenesis at injury sites and accelerates tendon-to-bone healing.",
+      "official_long_en": "BPC-157 is a partial sequence of body protection compound. It upregulates VEGFR2 and promotes microvascular formation around damaged tissue.",
+      "mechanism_en": "VEGFR2 upregulation; nitric oxide pathway modulation.",
+      "protocol_en": [
+        "250 mcg subcutaneous near the area of interest, 1–2× daily.",
+        "Loading phase: 2–4 weeks daily; maintenance: 2–3× weekly.",
+        "Rotate injection sites."
+      ],
+      "half_life": "~4 hours",
+      "official_reconstitution_en": "Add 2 mL bacteriostatic water to the 10 mg vial. Each 0.05 mL = 250 mcg.",
+      "official_storage_en": "Lyophilized: room temp. Reconstituted: 2–8 °C, use within 30 days.",
+      "specs": [
+        {
+          "label": "Molecular Weight",
+          "value": "1419.55 g/mol"
+        },
+        {
+          "label": "Sequence Length",
+          "value": "15 amino acids"
+        },
+        {
+          "label": "CAS Number",
+          "value": "137525-51-0"
+        },
+        {
+          "label": "Synonyms",
+          "value": "Body Protection Compound 157, PL 14736"
+        }
+      ],
+      "cycling_en": "Cycles are commonly run for 4-8 weeks (up to 12-16 weeks for slower-healing research targets or blends), with an off period commonly at least as long as the cycle just completed -- in practice this allows for roughly 2-3 full cycles per year rather than continuous year-round use.",
+      "cycling_vi": "Chu ky thuong keo dai 4-8 tuan (co the toi 12-16 tuan voi muc tieu phuc hoi cham hoac dang blend), va thoi gian nghi thuong it nhat bang thoi gian chu ky vua dung -- tren thuc te, cach nay cho phep khoang 2-3 chu ky day du moi nam thay vi dung lien tuc quanh nam."
+    },
+    {
+      "name": "CJC-1295 / Ipamorelin",
+      "category": "Build Muscle",
+      "description_en": "CJC-1295 is a long-acting growth hormone-releasing hormone (GHRH) analog, often paired with Ipamorelin, a highly selective ghrelin-receptor agonist (GHRP). The combination is commonly researched for its ability to stimulate the pituitary gland to release growth hormone in a natural, pulsatile pattern, supporting lean muscle development and post-workout recovery. This is a popular duo in muscle-building and body-composition research.",
+      "description_vi": "CJC-1295 là chất tương tự hormone giải phóng GH (GHRH) có thời gian bán hủy kéo dài, thường được kết hợp với Ipamorelin - một peptide chủ vận thụ thể ghrelin (GHRP) có tính chọn lọc cao. Sự kết hợp này được nghiên cứu về khả năng kích thích tuyến yên tiết hormone tăng trưởng (GH) tự nhiên theo nhịp sinh lý, hỗ trợ phát triển khối cơ nạc và phục hồi sau tập luyện. Đây là bộ đôi phổ biến trong các nghiên cứu về xây dựng cơ bắp và cải thiện thành phần cơ thể.",
+      "reconstitution_en": "Commonly reconstituted with 2mL of Bacteriostatic Water to yield a combined concentration of approximately 5mg/mL.",
+      "reconstitution_vi": "Thường được pha với 2ml nước Bacteriostatic Water để đạt nồng độ tổng khoảng 5mg/ml.",
+      "usage_frequency_en": "This combination is commonly researched as a once-daily dose taken before bed, often used 5-6 days per week with rest days built in.",
+      "usage_frequency_vi": "Bộ đôi này thường được nghiên cứu với tần suất một lần mỗi ngày trước khi ngủ, thường dùng 5-6 ngày/tuần kèm ngày nghỉ.",
+      "benefits_en": [
+        "Commonly researched for stimulating natural, pulsatile growth hormone release",
+        "Studied for supporting lean muscle mass development",
+        "May support improved recovery and sleep quality",
+        "Researched for potential body-composition improvements (lower fat, more lean mass)",
+        "Ipamorelin's receptor selectivity is studied for triggering GH release without significantly raising cortisol or appetite hormones"
+      ],
+      "benefits_vi": [
+        "Thường được nghiên cứu về kích thích giải phóng hormone tăng trưởng tự nhiên theo nhịp",
+        "Được nghiên cứu về hỗ trợ phát triển khối cơ nạc",
+        "Có thể hỗ trợ cải thiện phục hồi và chất lượng giấc ngủ",
+        "Được nghiên cứu về cải thiện thành phần cơ thể (giảm mỡ, tăng cơ)",
+        "Tính chọn lọc thụ thể của Ipamorelin được nghiên cứu giúp kích GH mà không tăng đáng kể cortisol hay hormone đói"
+      ],
+      "slug": "/cjc-1295-ipamorelin",
+      "active": true,
+      "featured": true,
+      "variants": [
+        {
+          "dose": "10mg",
+          "sku": "CJC-1295-IPAMORELIN-10MG",
+          "price": 99.0,
+          "stock": 98,
+          "low_at": 5
+        }
+      ],
+      "order_url": "https://pacificpeptidesciences.com/product/cjc-1295-ipamorelin",
+      "tagline_en": "Pre-blended GHRH + GHRP. The cleanest endogenous GH pulse.",
+      "official_short_en": "Pre-blended CJC-1295 (no DAC) and Ipamorelin. CJC drives the GHRH side; ipamorelin selectively triggers the ghrelin receptor without cortisol spillover.",
+      "official_long_en": "The standard research blend for IGF-1 elevation without endocrine side effects. CJC-1295 no DAC is a tetrasubstituted GHRH analog with a ~30 minute half-life; ipamorelin is the most selective GHRP available, with no measurable rise in ACTH, cortisol, or prolactin.",
+      "mechanism_en": "GHRH analog + selective GHRP ghrelin agonist.",
+      "protocol_en": [
+        "100 mcg + 100 mcg subcutaneous, fasted, 1–3× daily.",
+        "Pre-sleep dose commonly emphasized to preserve nocturnal GH pulse.",
+        "Cycle: 12 weeks on, 4 weeks off."
+      ],
+      "half_life": "CJC ~30 min; Ipamorelin ~2 hours",
+      "official_reconstitution_en": "Add 2 mL bacteriostatic water to the 10 mg blend. Each 0.02 mL = 100/100 mcg.",
+      "official_storage_en": "Lyophilized: 2–8 °C. Reconstituted: 2–8 °C, use within 30 days.",
+      "specs": [
+        {
+          "label": "Composition",
+          "value": "5 mg CJC-1295 no DAC + 5 mg Ipamorelin"
+        },
+        {
+          "label": "CJC-1295 (no DAC)",
+          "value": "MW 3367.85 g/mol · 29 AA · CAS 863288-34-0"
+        },
+        {
+          "label": "Ipamorelin",
+          "value": "MW 711.85 g/mol · 5 AA · CAS 170851-70-4"
+        },
+        {
+          "label": "Purity",
+          "value": "99%+ HPLC"
+        }
+      ],
+      "cycling_en": "Commonly cycled 8-12 weeks on, then about 4 weeks off. Continuous, uninterrupted use of GH-secretagogues is commonly linked to reduced pituitary/receptor responsiveness (tachyphylaxis) over time, which cycling is meant to help avoid.",
+      "cycling_vi": "Thuong dung theo chu ky 8-12 tuan roi nghi khoang 4 tuan. Dung lien tuc khong nghi cac hop chat kich GH nhom nay thuong duoc cho la co the lam giam do nhay cua tuyen yen/thu the theo thoi gian (tachyphylaxis), day la ly do can chu ky nghi."
+    },
+    {
+      "name": "Epithalon",
+      "category": "Longevity",
+      "description_en": "Epithalon is a synthetic tetrapeptide (Ala-Glu-Asp-Gly) based on the pineal peptide research of Russian scientist Vladimir Khavinson. It is commonly researched for its potential to activate telomerase enzyme activity, support circadian rhythm regulation, and possibly slow certain markers of cellular aging. Epithalon is of primary interest in anti-aging and longevity research.",
+      "description_vi": "Epithalon là một tetrapeptide tổng hợp (Ala-Glu-Asp-Gly) dựa trên nghiên cứu của nhà khoa học Nga Vladimir Khavinson về peptide tuyến tùng. Peptide này thường được nghiên cứu về khả năng kích hoạt enzyme telomerase, hỗ trợ điều hòa nhịp sinh học và có thể góp phần làm chậm một số dấu hiệu lão hóa tế bào. Epithalon được quan tâm chủ yếu trong lĩnh vực nghiên cứu chống lão hóa và kéo dài tuổi thọ (longevity).",
+      "reconstitution_en": "Commonly reconstituted with 5mL of Bacteriostatic Water to yield a concentration of approximately 10mg/mL.",
+      "reconstitution_vi": "Thường được pha với 5ml nước Bacteriostatic Water để đạt nồng độ khoảng 10mg/ml.",
+      "usage_frequency_en": "Epithalon is commonly researched in short, intensive daily-dosing courses of about 10-20 consecutive days, repeated only 2-3 times per year with months of rest between courses - a very different pattern from peptides dosed continuously.",
+      "usage_frequency_vi": "Epithalon thường được nghiên cứu theo dạng đợt ngắn, dùng hàng ngày liên tục khoảng 10-20 ngày, lặp lại 2-3 lần mỗi năm với nhiều tháng nghỉ giữa các đợt - khác với đa số peptide khác thường dùng liên tục.",
+      "benefits_en": [
+        "Studied for potential telomerase-activating effects relevant to cellular aging",
+        "Researched for supporting circadian rhythm and sleep-wake regulation",
+        "Investigated as part of anti-aging and longevity-focused research protocols",
+        "Some research explores effects on antioxidant status and pineal gland function",
+        "Notable for a cyclical, short-course usage pattern distinct from most peptides"
+      ],
+      "benefits_vi": [
+        "Được nghiên cứu về khả năng kích hoạt telomerase liên quan đến lão hóa tế bào",
+        "Được nghiên cứu về hỗ trợ điều hòa nhịp sinh học và chu kỳ ngủ-thức",
+        "Được nghiên cứu trong các chương trình chống lão hóa và kéo dài tuổi thọ",
+        "Một số nghiên cứu xem xét tác động lên tình trạng chống oxy hóa và chức năng tuyến tùng",
+        "Nổi bật với mô hình sử dụng theo đợt ngắn, khác với đa số peptide khác"
+      ],
+      "slug": "/epithalon",
+      "active": true,
+      "featured": true,
+      "variants": [
+        {
+          "dose": "50mg",
+          "sku": "EPITHALON-50MG",
+          "price": 150.0,
+          "stock": 100,
+          "low_at": 5
+        }
+      ],
+      "order_url": "https://pacificpeptidesciences.com/product/epithalon",
+      "tagline_en": "Tetrapeptide telomerase modulator. Russian longevity research staple.",
+      "official_short_en": "Synthetic version of Epithalamin, isolated from pineal extract. Long-running Russian gerontology data suggests telomerase upregulation.",
+      "official_long_en": "Epithalon (Ala-Glu-Asp-Gly) is the synthetic peptide form of Epithalamin. The St. Petersburg cohort data is among the most extensive longevity datasets for any peptide.",
+      "mechanism_en": "Telomerase upregulation; circadian / pineal modulation.",
+      "protocol_en": [
+        "5–10 mg subcutaneous, once daily, for a 10–20 day cycle.",
+        "Repeat the cycle 1–2× per year in longevity-research framing."
+      ],
+      "half_life": "~30 minutes (effects cumulative)",
+      "official_reconstitution_en": "Add 5 mL bacteriostatic water to the 50 mg vial. Each 0.5 mL = 5 mg.",
+      "official_storage_en": "Lyophilized: room temp. Reconstituted: 2–8 °C, use within 14 days.",
+      "specs": [
+        {
+          "label": "Molecular Weight",
+          "value": "390.35 g/mol"
+        },
+        {
+          "label": "Sequence",
+          "value": "Ala-Glu-Asp-Gly (4 AA)"
+        },
+        {
+          "label": "CAS Number",
+          "value": "307297-39-8"
+        },
+        {
+          "label": "Synonyms",
+          "value": "Epitalon, AEDG"
+        }
+      ],
+      "cycling_en": "Commonly run as very short courses (e.g. 10 consecutive nightly doses) followed by an extended break of roughly several months, with some sources citing a practical maximum of about 3 short courses per year given this pattern.",
+      "cycling_vi": "Thuong dung theo dot rat ngan (vi du 10 dem lien tiep) roi nghi mot khoang dai vai thang, mot so nguon de cap muc toi da thuc te khoang 3 dot ngan moi nam theo kieu su dung nay."
+    },
+    {
+      "name": "GHK-Cu",
+      "category": "Wellness",
+      "description_en": "GHK-Cu is a copper-bound tripeptide complex (glycyl-L-histidyl-L-lysine) first isolated from human plasma in 1973. It is commonly researched for its role in collagen remodeling, wound healing, skin elasticity, and antioxidant activity. GHK-Cu fits research interests around skin care, tissue repair, and general wellness.",
+      "description_vi": "GHK-Cu là phức hợp tripeptide glycyl-L-histidyl-L-lysine gắn với ion đồng, được phân lập lần đầu từ huyết tương người vào năm 1973. Peptide này thường được nghiên cứu về vai trò trong tái tạo collagen, làm lành vết thương, cải thiện độ đàn hồi da và chống oxy hóa. GHK-Cu phù hợp với các nghiên cứu về chăm sóc da, phục hồi mô và sức khỏe tổng quát (wellness).",
+      "reconstitution_en": "Commonly reconstituted with 10mL of Bacteriostatic Water to yield a concentration of approximately 10mg/mL.",
+      "reconstitution_vi": "Thường được pha với 10ml nước Bacteriostatic Water để đạt nồng độ khoảng 10mg/ml.",
+      "usage_frequency_en": "GHK-Cu is commonly researched at once-daily dosing or spread across 2-3 times per week, often in cycles such as 30 days on/14 days off; topical forms are typically applied once or twice daily.",
+      "usage_frequency_vi": "GHK-Cu thường được nghiên cứu với tần suất một lần mỗi ngày hoặc 2-3 lần mỗi tuần, theo chu kỳ như 30 ngày dùng/14 ngày nghỉ; dạng bôi ngoài da thường dùng 1-2 lần mỗi ngày.",
+      "benefits_en": [
+        "Widely researched for stimulating collagen and elastin production in skin",
+        "Studied for wound-healing and tissue-remodeling properties",
+        "Researched for antioxidant and anti-inflammatory effects",
+        "Investigated for potential hair-growth-supporting properties",
+        "Popular in both topical skincare and injectable wellness research"
+      ],
+      "benefits_vi": [
+        "Được nghiên cứu rộng rãi về kích thích sản xuất collagen và elastin cho da",
+        "Được nghiên cứu về đặc tính làm lành vết thương và tái tạo mô",
+        "Được nghiên cứu về tác dụng chống oxy hóa và kháng viêm",
+        "Được nghiên cứu về khả năng hỗ trợ mọc tóc",
+        "Phổ biến cả trong nghiên cứu dưỡng da tại chỗ lẫn dạng tiêm cho sức khỏe tổng quát"
+      ],
+      "slug": "/ghk-cu",
+      "active": true,
+      "featured": true,
+      "variants": [
+        {
+          "dose": "100mg",
+          "sku": "GHK-CU-100MG",
+          "price": 69.0,
+          "stock": 100,
+          "low_at": 5
+        }
+      ],
+      "order_url": "https://pacificpeptidesciences.com/product/ghk-cu",
+      "tagline_en": "Copper tripeptide. Skin, scalp, and connective-tissue research.",
+      "official_short_en": "Naturally occurring copper-binding tripeptide that drops in plasma after age 60.",
+      "official_long_en": "GHK-Cu is a copper-bound tripeptide found endogenously in plasma. It upregulates over 4,000 genes associated with tissue maintenance.",
+      "mechanism_en": "Copper transport; gene expression modulation.",
+      "protocol_en": [
+        "2–5 mg subcutaneous, once daily, 5 days per week (2 days off).",
+        "Rotate injection sites; protect reconstituted solution from light."
+      ],
+      "half_life": "~2 hours subcutaneous",
+      "official_reconstitution_en": "Add 5 mL bacteriostatic water to the 100 mg vial. Each 0.1 mL = 2 mg.",
+      "official_storage_en": "Lyophilized: room temp. Reconstituted: 2–8 °C, use within 30 days.",
+      "specs": [
+        {
+          "label": "Molecular Weight",
+          "value": "340.85 g/mol (Cu-bound)"
+        },
+        {
+          "label": "Sequence",
+          "value": "Gly-His-Lys + Cu²⁺ (3 AA)"
+        },
+        {
+          "label": "CAS Number",
+          "value": "89030-95-5"
+        },
+        {
+          "label": "Synonyms",
+          "value": "Copper tripeptide-1, GHK-Copper"
+        }
+      ],
+      "cycling_en": "Commonly cycled in shorter blocks such as 30 days on / 14 days off (roughly 8-9 such cycles could fit in a year), though some protocols use longer 8-12 weeks on / 4 weeks off blocks (about 3-4 cycles per year). Cycling is commonly cited as helping maintain receptor sensitivity and limiting cumulative copper exposure, rather than dosing continuously year-round.",
+      "cycling_vi": "Thuong dung theo chu ky ngan hon nhu 30 ngay dung/14 ngay nghi (co the lap khoang 8-9 chu ky nhu vay trong 1 nam), du mot so protocol dung chu ky dai hon 8-12 tuan dung/4 tuan nghi (khoang 3-4 chu ky/nam). Viec chia chu ky thuong duoc cho la giup duy tri do nhay thu the va han che tich luy dong trong co the, thay vi dung lien tuc quanh nam."
+    },
+    {
+      "name": "GLOW",
+      "category": "Recovery",
+      "description_en": "GLOW is a widely sold peptide blend combining GHK-Cu, BPC-157, and TB-500 in a single vial at a set ratio. The combination is commonly researched to leverage the tissue-repair, injury-recovery, and collagen/skin-quality effects associated with each individual component. This product is typically of interest to those researching recovery and skin-related ('glow') outcomes.",
+      "description_vi": "GLOW là một blend (hỗn hợp) peptide phổ biến gồm GHK-Cu, BPC-157 và TB-500, thường được pha theo tỷ lệ nhất định trong cùng một lọ. Sự kết hợp này được nghiên cứu nhằm tận dụng đồng thời tác dụng tái tạo mô, phục hồi tổn thương và cải thiện chất lượng da/collagen của từng thành phần. Sản phẩm này thường được các nhóm nghiên cứu về phục hồi và làm đẹp da (glow/skin) quan tâm.",
+      "reconstitution_en": "This blend vial (approx. 50mg total peptide content) is commonly reconstituted with 2mL of Bacteriostatic Water, yielding roughly 25mg/mL of combined peptide.",
+      "reconstitution_vi": "Lọ blend này (tổng khoảng 50mg peptide) thường được pha với 2ml nước Bacteriostatic Water, cho nồng độ tổng khoảng 25mg/ml.",
+      "usage_frequency_en": "As a blend of GHK-Cu, BPC-157, and TB-500, GLOW is commonly researched following a similar pattern to its components - roughly daily to a few times per week - typically over multi-week cycles.",
+      "usage_frequency_vi": "Là blend của GHK-Cu, BPC-157 và TB-500, GLOW thường được nghiên cứu theo tần suất tương tự các thành phần - khoảng hàng ngày đến vài lần mỗi tuần - thường theo các đợt kéo dài nhiều tuần.",
+      "benefits_en": [
+        "Combines three well-studied peptides (GHK-Cu, BPC-157, TB-500) in one blend",
+        "Researched for supporting tissue repair and injury recovery",
+        "Studied for skin quality and collagen-related benefits (the 'glow' effect)",
+        "May support faster recovery across combined soft-tissue and skin-focused research goals",
+        "Offers single-vial convenience for researching multiple mechanisms at once"
+      ],
+      "benefits_vi": [
+        "Kết hợp ba peptide được nghiên cứu nhiều (GHK-Cu, BPC-157, TB-500) trong một blend",
+        "Được nghiên cứu về hỗ trợ phục hồi mô và lành chấn thương",
+        "Được nghiên cứu về chất lượng da và lợi ích liên quan collagen (hiệu ứng 'glow')",
+        "Có thể hỗ trợ phục hồi nhanh hơn khi kết hợp cả mục tiêu mô mềm và da",
+        "Mang lại sự tiện lợi khi nghiên cứu nhiều cơ chế trong một lọ duy nhất"
+      ],
+      "slug": "/glow",
+      "active": true,
+      "featured": true,
+      "variants": [
+        {
+          "dose": "Blend Vial",
+          "sku": "GLOW-BLENDVIAL",
+          "price": 160.0,
+          "stock": 100,
+          "low_at": 5
+        }
+      ],
+      "order_url": "https://pacificpeptidesciences.com/product/glow",
+      "tagline_en": "Three-peptide skin and connective-tissue stack. BPC-157, GHK-Cu, TB-500.",
+      "official_short_en": "Pre-blended cosmetic-recovery cocktail: BPC-157 10 mg, GHK-Cu 50 mg, TB-500 10 mg in one vial. Optimized for skin remodeling, hair, and visible tissue quality.",
+      "official_long_en": "GLOW combines the three peptides most studied for skin and connective tissue. GHK-Cu carries copper into fibroblasts and upregulates collagen and elastin. BPC-157 drives microvasculature into the dermis. TB-500 supports the cellular migration phase of remodeling.",
+      "mechanism_en": "Collagen/elastin upregulation, angiogenesis, stem-cell migration.",
+      "protocol_en": [
+        "0.2 mL subcutaneous, once daily for 4–6 weeks.",
+        "Maintenance: 2–3× weekly. Rotate injection sites."
+      ],
+      "half_life": "Mixed: hours per component",
+      "official_reconstitution_en": "Add 2 mL bacteriostatic water to the blend vial.",
+      "official_storage_en": "Lyophilized: 2–8 °C. Reconstituted: 2–8 °C, use within 21 days.",
+      "specs": [
+        {
+          "label": "Composition",
+          "value": "BPC-157 10 mg · GHK-Cu 50 mg · TB-500 10 mg"
+        },
+        {
+          "label": "Total Mass",
+          "value": "70 mg per vial"
+        },
+        {
+          "label": "Purity",
+          "value": "99%+ HPLC per component"
+        },
+        {
+          "label": "Application",
+          "value": "Skin & connective tissue research"
+        }
+      ]
+    },
+    {
+      "name": "HGH",
+      "category": "Build Muscle",
+      "description_en": "HGH (Human Growth Hormone) is recombinant human growth hormone, playing a central role in muscle development, bone density, and tissue regeneration. It is commonly researched for its potential to boost protein synthesis, increase lean muscle mass, and support recovery after intense training. It is one of the most closely studied compounds in muscle-building and physique research.",
+      "description_vi": "HGH (Human Growth Hormone) là hormone tăng trưởng người dạng tái tổ hợp, đóng vai trò trung tâm trong phát triển cơ bắp, mật độ xương và tái tạo mô. HGH thường được nghiên cứu về khả năng thúc đẩy tổng hợp protein, tăng khối lượng cơ nạc và hỗ trợ phục hồi sau tập luyện cường độ cao. Đây là một trong những hợp chất được quan tâm nhiều nhất trong lĩnh vực nghiên cứu xây dựng cơ bắp và thể hình.",
+      "reconstitution_en": "Commonly reconstituted with 1mL to 1.5mL of Bacteriostatic Water, yielding roughly 10-15mg/mL depending on the preferred working concentration.",
+      "reconstitution_vi": "Thường được pha với 1-1.5ml nước Bacteriostatic Water, cho nồng độ khoảng 10-15mg/ml tùy theo mức pha loãng mong muốn.",
+      "usage_frequency_en": "HGH is commonly researched at once-daily subcutaneous dosing, administered either in the morning or before bed depending on the intended goal, typically over multi-week cycles.",
+      "usage_frequency_vi": "HGH thường được nghiên cứu với tần suất một lần mỗi ngày, tiêm vào buổi sáng hoặc trước khi ngủ tùy mục tiêu, thường theo các đợt kéo dài nhiều tuần.",
+      "benefits_en": [
+        "Central to research on muscle protein synthesis and lean mass growth",
+        "Studied for supporting bone density and tissue regeneration",
+        "Researched for fat-metabolism effects, particularly visceral fat",
+        "Investigated for recovery support after intense training",
+        "One of the most extensively studied compounds in the GH-related product category"
+      ],
+      "benefits_vi": [
+        "Trọng tâm trong nghiên cứu về tổng hợp protein cơ và tăng khối cơ nạc",
+        "Được nghiên cứu về hỗ trợ mật độ xương và tái tạo mô",
+        "Được nghiên cứu về tác động chuyển hóa mỡ, đặc biệt là mỡ nội tạng",
+        "Được nghiên cứu về hỗ trợ phục hồi sau tập luyện cường độ cao",
+        "Một trong những hợp chất được nghiên cứu nhiều nhất trong nhóm liên quan đến GH"
+      ],
+      "slug": "/hgh",
+      "active": true,
+      "featured": true,
+      "variants": [
+        {
+          "dose": "15mg",
+          "sku": "HGH-15MG",
+          "price": 68.0,
+          "stock": 100,
+          "low_at": 5
+        }
+      ],
+      "order_url": "https://pacificpeptidesciences.com/product/hgh",
+      "tagline_en": "Recombinant human growth hormone. 191-amino-acid somatropin.",
+      "official_short_en": "Recombinant 191-amino-acid somatropin, bio-identical to pituitary-secreted GH. Drives IGF-1 elevation, lipolysis, and connective-tissue support.",
+      "official_long_en": "Human Growth Hormone (somatropin) is the recombinant version of native pituitary GH. It binds the GHR to upregulate IGF-1 production in the liver and acts directly on adipocytes and connective tissue. Dosing in IU; 15 mg ≈ 45 IU.",
+      "mechanism_en": "Growth hormone receptor agonist.",
+      "protocol_en": [
+        "1–4 IU subcutaneous, once daily AM fasted (or split AM / pre-sleep).",
+        "Cycle: 12–16 weeks on, 4 weeks off. Rotate injection sites."
+      ],
+      "half_life": "~2–3 hours plasma; IGF-1 effects 24h+",
+      "official_reconstitution_en": "Add 1.5 mL bacteriostatic water to the 15 mg (45 IU) vial. Each 0.05 mL = 1.5 IU.",
+      "official_storage_en": "Lyophilized: 2–8 °C. Reconstituted: 2–8 °C, use within 21 days.",
+      "specs": [
+        {
+          "label": "Molecular Weight",
+          "value": "22125 g/mol (22.1 kDa)"
+        },
+        {
+          "label": "Sequence Length",
+          "value": "191 amino acids"
+        },
+        {
+          "label": "CAS Number",
+          "value": "12629-01-5"
+        },
+        {
+          "label": "Conversion",
+          "value": "15 mg ≈ 45 IU"
+        }
+      ],
+      "cycling_en": "As a GH-secretagogue-class compound, HGH is sometimes cycled (e.g. 8-12 weeks on, 4 weeks off) in research protocols, though many long-term protocols also use continuous dosing -- this varies more by individual research goal than other peptides in this class.",
+      "cycling_vi": "La hop chat thuoc nhom lien quan GH, HGH doi khi duoc dung theo chu ky (vi du 8-12 tuan dung, 4 tuan nghi) trong mot so protocol, nhung cung co nhieu protocol dai han dung lien tuc khong nghi -- dieu nay phu thuoc nhieu vao muc tieu nghien cuu cu the hon so voi cac peptide khac cung nhom."
+    },
+    {
+      "name": "IGF-1 LR3",
+      "category": "Build Muscle",
+      "description_en": "IGF-1 LR3 is a long-acting analog of Insulin-like Growth Factor 1, modified to reduce binding to blood transport proteins and extend its half-life. It is commonly researched for its potential to promote muscle cell proliferation and growth (hyperplasia/hypertrophy), supporting muscle mass development. IGF-1 LR3 fits deeper research interests in muscle building and muscle tissue recovery.",
+      "description_vi": "IGF-1 LR3 là một phiên bản kéo dài thời gian bán hủy của Insulin-like Growth Factor 1, được biến đổi để giảm gắn kết với protein vận chuyển trong máu. Peptide này thường được nghiên cứu về khả năng thúc đẩy tăng sinh và phì đại tế bào cơ (hyperplasia/hypertrophy), hỗ trợ phát triển khối cơ. IGF-1 LR3 phù hợp với các nghiên cứu chuyên sâu về xây dựng cơ bắp và phục hồi mô cơ.",
+      "reconstitution_en": "Commonly reconstituted with 1mL to 2mL of Bacteriostatic Water, yielding roughly 0.5-1mg/mL given the small total amount in the vial.",
+      "reconstitution_vi": "Thường được pha với 1-2ml nước Bacteriostatic Water, cho nồng độ khoảng 0.5-1mg/ml do tổng lượng peptide trong lọ khá nhỏ.",
+      "usage_frequency_en": "IGF-1 LR3 is commonly researched at daily or every-other-day dosing, owing to its relatively long duration of action, usually over cycles of several weeks.",
+      "usage_frequency_vi": "IGF-1 LR3 thường được nghiên cứu với tần suất hàng ngày hoặc cách ngày, do có thời gian tác dụng tương đối dài, thường theo các đợt kéo dài vài tuần.",
+      "benefits_en": [
+        "Researched for promoting muscle cell hyperplasia (new cell formation) and hypertrophy",
+        "Studied for supporting post-injury muscle tissue recovery",
+        "Its extended half-life is studied for allowing less frequent dosing while maintaining signaling",
+        "Investigated in muscle-building research as a complement to GH-axis peptides",
+        "Explored for potential nutrient-partitioning effects in research models"
+      ],
+      "benefits_vi": [
+        "Được nghiên cứu về thúc đẩy tăng sinh tế bào cơ (hyperplasia) và phì đại cơ (hypertrophy)",
+        "Được nghiên cứu về hỗ trợ phục hồi mô cơ sau chấn thương",
+        "Thời gian tác dụng kéo dài được nghiên cứu giúp giảm tần suất dùng mà vẫn duy trì tín hiệu",
+        "Được nghiên cứu trong xây dựng cơ bắp như một phần bổ sung cho các peptide trục GH",
+        "Được xem xét về tác động phân phối dinh dưỡng tiềm năng trong mô hình nghiên cứu"
+      ],
+      "slug": "/igf-1-lr3",
+      "active": true,
+      "featured": true,
+      "variants": [
+        {
+          "dose": "1mg",
+          "sku": "IGF-1-LR3-1MG",
+          "price": 169.0,
+          "stock": 100,
+          "low_at": 5
+        }
+      ],
+      "order_url": "https://pacificpeptidesciences.com/product/igf-1-lr3",
+      "tagline_en": "Long-arginine IGF-1. The direct anabolic downstream of GH.",
+      "official_short_en": "Receptor-grade IGF-1 analog with an N-terminal extension that resists binding-protein sequestration, increasing systemic half-life and tissue exposure.",
+      "official_long_en": "IGF-1 LR3 (Long R3 IGF-1) is the active mediator of growth-hormone signaling, modified for stability. It binds the IGF-1 receptor with high affinity to drive hypertrophy and tissue repair.",
+      "mechanism_en": "IGF-1 receptor agonist.",
+      "protocol_en": [
+        "20–50 mcg subcutaneous, once daily, timed post-training in research stacks.",
+        "4–6 days per week. Cycle: 4–6 weeks on, 4 weeks off."
+      ],
+      "half_life": "~20–30 hours",
+      "official_reconstitution_en": "Add 1 mL bacteriostatic water to the 1 mg vial. Each 0.02 mL = 20 mcg.",
+      "official_storage_en": "Lyophilized: 2–8 °C. Reconstituted: 2–8 °C, use within 14 days.",
+      "specs": [
+        {
+          "label": "Molecular Weight",
+          "value": "9111.27 g/mol"
+        },
+        {
+          "label": "Sequence Length",
+          "value": "83 amino acids"
+        },
+        {
+          "label": "CAS Number",
+          "value": "946870-92-4"
+        },
+        {
+          "label": "Synonyms",
+          "value": "Long R3 IGF-1"
+        }
+      ]
+    },
+    {
+      "name": "Kisspeptin-10",
+      "category": "Wellness",
+      "description_en": "Kisspeptin-10 is the shortest active fragment of the kisspeptin protein, which regulates the hypothalamic-pituitary-gonadal axis by stimulating GnRH release. It is commonly researched for its role in reproductive hormone balance, libido, and sexual function. It is a compound of interest in hormonal health and general wellness research.",
+      "description_vi": "Kisspeptin-10 là đoạn peptide hoạt tính ngắn nhất của protein kisspeptin, đóng vai trò điều hòa trục hạ đồi - tuyến yên - tuyến sinh dục thông qua kích thích giải phóng GnRH. Peptide này thường được nghiên cứu về vai trò trong cân bằng nội tiết sinh sản, ham muốn tình dục và chức năng sinh dục. Đây là hợp chất được quan tâm trong các nghiên cứu về sức khỏe nội tiết và wellness tổng quát.",
+      "reconstitution_en": "Commonly reconstituted with 2mL of Bacteriostatic Water to yield a concentration of approximately 5mg/mL.",
+      "reconstitution_vi": "Thường được pha với 2ml nước Bacteriostatic Water để đạt nồng độ khoảng 5mg/ml.",
+      "usage_frequency_en": "Kisspeptin-10 is commonly researched with once-daily dosing, though its very short half-life means some protocols use multiple doses per day or continuous infusion to sustain effects.",
+      "usage_frequency_vi": "Kisspeptin-10 thường được nghiên cứu với tần suất một lần mỗi ngày, tuy do thời gian bán hủy rất ngắn nên một số quy trình dùng nhiều liều trong ngày hoặc truyền liên tục để duy trì tác dụng.",
+      "benefits_en": [
+        "Studied for its central role in regulating the reproductive hormone axis (HPG axis)",
+        "Researched for supporting healthy GnRH/LH pulsatility",
+        "Investigated for potential effects on libido and sexual function",
+        "Explored in fertility-related and hormonal-balance research",
+        "Studied as a potential tool in post-cycle hormonal-recovery research"
+      ],
+      "benefits_vi": [
+        "Được nghiên cứu về vai trò trung tâm trong điều hòa trục nội tiết sinh sản (HPG)",
+        "Được nghiên cứu về hỗ trợ nhịp tiết GnRH/LH khỏe mạnh",
+        "Được nghiên cứu về tác động tiềm năng lên ham muốn và chức năng tình dục",
+        "Được nghiên cứu trong các chủ đề về khả năng sinh sản và cân bằng nội tiết",
+        "Được xem xét như công cụ tiềm năng cho nghiên cứu phục hồi nội tiết sau chu kỳ"
+      ],
+      "slug": "/kisspeptin-10",
+      "active": true,
+      "featured": true,
+      "variants": [
+        {
+          "dose": "10mg",
+          "sku": "KISSPEPTIN-10-10MG",
+          "price": 90.0,
+          "stock": 100,
+          "low_at": 5
+        }
+      ],
+      "order_url": "https://pacificpeptidesciences.com/product/kisspeptin-10",
+      "tagline_en": "Decapeptide upstream of GnRH. Endogenous HPG-axis research.",
+      "official_short_en": "C-terminal active fragment of kisspeptin. Triggers GnRH release and downstream LH/FSH; studied for fertility and hypogonadism.",
+      "official_long_en": "Kisspeptin-10 acts at the KISS1R (GPR54) receptor on GnRH neurons. The most upstream physiological switch of the reproductive axis.",
+      "mechanism_en": "KISS1R agonist; GnRH neuron activation.",
+      "protocol_en": [
+        "100–200 mcg subcutaneous, every other day.",
+        "Cycle: 4–8 weeks."
+      ],
+      "half_life": "~4 minutes plasma",
+      "official_reconstitution_en": "Add 2 mL bacteriostatic water to the 10 mg vial. Each 0.02 mL = 100 mcg.",
+      "official_storage_en": "Lyophilized: 2–8 °C. Reconstituted: 2–8 °C, use within 30 days.",
+      "specs": [
+        {
+          "label": "Molecular Weight",
+          "value": "1302.5 g/mol"
+        },
+        {
+          "label": "Sequence Length",
+          "value": "10 amino acids"
+        },
+        {
+          "label": "CAS Number",
+          "value": "374675-21-5"
+        },
+        {
+          "label": "Synonyms",
+          "value": "Metastin 45-54, KP-10"
+        }
+      ]
+    },
+    {
+      "name": "KLOW",
+      "category": "Recovery",
+      "description_en": "KLOW is a four-component peptide blend of BPC-157, TB-500, GHK-Cu, and KPV, typically combined at a fixed ratio in a single vial. The combination is commonly researched to leverage tissue repair (BPC-157, TB-500), collagen remodeling (GHK-Cu), and anti-inflammatory effects (KPV) at the same time. KLOW is typically of interest to those researching injury recovery and inflammation.",
+      "description_vi": "KLOW là một blend peptide gồm bốn thành phần: BPC-157, TB-500, GHK-Cu và KPV, thường được kết hợp theo tỷ lệ cố định trong một lọ duy nhất. Sự phối hợp này được nghiên cứu nhằm tận dụng đồng thời khả năng phục hồi mô (BPC-157, TB-500), tái tạo collagen (GHK-Cu) và kháng viêm (KPV). KLOW thường được các nhóm nghiên cứu phục hồi chấn thương và chống viêm quan tâm.",
+      "reconstitution_en": "This blend vial (approx. 80mg total peptide content) is commonly reconstituted with 2mL of Bacteriostatic Water, yielding roughly 40mg/mL of combined peptide.",
+      "reconstitution_vi": "Lọ blend này (tổng khoảng 80mg peptide) thường được pha với 2ml nước Bacteriostatic Water, cho nồng độ tổng khoảng 40mg/ml.",
+      "usage_frequency_en": "As a blend of BPC-157, TB-500, GHK-Cu, and KPV, KLOW is commonly researched following a similar frequency pattern to its components - generally a few times per week - typically over multi-week cycles.",
+      "usage_frequency_vi": "Là blend của BPC-157, TB-500, GHK-Cu và KPV, KLOW thường được nghiên cứu theo tần suất tương tự các thành phần - nhìn chung vài lần mỗi tuần - thường theo các đợt kéo dài nhiều tuần.",
+      "benefits_en": [
+        "Combines four peptides (BPC-157, TB-500, GHK-Cu, KPV) targeting complementary repair pathways",
+        "Researched for tissue and tendon/ligament repair support",
+        "Studied for anti-inflammatory effects via the KPV component",
+        "Investigated for collagen remodeling and skin-quality support via GHK-Cu",
+        "Offers broader-spectrum recovery research within a single blend vial"
+      ],
+      "benefits_vi": [
+        "Kết hợp bốn peptide (BPC-157, TB-500, GHK-Cu, KPV) nhắm vào các cơ chế phục hồi bổ sung nhau",
+        "Được nghiên cứu về hỗ trợ phục hồi mô và gân/dây chằng",
+        "Được nghiên cứu về tác dụng kháng viêm thông qua thành phần KPV",
+        "Được nghiên cứu về tái tạo collagen và chất lượng da nhờ GHK-Cu",
+        "Mang lại phạm vi nghiên cứu phục hồi rộng hơn trong một lọ blend"
+      ],
+      "slug": "/klow",
+      "active": true,
+      "featured": true,
+      "variants": [
+        {
+          "dose": "Blend Vial",
+          "sku": "KLOW-BLENDVIAL",
+          "price": 190.0,
+          "stock": 100,
+          "low_at": 5
+        }
+      ],
+      "order_url": "https://pacificpeptidesciences.com/product/klow",
+      "tagline_en": "Four-peptide systemic repair blend. GHK-Cu, TB-500, BPC-157, KPV.",
+      "official_short_en": "Pre-blended recovery cocktail: GHK-Cu 50 mg, TB-500 10 mg, BPC-157 10 mg, KPV 10 mg in a single vial. Combines angiogenic, anti-inflammatory, and tissue-remodeling pathways.",
+      "official_long_en": "KLOW stacks four of the most studied repair peptides into one vial. GHK-Cu drives copper-dependent gene expression for connective tissue. TB-500 mobilizes stem cells. BPC-157 promotes microvascular formation. KPV calms mucosal and systemic inflammation. The combined activity is broader than any single peptide.",
+      "mechanism_en": "Multi-pathway: VEGFR2, G-actin sequestration, copper-gene regulation, NF-κB suppression.",
+      "protocol_en": [
+        "Loading: 0.3 mL subcutaneous near the area of interest, daily for 2 weeks.",
+        "Maintenance: 0.2 mL 3× weekly for 4–6 weeks. Rotate injection sites."
+      ],
+      "half_life": "Mixed: hours to days depending on component",
+      "official_reconstitution_en": "Add 3 mL bacteriostatic water to the blend vial.",
+      "official_storage_en": "Lyophilized: 2–8 °C. Reconstituted: 2–8 °C, use within 21 days.",
+      "specs": [
+        {
+          "label": "Composition",
+          "value": "GHK-Cu 50 mg · TB-500 10 mg · BPC-157 10 mg · KPV 10 mg"
+        },
+        {
+          "label": "Total Mass",
+          "value": "80 mg per vial"
+        },
+        {
+          "label": "Purity",
+          "value": "99%+ HPLC per component"
+        },
+        {
+          "label": "Application",
+          "value": "Systemic recovery research"
+        }
+      ]
+    },
+    {
+      "name": "MOTS-c",
+      "category": "Longevity",
+      "description_en": "MOTS-c is a mitochondrial-derived peptide encoded by mitochondrial DNA that participates in regulating cellular energy metabolism. It is commonly researched for its potential to improve insulin sensitivity, mimic some benefits of physical exercise, and support metabolism at the cellular level. MOTS-c is of interest in metabolic and longevity research.",
+      "description_vi": "MOTS-c là một peptide có nguồn gốc từ ty thể (mitochondrial-derived peptide), được mã hóa bởi DNA ty thể và tham gia điều hòa chuyển hóa năng lượng tế bào. Peptide này thường được nghiên cứu về khả năng cải thiện độ nhạy insulin, mô phỏng một số lợi ích của vận động thể chất (exercise mimetic) và hỗ trợ chuyển hóa ở cấp độ tế bào. MOTS-c được quan tâm trong các nghiên cứu về chuyển hóa và kéo dài tuổi thọ.",
+      "reconstitution_en": "Commonly reconstituted with 2mL of Bacteriostatic Water to yield a concentration of approximately 5mg/mL.",
+      "reconstitution_vi": "Thường được pha với 2ml nước Bacteriostatic Water để đạt nồng độ khoảng 5mg/ml.",
+      "usage_frequency_en": "MOTS-c is commonly researched at a frequency of about 2-3 times per week (some protocols use daily dosing), typically over cycles of several weeks.",
+      "usage_frequency_vi": "MOTS-c thường được nghiên cứu với tần suất khoảng 2-3 lần mỗi tuần (một số quy trình dùng hàng ngày), thường theo các đợt kéo dài vài tuần.",
+      "benefits_en": [
+        "Researched for improving insulin sensitivity and glucose metabolism",
+        "Studied as an 'exercise mimetic' that may replicate some metabolic effects of physical activity",
+        "Investigated for supporting mitochondrial function and cellular energy production",
+        "Explored in metabolic-syndrome and healthy-aging research contexts",
+        "Studied for potential effects on physical endurance in research models"
+      ],
+      "benefits_vi": [
+        "Được nghiên cứu về cải thiện độ nhạy insulin và chuyển hóa đường huyết",
+        "Được nghiên cứu như một 'chất mô phỏng vận động' có thể tái hiện một số lợi ích chuyển hóa của vận động thể chất",
+        "Được nghiên cứu về hỗ trợ chức năng ty thể và sản xuất năng lượng tế bào",
+        "Được xem xét trong bối cảnh nghiên cứu hội chứng chuyển hóa và lão hóa khỏe mạnh",
+        "Được nghiên cứu về tác động tiềm năng lên sức bền thể chất trong mô hình nghiên cứu"
+      ],
+      "slug": "/mots-c",
+      "active": true,
+      "featured": true,
+      "variants": [
+        {
+          "dose": "10mg",
+          "sku": "MOTS-C-10MG",
+          "price": 72.0,
+          "stock": 100,
+          "low_at": 5
+        }
+      ],
+      "order_url": "https://pacificpeptidesciences.com/product/mots-c",
+      "tagline_en": "Mitochondrial-derived peptide. Metabolic flexibility and exercise mimetic.",
+      "official_short_en": "16-amino-acid peptide encoded in mitochondrial DNA. Activates AMPK and improves insulin sensitivity.",
+      "official_long_en": "MOTS-c is encoded directly in mitochondrial DNA and signals from mitochondria to the nucleus via AMPK. Plasma MOTS-c falls with age and is partially restored by exercise.",
+      "mechanism_en": "AMPK activation; mitochondrial-nuclear retrograde signaling.",
+      "protocol_en": [
+        "5–10 mg subcutaneous, 2–3× per week.",
+        "Cycle: 12 weeks on, 8 weeks off."
+      ],
+      "half_life": "~3 hours",
+      "official_reconstitution_en": "Add 2 mL bacteriostatic water to the 10 mg vial. Each 1 mL = 5 mg.",
+      "official_storage_en": "Lyophilized: 2–8 °C. Reconstituted: 2–8 °C, use within 30 days.",
+      "specs": [
+        {
+          "label": "Molecular Weight",
+          "value": "2174.59 g/mol"
+        },
+        {
+          "label": "Sequence Length",
+          "value": "16 amino acids"
+        },
+        {
+          "label": "CAS Number",
+          "value": "1627580-64-6"
+        },
+        {
+          "label": "Synonyms",
+          "value": "Mitochondrial ORF of the 12S rRNA-c"
+        }
+      ]
+    },
+    {
+      "name": "NAD+",
+      "category": "Longevity",
+      "description_en": "NAD+ (Nicotinamide Adenine Dinucleotide) is an essential coenzyme involved in hundreds of metabolic reactions and cellular energy production. Natural NAD+ levels decline with age, so this compound is commonly researched for its potential to support mitochondrial function, activate aging-related sirtuin enzymes, and improve cellular energy. NAD+ is a central compound in anti-aging (longevity) research.",
+      "description_vi": "NAD+ (Nicotinamide Adenine Dinucleotide) là một coenzyme thiết yếu tham gia vào hàng trăm phản ứng chuyển hóa và sản xuất năng lượng trong tế bào. Nồng độ NAD+ tự nhiên suy giảm theo tuổi tác, vì vậy hợp chất này thường được nghiên cứu về khả năng hỗ trợ chức năng ty thể, kích hoạt các enzyme sirtuin liên quan đến lão hóa và cải thiện năng lượng tế bào. NAD+ là một trong những hợp chất trọng tâm của lĩnh vực nghiên cứu chống lão hóa (longevity).",
+      "reconstitution_en": "Given the larger 500mg vial size, this is commonly reconstituted with around 5mL of Bacteriostatic Water, yielding roughly 100mg/mL (some protocols use more diluent for a lower concentration).",
+      "reconstitution_vi": "Do lọ có hàm lượng lớn (500mg), sản phẩm thường được pha với khoảng 5ml nước Bacteriostatic Water, cho nồng độ khoảng 100mg/ml (một số quy trình dùng nhiều nước pha hơn để giảm nồng độ).",
+      "usage_frequency_en": "NAD+ is commonly researched at a frequency of 2-3 times per week for maintenance, with some protocols using daily dosing during an initial 1-2 week loading period.",
+      "usage_frequency_vi": "NAD+ thường được nghiên cứu với tần suất 2-3 lần mỗi tuần để duy trì, một số quy trình dùng hàng ngày trong giai đoạn nạp ban đầu 1-2 tuần.",
+      "benefits_en": [
+        "Central to research on cellular energy production and mitochondrial function",
+        "Studied for activating sirtuin enzymes linked to cellular aging pathways",
+        "Researched for supporting DNA repair processes",
+        "Investigated for cognitive and energy-level support as natural NAD+ levels decline with age",
+        "Popular compound in longevity- and anti-aging-focused research protocols"
+      ],
+      "benefits_vi": [
+        "Trọng tâm trong nghiên cứu về sản xuất năng lượng tế bào và chức năng ty thể",
+        "Được nghiên cứu về kích hoạt enzyme sirtuin liên quan đến con đường lão hóa tế bào",
+        "Được nghiên cứu về hỗ trợ quá trình sửa chữa DNA",
+        "Được nghiên cứu về hỗ trợ nhận thức và mức năng lượng khi NAD+ tự nhiên suy giảm theo tuổi",
+        "Hợp chất phổ biến trong các chương trình nghiên cứu chống lão hóa"
+      ],
+      "slug": "/nad-plus",
+      "active": true,
+      "featured": true,
+      "variants": [
+        {
+          "dose": "500mg",
+          "sku": "NAD-PLUS-500MG",
+          "price": 72.0,
+          "stock": 97,
+          "low_at": 5
+        }
+      ],
+      "order_url": "https://pacificpeptidesciences.com/product/nad-plus",
+      "tagline_en": "Nicotinamide adenine dinucleotide. The redox currency of every cell.",
+      "official_short_en": "Direct NAD+ injection. Bypasses the salvage pathway and elevates plasma NAD+ within minutes.",
+      "official_long_en": "NAD+ is the obligate cofactor for sirtuins, PARPs, and the electron-transport chain. Cellular NAD+ falls roughly 50% between age 20 and 60.",
+      "mechanism_en": "Direct NAD+ substrate; sirtuin and PARP activation.",
+      "protocol_en": [
+        "50 mg subcutaneous, once daily, 5 days per week (2 days off).",
+        "Slow push; many protocols dilute each dose with 0.5–1 mL sterile saline to soften the SC sting.",
+        "Rotate injection sites to minimize local irritation."
+      ],
+      "half_life": "Plasma minutes; tissue 24–72 hours",
+      "official_reconstitution_en": "Add 5 mL bacteriostatic water to the 500 mg vial. Each 1 mL = 100 mg.",
+      "official_storage_en": "Lyophilized: 2–8 °C, protect from light. Reconstituted: 2–8 °C, use within 14 days.",
+      "specs": [
+        {
+          "label": "Molecular Weight",
+          "value": "663.43 g/mol"
+        },
+        {
+          "label": "Type",
+          "value": "Dinucleotide (non-peptide)"
+        },
+        {
+          "label": "CAS Number",
+          "value": "53-84-9"
+        },
+        {
+          "label": "Synonyms",
+          "value": "Nicotinamide adenine dinucleotide"
+        }
+      ]
+    },
+    {
+      "name": "PT-141",
+      "category": "Wellness",
+      "description_en": "PT-141 (Bremelanotide) is a melanocortin receptor agonist peptide that works through the central nervous system rather than acting directly on blood vessels like traditional approaches. It is commonly researched for its potential to improve libido and sexual function in both men and women. PT-141 is of interest in sexual health and wellness research.",
+      "description_vi": "PT-141 (Bremelanotide) là peptide chủ vận thụ thể melanocortin, hoạt động thông qua hệ thần kinh trung ương thay vì tác động trực tiếp lên mạch máu như các liệu pháp truyền thống. Peptide này thường được nghiên cứu về khả năng cải thiện ham muốn và chức năng tình dục ở cả nam và nữ. PT-141 được quan tâm trong các nghiên cứu về sức khỏe tình dục và wellness.",
+      "reconstitution_en": "Commonly reconstituted with 2mL of Bacteriostatic Water to yield a concentration of approximately 5mg/mL.",
+      "reconstitution_vi": "Thường được pha với 2ml nước Bacteriostatic Water để đạt nồng độ khoảng 5mg/ml.",
+      "usage_frequency_en": "PT-141 is commonly researched on an as-needed basis rather than a fixed daily schedule, generally no more than once every 24 hours.",
+      "usage_frequency_vi": "PT-141 thường được nghiên cứu theo nhu cầu sử dụng (khi cần) hơn là theo lịch cố định hàng ngày, thường không quá một lần mỗi 24 giờ.",
+      "benefits_en": [
+        "Researched for improving libido and sexual arousal in both men and women",
+        "Works through central-nervous-system melanocortin receptors rather than vascular pathways",
+        "Studied as an alternative approach to sexual-wellness research distinct from vascular-based options",
+        "Has an FDA-approved use (as Vyleesi) for hypoactive sexual desire disorder in women, reflecting a mature research basis",
+        "Investigated for effects that appear independent of baseline hormone levels"
+      ],
+      "benefits_vi": [
+        "Được nghiên cứu về cải thiện ham muốn và hưng phấn tình dục ở cả nam và nữ",
+        "Hoạt động qua thụ thể melanocortin ở hệ thần kinh trung ương thay vì con đường mạch máu",
+        "Được nghiên cứu như một hướng tiếp cận khác cho sức khỏe tình dục, tách biệt với các lựa chọn dựa trên mạch máu",
+        "Đã được FDA phê duyệt (dạng Vyleesi) cho rối loạn ham muốn tình dục thấp ở nữ, phản ánh nền tảng nghiên cứu vững chắc",
+        "Được nghiên cứu về tác động dường như độc lập với nồng độ hormone nền"
+      ],
+      "slug": "/pt-141",
+      "active": true,
+      "featured": true,
+      "variants": [
+        {
+          "dose": "10mg",
+          "sku": "PT-141-10MG",
+          "price": 62.0,
+          "stock": 100,
+          "low_at": 5
+        }
+      ],
+      "order_url": "https://pacificpeptidesciences.com/product/pt-141",
+      "tagline_en": "Melanocortin agonist. Libido research, central pathway.",
+      "official_short_en": "Cyclic 7-amino-acid analog of α-MSH. Acts on melanocortin receptors in the CNS — the desire pathway rather than the vascular pathway.",
+      "official_long_en": "PT-141 is FDA-approved for HSDD as Vyleesi. Onset 30–90 minutes; works centrally rather than via PDE5 inhibition.",
+      "mechanism_en": "MC3R / MC4R agonist (central).",
+      "protocol_en": [
+        "0.5–2 mg subcutaneous, 45–60 min before activity.",
+        "On-demand only — maximum 2 doses per week."
+      ],
+      "half_life": "~2 hours",
+      "official_reconstitution_en": "Add 2 mL bacteriostatic water. Each 0.1 mL = 500 mcg.",
+      "official_storage_en": "Lyophilized: 2–8 °C. Reconstituted: 2–8 °C, use within 30 days.",
+      "specs": [
+        {
+          "label": "Molecular Weight",
+          "value": "1025.18 g/mol"
+        },
+        {
+          "label": "Sequence Length",
+          "value": "Cyclic 7 amino acids"
+        },
+        {
+          "label": "CAS Number",
+          "value": "189691-06-3"
+        },
+        {
+          "label": "Synonyms",
+          "value": "Bremelanotide, Vyleesi"
+        }
+      ]
+    },
+    {
+      "name": "Retatrutide",
+      "category": "Lose Fat",
+      "description_en": "Retatrutide is a triple agonist compound acting on GLP-1, GIP, and glucagon receptors simultaneously, currently in development by major pharmaceutical companies for obesity treatment. In clinical trials, Retatrutide has shown substantial weight-loss results by reducing appetite and increasing energy expenditure. It is a leading compound of interest in weight-loss and metabolic research, though it remains investigational and is not yet commercially approved under this name.",
+      "description_vi": "Retatrutide là một hợp chất chủ vận đồng thời ba thụ thể GLP-1, GIP và glucagon, đang được các công ty dược phẩm lớn phát triển cho mục đích điều trị béo phì. Trong các thử nghiệm lâm sàng, Retatrutide cho thấy hiệu quả giảm cân đáng kể thông qua việc giảm cảm giác thèm ăn và tăng tiêu hao năng lượng. Đây là hợp chất được quan tâm hàng đầu trong lĩnh vực nghiên cứu giảm cân và kiểm soát chuyển hóa, tuy vẫn đang trong giai đoạn nghiên cứu, chưa được phê duyệt thương mại dưới tên này.",
+      "reconstitution_en": "The 10mg vial is commonly reconstituted with 2mL of Bacteriostatic Water for approximately 5mg/mL, while the 20mg vial is commonly reconstituted with 2mL for approximately 10mg/mL.",
+      "reconstitution_vi": "Lọ 10mg thường được pha với 2ml nước Bacteriostatic Water để đạt khoảng 5mg/ml, còn lọ 20mg thường được pha với 2ml để đạt khoảng 10mg/ml.",
+      "usage_frequency_en": "Retatrutide is commonly researched with once-weekly subcutaneous dosing, similar to other GLP-1/GIP-class analogs, with the dose typically titrated upward gradually over several weeks.",
+      "usage_frequency_vi": "Retatrutide thường được nghiên cứu với tần suất tiêm một lần mỗi tuần, tương tự các hợp chất cùng nhóm GLP-1/GIP, với liều thường được tăng dần qua các tuần.",
+      "benefits_en": [
+        "Studied as a triple agonist (GLP-1/GIP/glucagon) for substantial weight-loss effects in clinical trials",
+        "Researched for appetite suppression and reduced caloric intake",
+        "Investigated for increased energy expenditure via glucagon-receptor activity",
+        "Explored for improvements in metabolic markers alongside weight loss",
+        "One of the most closely watched compounds in current obesity-research pipelines"
+      ],
+      "benefits_vi": [
+        "Được nghiên cứu như chất chủ vận ba trọng tâm (GLP-1/GIP/glucagon) cho hiệu quả giảm cân đáng kể trong thử nghiệm lâm sàng",
+        "Được nghiên cứu về giảm cảm giác thèm ăn và lượng calo nạp vào",
+        "Được nghiên cứu về tăng tiêu hao năng lượng thông qua hoạt tính thụ thể glucagon",
+        "Được xem xét về cải thiện các chỉ số chuyển hóa cùng với giảm cân",
+        "Một trong những hợp chất được theo dõi sát sao nhất trong nghiên cứu béo phì hiện nay"
+      ],
+      "slug": "/retatrutide",
+      "active": true,
+      "featured": true,
+      "variants": [
+        {
+          "dose": "10mg",
+          "sku": "RETATRUTIDE-10MG",
+          "price": 109.0,
+          "stock": 90,
+          "low_at": 5
+        },
+        {
+          "dose": "20mg",
+          "sku": "RETATRUTIDE-20MG",
+          "price": 180.0,
+          "stock": 100,
+          "low_at": 5
+        }
+      ],
+      "order_url": "https://pacificpeptidesciences.com/product/retatrutide",
+      "tagline_en": "Triple-agonist GLP-1 / GIP / glucagon. The most aggressive fat-loss peptide in trials.",
+      "official_short_en": "Investigational triple-agonist on GLP-1, GIP, and glucagon receptors. Phase II data shows mean weight reduction approaching 24% at 48 weeks at the highest dose.",
+      "official_long_en": "Retatrutide (LY-3437943) is a unipeptide that simultaneously activates GLP-1, GIP, and glucagon receptors. The glucagon arm drives basal energy expenditure upward — a mechanism the dual-agonists do not have.",
+      "mechanism_en": "Triple-agonist: GLP-1 + GIP + glucagon receptors.",
+      "protocol_en": [
+        "Titration: Week 1–4: 2 mg once weekly; Week 5–8: 4 mg once weekly; Week 9–12: 6–8 mg once weekly.",
+        "Maintenance: 8–12 mg once weekly, subcutaneous.",
+        "Always titrate from the lowest dose to manage GI tolerability; rotate injection sites."
+      ],
+      "half_life": "~6 days",
+      "official_reconstitution_en": "Add 2 mL bacteriostatic water to the 20 mg vial. Each 0.1 mL = 1 mg.",
+      "official_storage_en": "Lyophilized: 2–8 °C. Reconstituted: 2–8 °C, use within 30 days.",
+      "specs": [
+        {
+          "label": "Molecular Weight",
+          "value": "4731.5 g/mol"
+        },
+        {
+          "label": "Sequence Length",
+          "value": "39 amino acids"
+        },
+        {
+          "label": "CAS Number",
+          "value": "2381089-83-2"
+        },
+        {
+          "label": "Synonyms",
+          "value": "LY-3437943"
+        }
+      ],
+      "cycling_en": "Unlike GH-secretagogues, GLP-1/GIP/glucagon-receptor agonists like Retatrutide generally do not cause the same receptor desensitization and are commonly described as not requiring on/off cycling -- continuous weekly use (with dose titration) is the typical pattern in research literature.",
+      "cycling_vi": "Khac voi nhom kich GH, cac hop chat chu van thu the GLP-1/GIP/glucagon nhu Retatrutide thuong khong gay hien tuong giam nhay thu the tuong tu, va thuong duoc mo ta la KHONG can chu ky nghi -- dung hang tuan lien tuc (co tang lieu dan) la kieu pho bien trong tai lieu nghien cuu."
+    },
+    {
+      "name": "Selank",
+      "category": "Wellness",
+      "description_en": "Selank is a synthetic peptide analog of tuftsin, developed by Russian scientists with additional structural modifications that extend its duration of action. It is commonly researched for anxiolytic (anti-anxiety) properties and cognitive support, without the sedation or dependency risk associated with traditional anti-anxiety medications. Selank fits research interests around mental wellness.",
+      "description_vi": "Selank là peptide tổng hợp tương tự tuftsin, được phát triển bởi các nhà khoa học Nga với cấu trúc bổ sung giúp kéo dài thời gian tác dụng. Peptide này thường được nghiên cứu về đặc tính giải lo âu (anxiolytic) và hỗ trợ nhận thức mà không gây an thần hay lệ thuộc như thuốc giải lo âu truyền thống. Selank phù hợp với các nghiên cứu về sức khỏe tinh thần và wellness.",
+      "reconstitution_en": "Commonly reconstituted with 2mL of Bacteriostatic Water to yield a concentration of approximately 5mg/mL.",
+      "reconstitution_vi": "Thường được pha với 2ml nước Bacteriostatic Water để đạt nồng độ khoảng 5mg/ml.",
+      "usage_frequency_en": "Selank is commonly researched at 2-3 doses per day, often in short cycles of about 10-20 days followed by a break.",
+      "usage_frequency_vi": "Selank thường được nghiên cứu với tần suất 2-3 lần mỗi ngày, thường theo các đợt ngắn khoảng 10-20 ngày rồi nghỉ.",
+      "benefits_en": [
+        "Researched for anxiolytic (anti-anxiety) effects without sedation",
+        "Studied for supporting cognitive function and mental clarity",
+        "Investigated for modulating the stress response and BDNF levels",
+        "Explored for potential immune-modulating properties",
+        "Popular in nootropic and mental-wellness research stacks"
+      ],
+      "benefits_vi": [
+        "Được nghiên cứu về tác dụng giải lo âu mà không gây an thần",
+        "Được nghiên cứu về hỗ trợ chức năng nhận thức và sự minh mẫn",
+        "Được nghiên cứu về điều hòa phản ứng với stress và nồng độ BDNF",
+        "Được xem xét về đặc tính điều hòa miễn dịch tiềm năng",
+        "Phổ biến trong các nhóm nghiên cứu nootropic và sức khỏe tinh thần"
+      ],
+      "slug": "/selank",
+      "active": true,
+      "featured": true,
+      "variants": [
+        {
+          "dose": "10mg",
+          "sku": "SELANK-10MG",
+          "price": 66.0,
+          "stock": 100,
+          "low_at": 5
+        }
+      ],
+      "order_url": "https://pacificpeptidesciences.com/product/selank",
+      "tagline_en": "Russian nootropic heptapeptide. Anxiolytic without sedation.",
+      "official_short_en": "Synthetic analog of tuftsin. Anxiolytic effects with no withdrawal profile; BDNF upregulation in hippocampus.",
+      "official_long_en": "Selank is a synthetic tuftsin analog with proline-rich C-terminal stabilization. Russian clinical work describes anxiolytic effects comparable to short-acting benzodiazepines without sedation.",
+      "mechanism_en": "BDNF upregulation; GABA / serotonin modulation.",
+      "protocol_en": [
+        "0.5 mg subcutaneous, once daily, 5 days per week (2 days off)."
+      ],
+      "half_life": "~15 minutes (CNS effects longer)",
+      "official_reconstitution_en": "Add 2 mL bacteriostatic water for nasal solution. Each 0.1 mL spray = 550 mcg.",
+      "official_storage_en": "Lyophilized: 2–8 °C. Reconstituted: 2–8 °C, use within 30 days.",
+      "specs": [
+        {
+          "label": "Molecular Weight",
+          "value": "751.86 g/mol"
+        },
+        {
+          "label": "Sequence",
+          "value": "Thr-Lys-Pro-Arg-Pro-Gly-Pro (7 AA)"
+        },
+        {
+          "label": "CAS Number",
+          "value": "129954-34-3"
+        },
+        {
+          "label": "Synonyms",
+          "value": "TP-7 analog"
+        }
+      ]
+    },
+    {
+      "name": "Semax",
+      "category": "Wellness",
+      "description_en": "Semax is a synthetic peptide derived from a fragment of ACTH hormone, developed in Russia and widely studied as a nootropic (cognitive-support) compound. It is commonly researched for its potential to enhance memory, focus, and provide neuroprotective effects. Semax is of interest in brain-health and general wellness research.",
+      "description_vi": "Semax là peptide tổng hợp bắt nguồn từ một đoạn của hormone ACTH, được phát triển tại Nga và nghiên cứu rộng rãi như một chất hỗ trợ nhận thức (nootropic). Peptide này thường được nghiên cứu về khả năng tăng cường trí nhớ, sự tập trung và có đặc tính bảo vệ thần kinh. Semax được quan tâm trong các nghiên cứu về sức khỏe não bộ và wellness tổng quát.",
+      "reconstitution_en": "Commonly reconstituted with 2mL of Bacteriostatic Water to yield a concentration of approximately 5mg/mL.",
+      "reconstitution_vi": "Thường được pha với 2ml nước Bacteriostatic Water để đạt nồng độ khoảng 5mg/ml.",
+      "usage_frequency_en": "Semax is commonly researched at 1-2 doses per day, typically in short cycles of about 10-20 days.",
+      "usage_frequency_vi": "Semax thường được nghiên cứu với tần suất 1-2 lần mỗi ngày, thường theo các đợt ngắn khoảng 10-20 ngày.",
+      "benefits_en": [
+        "Studied for enhancing memory, focus, and learning in cognitive research",
+        "Researched for neuroprotective properties, including in ischemia-related models",
+        "Investigated for increasing BDNF and NGF (nerve growth factor) expression",
+        "Explored for potential mood-supporting effects",
+        "Popular nootropic peptide in brain-health research"
+      ],
+      "benefits_vi": [
+        "Được nghiên cứu về tăng cường trí nhớ, sự tập trung và khả năng học trong nghiên cứu nhận thức",
+        "Được nghiên cứu về đặc tính bảo vệ thần kinh, kể cả trong mô hình thiếu máu cục bộ",
+        "Được nghiên cứu về tăng biểu hiện BDNF và NGF (yếu tố tăng trưởng thần kinh)",
+        "Được xem xét về tác động hỗ trợ tâm trạng tiềm năng",
+        "Peptide nootropic phổ biến trong nghiên cứu sức khỏe não bộ"
+      ],
+      "slug": "/semax",
+      "active": true,
+      "featured": true,
+      "variants": [
+        {
+          "dose": "10mg",
+          "sku": "SEMAX-10MG",
+          "price": 62.0,
+          "stock": 100,
+          "low_at": 5
+        }
+      ],
+      "order_url": "https://pacificpeptidesciences.com/product/semax",
+      "tagline_en": "Russian nootropic heptapeptide. Cognitive endurance and focus.",
+      "official_short_en": "Synthetic analog of ACTH(4-10). Increases BDNF expression and cerebral acetylcholine, studied for stroke recovery and attention.",
+      "official_long_en": "Semax (Met-Glu-His-Phe-Pro-Gly-Pro) was developed at the Russian Academy of Sciences. Nasal delivery is standard for CNS effect.",
+      "mechanism_en": "BDNF / NGF upregulation; cholinergic enhancement.",
+      "protocol_en": [
+        "0.5–1 mg subcutaneous, once daily.",
+        "AM dosing commonly referenced."
+      ],
+      "half_life": "~20 minutes (CNS effects longer)",
+      "official_reconstitution_en": "Add 2 mL bacteriostatic water for nasal solution. Each 0.1 mL spray = 550 mcg.",
+      "official_storage_en": "Lyophilized: 2–8 °C. Reconstituted: 2–8 °C, use within 30 days.",
+      "specs": [
+        {
+          "label": "Molecular Weight",
+          "value": "813.93 g/mol"
+        },
+        {
+          "label": "Sequence",
+          "value": "Met-Glu-His-Phe-Pro-Gly-Pro (7 AA)"
+        },
+        {
+          "label": "CAS Number",
+          "value": "80714-61-0"
+        },
+        {
+          "label": "Synonyms",
+          "value": "ACTH(4-7)PGP analog"
+        }
+      ]
+    },
+    {
+      "name": "Sermorelin",
+      "category": "Build Muscle",
+      "description_en": "Sermorelin is a peptide fragment analog of growth hormone-releasing hormone (GHRH 1-29), stimulating the pituitary to release growth hormone through the body's own natural mechanism. It is commonly researched for its potential to support lean muscle gain, improve sleep quality, and aid post-workout recovery. Sermorelin fits research on muscle building and offers a gentler alternative to direct synthetic GH.",
+      "description_vi": "Sermorelin là đoạn peptide tương tự hormone giải phóng GH (GHRH 1-29), kích thích tuyến yên tiết hormone tăng trưởng theo cơ chế tự nhiên của cơ thể. Peptide này thường được nghiên cứu về khả năng hỗ trợ tăng khối cơ nạc, cải thiện chất lượng giấc ngủ và phục hồi sau tập luyện. Sermorelin phù hợp với các nghiên cứu về xây dựng cơ bắp và chống lão hóa nhẹ nhàng hơn so với GH tổng hợp trực tiếp.",
+      "reconstitution_en": "Commonly reconstituted with 2mL of Bacteriostatic Water to yield a concentration of approximately 2.5mg/mL.",
+      "reconstitution_vi": "Thường được pha với 2ml nước Bacteriostatic Water để đạt nồng độ khoảng 2.5mg/ml.",
+      "usage_frequency_en": "Sermorelin is commonly researched with once-daily dosing before bed, sometimes following a 5-days-on/2-days-off weekly pattern.",
+      "usage_frequency_vi": "Sermorelin thường được nghiên cứu với tần suất một lần mỗi ngày trước khi ngủ, đôi khi theo lịch 5 ngày dùng/2 ngày nghỉ mỗi tuần.",
+      "benefits_en": [
+        "Researched for stimulating natural growth hormone release from the pituitary",
+        "Studied for supporting lean muscle development over time",
+        "Investigated for improving sleep quality via nocturnal GH pulses",
+        "Explored as a gentler, more physiological alternative to direct GH research",
+        "Studied in body-composition and general anti-aging research contexts"
+      ],
+      "benefits_vi": [
+        "Được nghiên cứu về kích thích giải phóng hormone tăng trưởng tự nhiên từ tuyến yên",
+        "Được nghiên cứu về hỗ trợ phát triển khối cơ nạc theo thời gian",
+        "Được nghiên cứu về cải thiện chất lượng giấc ngủ nhờ nhịp GH ban đêm",
+        "Được xem xét như lựa chọn nhẹ nhàng, sinh lý hơn so với GH tổng hợp trực tiếp",
+        "Được nghiên cứu trong bối cảnh cải thiện thành phần cơ thể và chống lão hóa nói chung"
+      ],
+      "slug": "/sermorelin",
+      "active": true,
+      "featured": true,
+      "variants": [
+        {
+          "dose": "5mg",
+          "sku": "SERMORELIN-5MG",
+          "price": 69.0,
+          "stock": 100,
+          "low_at": 5
+        }
+      ],
+      "order_url": "https://pacificpeptidesciences.com/product/sermorelin",
+      "tagline_en": "GHRH 1-29. The bioidentical first-line growth-hormone secretagogue.",
+      "official_short_en": "Truncated 29-amino-acid GHRH fragment. Stimulates the pituitary on the same pathway as native GHRH with a controlled half-life.",
+      "official_long_en": "Sermorelin is GHRH(1-29), the shortest fully active fragment of native growth-hormone-releasing hormone. Pulsatile GH release rather than sustained signal — preferred when HPA-axis preservation matters.",
+      "mechanism_en": "GHRH receptor agonist (pulsatile).",
+      "protocol_en": [
+        "200–500 mcg subcutaneous, once daily before sleep.",
+        "Cycle: 12 weeks on, 4 weeks off."
+      ],
+      "half_life": "~10–20 minutes",
+      "official_reconstitution_en": "Add 2 mL bacteriostatic water. Each 0.2 mL = 500 mcg.",
+      "official_storage_en": "Lyophilized: 2–8 °C. Reconstituted: 2–8 °C, use within 30 days.",
+      "specs": [
+        {
+          "label": "Molecular Weight",
+          "value": "3357.93 g/mol"
+        },
+        {
+          "label": "Sequence Length",
+          "value": "29 amino acids"
+        },
+        {
+          "label": "CAS Number",
+          "value": "86168-78-7"
+        },
+        {
+          "label": "Synonyms",
+          "value": "GRF 1-29, Geref"
+        }
+      ],
+      "cycling_en": "Commonly cycled 8-12 weeks on, then about 4 weeks off, similar to other GH-secretagogues, to help avoid reduced pituitary responsiveness with continuous use.",
+      "cycling_vi": "Thuong dung theo chu ky 8-12 tuan roi nghi khoang 4 tuan, tuong tu cac hop chat kich GH khac, de tranh giam do nhay cua tuyen yen khi dung lien tuc khong nghi."
+    },
+    {
+      "name": "SLU-PP-332",
+      "category": "Lose Fat",
+      "description_en": "SLU-PP-332 is a synthetic compound developed at Saint Louis University, acting as an 'exercise mimetic' by activating ERR (estrogen-related receptor) pathways. In preclinical animal studies, the compound showed increased fat burning, mitochondrial biogenesis, and endurance without added physical activity. SLU-PP-332 is of growing interest in weight-loss and energy-metabolism research, though it remains an early-stage research compound.",
+      "description_vi": "SLU-PP-332 là hợp chất tổng hợp được phát triển tại Đại học Saint Louis (Mỹ), hoạt động như một 'chất mô phỏng vận động' (exercise mimetic) thông qua việc kích hoạt các thụ thể ERR (estrogen-related receptor). Trong các nghiên cứu tiền lâm sàng trên động vật, hợp chất này cho thấy khả năng tăng đốt mỡ, tăng sinh ty thể và cải thiện sức bền mà không cần tăng cường độ vận động. SLU-PP-332 đang được quan tâm trong lĩnh vực nghiên cứu giảm cân và chuyển hóa năng lượng, hiện vẫn ở giai đoạn nghiên cứu sớm.",
+      "reconstitution_en": "Commonly reconstituted with 2mL of Bacteriostatic Water to yield a concentration of approximately 2.5mg/mL.",
+      "reconstitution_vi": "Thường được pha với 2ml nước Bacteriostatic Water để đạt nồng độ khoảng 2.5mg/ml.",
+      "usage_frequency_en": "As an early-stage research compound, SLU-PP-332 has no established human dosing frequency; published data comes from animal studies using twice-daily dosing, and any human research use is considered experimental.",
+      "usage_frequency_vi": "Vì vẫn là hợp chất nghiên cứu giai đoạn sớm, SLU-PP-332 chưa có tần suất sử dụng ở người được thiết lập rõ ràng; dữ liệu công bố chủ yếu từ nghiên cứu trên động vật (hai lần mỗi ngày), nên mọi sử dụng ở người hiện vẫn mang tính thử nghiệm.",
+      "benefits_en": [
+        "Investigated as an 'exercise mimetic' activating ERR receptor pathways",
+        "Preclinical studies show increased fat oxidation and reduced body fat in animal models",
+        "Researched for boosting mitochondrial biogenesis in skeletal muscle",
+        "Studied for endurance and running-capacity improvements in mouse studies",
+        "Early-stage compound of high interest in metabolic and longevity research"
+      ],
+      "benefits_vi": [
+        "Được nghiên cứu như 'chất mô phỏng vận động' kích hoạt con đường thụ thể ERR",
+        "Nghiên cứu tiền lâm sàng cho thấy tăng oxy hóa mỡ và giảm mỡ cơ thể trên mô hình động vật",
+        "Được nghiên cứu về tăng sinh ty thể trong cơ xương",
+        "Được nghiên cứu về cải thiện sức bền và khả năng chạy trên mô hình chuột",
+        "Hợp chất giai đoạn sớm được quan tâm cao trong nghiên cứu chuyển hóa và longevity"
+      ],
+      "slug": "/slu-pp-332",
+      "active": true,
+      "featured": true,
+      "variants": [
+        {
+          "dose": "5mg",
+          "sku": "SLU-PP-332-5MG",
+          "price": 99.0,
+          "stock": 100,
+          "low_at": 5
+        }
+      ],
+      "order_url": "https://pacificpeptidesciences.com/product/slu-pp-332",
+      "tagline_en": "Pan-ERR agonist. Exercise-mimetic small molecule.",
+      "official_short_en": "Small-molecule pan-agonist of the Estrogen-Related Receptors (ERRα/β/γ). In mouse studies it increased running endurance and reduced adiposity without exercise.",
+      "official_long_en": "SLU-PP-332 directly activates the ERR family of nuclear receptors, the master regulators of mitochondrial biogenesis and oxidative metabolism. Treated mice showed roughly 70% improvement in endurance and significant fat-mass reduction at fixed caloric intake.",
+      "mechanism_en": "Pan-ERR (α/β/γ) agonist; mitochondrial biogenesis upregulation.",
+      "protocol_en": [
+        "0.5–1 mg subcutaneous, once daily.",
+        "Cycle: 4–8 weeks on, 4 weeks off. Refer to source literature for dose-finding context."
+      ],
+      "half_life": "~3–4 hours",
+      "official_reconstitution_en": "Add 1 mL bacteriostatic water to the 5 mg vial. Each 0.1 mL = 500 mcg.",
+      "official_storage_en": "Lyophilized: 2–8 °C, protect from light. Reconstituted: 2–8 °C, use within 14 days.",
+      "specs": [
+        {
+          "label": "Molecular Weight",
+          "value": "498.55 g/mol"
+        },
+        {
+          "label": "Type",
+          "value": "Small molecule (non-peptide)"
+        },
+        {
+          "label": "CAS Number",
+          "value": "2641336-65-4"
+        },
+        {
+          "label": "Target",
+          "value": "ERRα / ERRβ / ERRγ"
+        }
+      ]
+    },
+    {
+      "name": "SS-31",
+      "category": "Longevity",
+      "description_en": "SS-31 (Elamipretide) is a mitochondria-targeted tetrapeptide that binds to cardiolipin on the inner mitochondrial membrane to help stabilize the electron transport chain. It is commonly researched for its potential to improve cellular energy (ATP) production efficiency and reduce oxidative stress associated with aging. SS-31 is a focal compound in mitochondrial and longevity research.",
+      "description_vi": "SS-31 (Elamipretide) là tetrapeptide nhắm mục tiêu vào ty thể, có khả năng gắn kết với cardiolipin trên màng trong ty thể để ổn định chuỗi vận chuyển điện tử. Peptide này thường được nghiên cứu về khả năng cải thiện hiệu suất sản xuất năng lượng tế bào (ATP) và giảm stress oxy hóa liên quan đến lão hóa. SS-31 là hợp chất trọng tâm trong các nghiên cứu về ty thể và kéo dài tuổi thọ.",
+      "reconstitution_en": "Commonly reconstituted with 2mL of Bacteriostatic Water to yield a concentration of approximately 5mg/mL.",
+      "reconstitution_vi": "Thường được pha với 2ml nước Bacteriostatic Water để đạt nồng độ khoảng 5mg/ml.",
+      "usage_frequency_en": "SS-31 is commonly researched with once-daily subcutaneous dosing, with some protocols following a 5-days-on/2-days-off weekly pattern over multi-week cycles.",
+      "usage_frequency_vi": "SS-31 thường được nghiên cứu với tần suất một lần mỗi ngày, một số quy trình theo lịch 5 ngày dùng/2 ngày nghỉ mỗi tuần trong các đợt kéo dài nhiều tuần.",
+      "benefits_en": [
+        "Researched for stabilizing the mitochondrial electron transport chain via cardiolipin binding",
+        "Studied for improving cellular ATP production efficiency",
+        "Investigated for reducing oxidative-stress markers associated with aging",
+        "Explored in cardiac, renal, and neurological mitochondrial-dysfunction research models",
+        "A related formulation (Forzinia) has FDA-approved use for Barth syndrome, reflecting a mature research base"
+      ],
+      "benefits_vi": [
+        "Được nghiên cứu về ổn định chuỗi vận chuyển điện tử ty thể thông qua gắn kết cardiolipin",
+        "Được nghiên cứu về cải thiện hiệu suất sản xuất ATP tế bào",
+        "Được nghiên cứu về giảm các chỉ số stress oxy hóa liên quan lão hóa",
+        "Được xem xét trong các mô hình nghiên cứu rối loạn chức năng ty thể ở tim, thận và thần kinh",
+        "Một dạng bào chế liên quan (Forzinia) đã được FDA phê duyệt cho hội chứng Barth, cho thấy nền tảng nghiên cứu vững chắc"
+      ],
+      "slug": "/ss-31",
+      "active": true,
+      "featured": true,
+      "variants": [
+        {
+          "dose": "10mg",
+          "sku": "SS-31-10MG",
+          "price": 92.0,
+          "stock": 100,
+          "low_at": 5
+        }
+      ],
+      "order_url": "https://pacificpeptidesciences.com/product/ss-31",
+      "tagline_en": "Mitochondria-targeted tetrapeptide. Cardiolipin stabilization.",
+      "official_short_en": "Cell-permeable peptide that selectively binds inner-mitochondrial-membrane cardiolipin. Restores cristae structure and reduces ROS.",
+      "official_long_en": "SS-31 (Elamipretide) is studied in mitochondrial myopathy, heart failure with preserved ejection fraction, and age-related mitochondrial dysfunction.",
+      "mechanism_en": "Cardiolipin binding; mitochondrial membrane stabilization.",
+      "protocol_en": [
+        "2–5 mg subcutaneous, once daily.",
+        "Cycle: 4–8 weeks on, 4 weeks off."
+      ],
+      "half_life": "~3–6 hours",
+      "official_reconstitution_en": "Add 2 mL bacteriostatic water to the 10 mg vial. Each 0.4 mL = 2 mg.",
+      "official_storage_en": "Lyophilized: 2–8 °C, protect from light. Reconstituted: 2–8 °C, use within 14 days.",
+      "specs": [
+        {
+          "label": "Molecular Weight",
+          "value": "639.79 g/mol"
+        },
+        {
+          "label": "Sequence",
+          "value": "D-Arg-2',6'-Dmt-Lys-Phe-NH2 (4 AA)"
+        },
+        {
+          "label": "CAS Number",
+          "value": "736992-21-5"
+        },
+        {
+          "label": "Synonyms",
+          "value": "Elamipretide, MTP-131, Bendavia"
+        }
+      ]
+    },
+    {
+      "name": "TB-500",
+      "category": "Recovery",
+      "description_en": "TB-500 is a synthetic peptide fragment that mimics the active region of thymosin beta-4, a natural protein present in nearly all animal cell types. It is commonly researched for its potential to promote cell migration, formation of new blood vessels, and recovery of muscle, tendon, and ligament tissue. TB-500 is one of the most widely studied peptides in injury-recovery research.",
+      "description_vi": "TB-500 là đoạn peptide tổng hợp mô phỏng vùng hoạt tính của thymosin beta-4, một protein tự nhiên có mặt ở hầu hết các loại tế bào động vật. Peptide này thường được nghiên cứu về khả năng thúc đẩy di chuyển tế bào, hình thành mạch máu mới và hỗ trợ phục hồi mô cơ, gân, dây chằng. TB-500 là một trong những peptide phổ biến nhất trong lĩnh vực nghiên cứu phục hồi chấn thương.",
+      "reconstitution_en": "Commonly reconstituted with 2mL of Bacteriostatic Water to yield a concentration of approximately 5mg/mL.",
+      "reconstitution_vi": "Thường được pha với 2ml nước Bacteriostatic Water để đạt nồng độ khoảng 5mg/ml.",
+      "usage_frequency_en": "TB-500 is commonly researched with twice-weekly dosing during an initial loading phase (roughly weeks 1-6), then tapered to once weekly for maintenance, typically within an 8-12 week cycle.",
+      "usage_frequency_vi": "TB-500 thường được nghiên cứu với tần suất hai lần mỗi tuần trong giai đoạn nạp ban đầu (khoảng tuần 1-6), sau đó giảm còn một lần mỗi tuần để duy trì, thường trong chu kỳ 8-12 tuần.",
+      "benefits_en": [
+        "Researched for promoting cell migration to injured tissue",
+        "Studied for supporting formation of new blood vessels (angiogenesis)",
+        "Investigated for flexibility and range-of-motion improvements in soft tissue",
+        "Explored for reducing inflammation during the injury-recovery process",
+        "Frequently studied alongside BPC-157 for combined soft-tissue recovery research"
+      ],
+      "benefits_vi": [
+        "Được nghiên cứu về thúc đẩy di chuyển tế bào đến vùng mô tổn thương",
+        "Được nghiên cứu về hỗ trợ hình thành mạch máu mới (angiogenesis)",
+        "Được nghiên cứu về cải thiện độ linh hoạt và tầm vận động của mô mềm",
+        "Được xem xét về giảm viêm trong quá trình phục hồi chấn thương",
+        "Thường được nghiên cứu cùng BPC-157 cho nghiên cứu phục hồi mô mềm kết hợp"
+      ],
+      "slug": "/tb-500",
+      "active": true,
+      "featured": true,
+      "variants": [
+        {
+          "dose": "10mg",
+          "sku": "TB-500-10MG",
+          "price": 120.0,
+          "stock": 100,
+          "low_at": 5
+        }
+      ],
+      "order_url": "https://pacificpeptidesciences.com/product/tb-500",
+      "tagline_en": "Thymosin Beta-4 fragment. Soft-tissue mobility and repair.",
+      "official_short_en": "Synthetic active region of Thymosin Beta-4. Mobilizes stem cells and regulates actin sequestration.",
+      "official_long_en": "TB-500 corresponds to the active region of Thymosin Beta-4. Binds G-actin and modulates cytoskeletal dynamics for endothelial and stem-cell migration. Often stacked with BPC-157.",
+      "mechanism_en": "G-actin sequestration; stem-cell migration.",
+      "protocol_en": [
+        "Loading: 2.5 mg subcutaneous, twice weekly for 4 weeks.",
+        "Maintenance: 2.5 mg once weekly for 4–8 weeks.",
+        "Rotate injection sites."
+      ],
+      "half_life": "~2 hours plasma; tissue effects days",
+      "official_reconstitution_en": "Add 2 mL bacteriostatic water to the 10 mg vial. Each 0.5 mL = 2.5 mg.",
+      "official_storage_en": "Lyophilized: 2–8 °C. Reconstituted: 2–8 °C, use within 30 days.",
+      "specs": [
+        {
+          "label": "Molecular Weight",
+          "value": "4963.44 g/mol"
+        },
+        {
+          "label": "Sequence Length",
+          "value": "43 amino acids (Tβ4 1-43)"
+        },
+        {
+          "label": "CAS Number",
+          "value": "77591-33-4"
+        },
+        {
+          "label": "Synonyms",
+          "value": "Thymosin Beta-4 fragment"
+        }
+      ],
+      "cycling_en": "Cycles are commonly run for 4-8 weeks (up to 12-16 weeks for slower-healing research targets or blends), with an off period commonly at least as long as the cycle just completed -- in practice this allows for roughly 2-3 full cycles per year rather than continuous year-round use.",
+      "cycling_vi": "Chu ky thuong keo dai 4-8 tuan (co the toi 12-16 tuan voi muc tieu phuc hoi cham hoac dang blend), va thoi gian nghi thuong it nhat bang thoi gian chu ky vua dung -- tren thuc te, cach nay cho phep khoang 2-3 chu ky day du moi nam thay vi dung lien tuc quanh nam."
+    },
+    {
+      "name": "Tesamorelin",
+      "category": "Lose Fat",
+      "description_en": "Tesamorelin is a GHRH analog that has been FDA-approved (under the brand name Egrifta) for treating HIV-associated visceral fat accumulation, showing notable abdominal fat reduction in clinical studies. Beyond that specific indication, Tesamorelin is more broadly researched for its role in stimulating natural GH release and reducing visceral fat generally. It is a compound of interest in weight-loss research, particularly around abdominal fat.",
+      "description_vi": "Tesamorelin là chất tương tự GHRH đã được FDA phê duyệt (dưới tên thương mại Egrifta) để điều trị tích mỡ nội tạng liên quan đến HIV, cho thấy khả năng giảm mỡ vùng bụng khá rõ rệt trong các nghiên cứu lâm sàng. Ngoài chỉ định này, Tesamorelin còn được nghiên cứu rộng hơn về vai trò kích thích GH tự nhiên và giảm mỡ nội tạng nói chung. Đây là hợp chất được quan tâm trong lĩnh vực nghiên cứu giảm cân, đặc biệt là giảm mỡ vùng bụng.",
+      "reconstitution_en": "Commonly reconstituted with 2mL of Bacteriostatic Water to yield a concentration of approximately 5mg/mL.",
+      "reconstitution_vi": "Thường được pha với 2ml nước Bacteriostatic Water để đạt nồng độ khoảng 5mg/ml.",
+      "usage_frequency_en": "Tesamorelin is commonly used/researched at once-daily subcutaneous dosing, typically in the evening, consistent with its approved clinical use.",
+      "usage_frequency_vi": "Tesamorelin thường được nghiên cứu/sử dụng với tần suất một lần mỗi ngày, thường vào buổi tối, phù hợp với chỉ định lâm sàng đã được phê duyệt.",
+      "benefits_en": [
+        "FDA-approved (as Egrifta) for reducing visceral fat in a specific clinical population",
+        "Researched more broadly for stimulating natural GH release",
+        "Studied for reducing abdominal/visceral fat accumulation",
+        "Investigated for potential improvements in lipid profile",
+        "One of the few peptides on this list with a formally approved clinical indication"
+      ],
+      "benefits_vi": [
+        "Đã được FDA phê duyệt (dạng Egrifta) để giảm mỡ nội tạng cho một nhóm bệnh nhân cụ thể",
+        "Được nghiên cứu rộng hơn về kích thích giải phóng GH tự nhiên",
+        "Được nghiên cứu về giảm tích tụ mỡ bụng/nội tạng",
+        "Được xem xét về cải thiện tiềm năng cho hồ sơ lipid",
+        "Một trong số ít peptide trong danh sách này có chỉ định lâm sàng được phê duyệt chính thức"
+      ],
+      "slug": "/tesamorelin",
+      "active": true,
+      "featured": true,
+      "variants": [
+        {
+          "dose": "10mg",
+          "sku": "TESAMORELIN-10MG",
+          "price": 145.0,
+          "stock": 87,
+          "low_at": 5
+        }
+      ],
+      "order_url": "https://pacificpeptidesciences.com/product/tesamorelin",
+      "tagline_en": "GHRH analog with selective visceral-fat reduction.",
+      "official_short_en": "Stabilized 44-amino-acid GHRH analog approved for HIV-associated lipodystrophy. Pulls down visceral adipose tissue measurably on CT imaging.",
+      "official_long_en": "Tesamorelin is GRF(1-44) with an N-terminal hexenoyl group that resists DPP-4 cleavage. It restores pulsatile GH release and selectively reduces visceral fat with minimal subcutaneous-fat effect.",
+      "mechanism_en": "GHRH receptor agonist.",
+      "protocol_en": [
+        "1–2 mg subcutaneous, once daily before sleep.",
+        "Cycle: 12 weeks on, 4 weeks off."
+      ],
+      "half_life": "~25–40 minutes",
+      "official_reconstitution_en": "Add 2 mL bacteriostatic water to the 10 mg vial. Each 0.2 mL = 1 mg.",
+      "official_storage_en": "Lyophilized: 2–8 °C, protect from light. Reconstituted: 2–8 °C, use within 30 days.",
+      "specs": [
+        {
+          "label": "Molecular Weight",
+          "value": "5135.83 g/mol"
+        },
+        {
+          "label": "Sequence Length",
+          "value": "44 amino acids"
+        },
+        {
+          "label": "CAS Number",
+          "value": "218949-48-5"
+        },
+        {
+          "label": "Synonyms",
+          "value": "TH9507, Egrifta"
+        }
+      ],
+      "cycling_en": "As a GHRH-class compound, Tesamorelin is commonly researched with cycling patterns similar to other GH-secretagogues (e.g. weeks-on/weeks-off blocks) to help maintain pituitary responsiveness, though continuous multi-month protocols are also described in some studies.",
+      "cycling_vi": "La hop chat nhom GHRH, Tesamorelin thuong duoc nghien cuu voi kieu chu ky tuong tu cac hop chat kich GH khac (vi du chu ky vai tuan dung/nghi) de giup duy tri do nhay tuyen yen, du mot so nghien cuu cung mo ta protocol dung lien tuc nhieu thang."
+    },
+    {
+      "name": "Thymosin Alpha-1",
+      "category": "Longevity",
+      "description_en": "Thymosin Alpha-1 is a naturally occurring peptide derived from the thymus gland that helps regulate and strengthen immune system function. It is commonly researched for its potential to support immune response, balance inflammation, and support overall health during aging. Thymosin Alpha-1 is of interest in immune-health and longevity research.",
+      "description_vi": "Thymosin Alpha-1 là peptide tự nhiên có nguồn gốc từ tuyến ức, đóng vai trò điều hòa và tăng cường chức năng hệ miễn dịch. Peptide này thường được nghiên cứu về khả năng hỗ trợ đáp ứng miễn dịch, cân bằng viêm và sức khỏe tổng thể khi cơ thể lão hóa. Thymosin Alpha-1 được quan tâm trong các nghiên cứu về miễn dịch và kéo dài tuổi thọ (longevity).",
+      "reconstitution_en": "Commonly reconstituted with 2mL of Bacteriostatic Water to yield a concentration of approximately 5mg/mL.",
+      "reconstitution_vi": "Thường được pha với 2ml nước Bacteriostatic Water để đạt nồng độ khoảng 5mg/ml.",
+      "usage_frequency_en": "Thymosin Alpha-1 is commonly researched at twice-weekly dosing, with injections typically spaced 3-4 days apart.",
+      "usage_frequency_vi": "Thymosin Alpha-1 thường được nghiên cứu với tần suất hai lần mỗi tuần, các mũi tiêm thường cách nhau 3-4 ngày.",
+      "benefits_en": [
+        "Researched for modulating and strengthening immune-system responses",
+        "Studied for balancing pro- and anti-inflammatory cytokine activity",
+        "Investigated in the context of chronic viral-infection research (e.g. hepatitis B/C studies)",
+        "Explored for potential benefits to overall immune resilience during aging",
+        "Approved in several countries (though not the U.S.) as an immune-modulating therapeutic under the name Zadaxin"
+      ],
+      "benefits_vi": [
+        "Được nghiên cứu về điều hòa và tăng cường đáp ứng hệ miễn dịch",
+        "Được nghiên cứu về cân bằng hoạt động cytokine tiền viêm và kháng viêm",
+        "Được nghiên cứu trong bối cảnh nhiễm virus mạn tính (ví dụ nghiên cứu viêm gan B/C)",
+        "Được xem xét về lợi ích tiềm năng cho sức đề kháng miễn dịch khi lão hóa",
+        "Được phê duyệt ở một số quốc gia (không phải Mỹ) như liệu pháp điều hòa miễn dịch dưới tên Zadaxin"
+      ],
+      "slug": "/thymosin-alpha-1",
+      "active": true,
+      "featured": true,
+      "variants": [
+        {
+          "dose": "10mg",
+          "sku": "THYMOSIN-ALPHA-1-10MG",
+          "price": 158.0,
+          "stock": 100,
+          "low_at": 5
+        }
+      ],
+      "order_url": "https://pacificpeptidesciences.com/product/thymosin-alpha-1",
+      "tagline_en": "28-amino-acid thymic peptide. Immune modulation and antiviral research.",
+      "official_short_en": "Synthetic version of the natural thymic peptide. Used clinically (Zadaxin) for hepatitis B and immune restoration in oncology.",
+      "official_long_en": "Thymosin Alpha-1 enhances T-cell differentiation and natural-killer cell activity. Approved in over 30 countries for chronic hepatitis B and adjuvant cancer therapy.",
+      "mechanism_en": "TLR signaling; T-cell maturation.",
+      "protocol_en": [
+        "1.6 mg subcutaneous, twice weekly.",
+        "Cycle: 8–12 weeks."
+      ],
+      "half_life": "~2 hours",
+      "official_reconstitution_en": "Add 2 mL bacteriostatic water to the 10 mg vial. Each 0.32 mL = 1.6 mg.",
+      "official_storage_en": "Lyophilized: 2–8 °C. Reconstituted: 2–8 °C, use within 30 days.",
+      "specs": [
+        {
+          "label": "Molecular Weight",
+          "value": "3108.27 g/mol"
+        },
+        {
+          "label": "Sequence Length",
+          "value": "28 amino acids"
+        },
+        {
+          "label": "CAS Number",
+          "value": "62304-98-7"
+        },
+        {
+          "label": "Synonyms",
+          "value": "Tα1, Zadaxin"
+        }
+      ],
+      "cycling_en": "Commonly run in 5-8 week cycles, about 2-3 times per year, or as shorter maintenance courses timed around specific higher-risk periods (e.g. cold/flu season) rather than continuous year-round dosing.",
+      "cycling_vi": "Thuong dung theo chu ky 5-8 tuan, khoang 2-3 lan/nam, hoac theo dot bao tri ngan hon vao nhung giai doan nguy co cao hon (vi du mua cum/cam lanh) thay vi dung lien tuc quanh nam."
+    },
+    {
+      "name": "Tirzepatide",
+      "category": "Lose Fat",
+      "description_en": "Tirzepatide is a dual GLP-1/GIP receptor agonist compound that has been FDA-approved under the brand names Mounjaro and Zepbound for type 2 diabetes treatment and weight management. Its mechanism reduces appetite, slows gastric emptying, and improves blood sugar control. Tirzepatide is one of the most widely researched and used compounds today in weight-loss science.",
+      "description_vi": "Tirzepatide là hợp chất chủ vận kép thụ thể GLP-1 và GIP, đã được FDA phê duyệt dưới các tên thương mại Mounjaro và Zepbound cho điều trị đái tháo đường type 2 và kiểm soát cân nặng. Cơ chế hoạt động giúp giảm cảm giác thèm ăn, làm chậm tiêu hóa dạ dày và cải thiện kiểm soát đường huyết. Tirzepatide là một trong những hợp chất được nghiên cứu và sử dụng phổ biến nhất hiện nay trong lĩnh vực giảm cân.",
+      "reconstitution_en": "Commonly reconstituted with 2mL of Bacteriostatic Water to yield a concentration of approximately 10mg/mL.",
+      "reconstitution_vi": "Thường được pha với 2ml nước Bacteriostatic Water để đạt nồng độ khoảng 10mg/ml.",
+      "usage_frequency_en": "Tirzepatide is commonly used/researched with once-weekly subcutaneous dosing, similar to other GLP-1 analogs, with the dose typically titrated upward gradually over several weeks.",
+      "usage_frequency_vi": "Tirzepatide thường được nghiên cứu/sử dụng với tần suất tiêm một lần mỗi tuần, tương tự các hợp chất cùng nhóm GLP-1, với liều thường tăng dần qua các tuần.",
+      "benefits_en": [
+        "FDA-approved (as Mounjaro/Zepbound) for type 2 diabetes and weight management",
+        "Researched for significant appetite reduction via dual GLP-1/GIP receptor activity",
+        "Studied for improved blood sugar control and insulin sensitivity",
+        "Investigated for substantial body-weight reduction in clinical trials",
+        "One of the most extensively studied and widely used compounds in current weight-loss science"
+      ],
+      "benefits_vi": [
+        "Đã được FDA phê duyệt (dạng Mounjaro/Zepbound) cho đái tháo đường type 2 và kiểm soát cân nặng",
+        "Được nghiên cứu về giảm đáng kể cảm giác thèm ăn thông qua hoạt tính kép thụ thể GLP-1/GIP",
+        "Được nghiên cứu về cải thiện kiểm soát đường huyết và độ nhạy insulin",
+        "Được nghiên cứu về giảm cân đáng kể trong các thử nghiệm lâm sàng",
+        "Một trong những hợp chất được nghiên cứu và sử dụng rộng rãi nhất hiện nay trong khoa học giảm cân"
+      ],
+      "slug": "/tirzepatide",
+      "active": true,
+      "featured": true,
+      "variants": [
+        {
+          "dose": "20mg",
+          "sku": "TIRZEPATIDE-20MG",
+          "price": 89.0,
+          "stock": 100,
+          "low_at": 5
+        }
+      ],
+      "order_url": "https://pacificpeptidesciences.com/product/tirzepatide",
+      "tagline_en": "Dual-agonist GLP-1 / GIP. Up to 22.5% body-weight reduction in pivotal trials.",
+      "official_short_en": "Dual incretin receptor agonist used clinically as Mounjaro / Zepbound. SURMOUNT-1 reported mean weight loss of 22.5% at 72 weeks on the 15 mg dose.",
+      "official_long_en": "Tirzepatide is a synthetic 39-amino-acid analog of native GIP modified to act on both the GLP-1 and GIP receptors. The GIP arm appears to blunt some of the nausea seen with pure GLP-1 agonists while augmenting lipolysis in adipose tissue.",
+      "mechanism_en": "Dual-agonist: GLP-1 + GIP receptors.",
+      "protocol_en": [
+        "Titration: Week 1–4: 2.5 mg once weekly; Week 5–8: 5 mg once weekly; Week 9–12: 7.5–10 mg once weekly.",
+        "Maintenance: 10–15 mg once weekly, subcutaneous.",
+        "Step up every 4 weeks to manage GI tolerability."
+      ],
+      "half_life": "~5 days",
+      "official_reconstitution_en": "Add 2 mL bacteriostatic water to the 20 mg vial. Each 0.05 mL = 0.5 mg.",
+      "official_storage_en": "Lyophilized: 2–8 °C. Reconstituted: 2–8 °C, use within 30 days.",
+      "specs": [
+        {
+          "label": "Molecular Weight",
+          "value": "4813.45 g/mol"
+        },
+        {
+          "label": "Sequence Length",
+          "value": "39 amino acids"
+        },
+        {
+          "label": "CAS Number",
+          "value": "2023788-19-2"
+        },
+        {
+          "label": "Synonyms",
+          "value": "LY-3298176, Mounjaro, Zepbound"
+        }
+      ],
+      "cycling_en": "Unlike GH-secretagogues, GLP-1/GIP-receptor agonists like Tirzepatide generally do not cause the same receptor desensitization and are commonly described as not requiring on/off cycling -- continuous weekly use (with dose titration) is the typical pattern, consistent with its approved pharmaceutical use.",
+      "cycling_vi": "Khac voi nhom kich GH, cac hop chat chu van thu the GLP-1/GIP nhu Tirzepatide thuong khong gay hien tuong giam nhay thu the tuong tu, va thuong duoc mo ta la KHONG can chu ky nghi -- dung hang tuan lien tuc (co tang lieu dan) la kieu pho bien, phu hop voi ung dung duoc pham da duoc phe duyet cua no."
+    },
+    {
+      "name": "Wolverine",
+      "category": "Recovery",
+      "description_en": "Wolverine is a peptide blend of BPC-157 and TB-500, the two most widely researched peptides in the soft-tissue recovery space. The combination is commonly researched to leverage BPC-157's wound, tendon, and ligament healing potential alongside TB-500's cell-migration and blood-vessel-formation effects. Wolverine is one of the most popular blends in injury-recovery and sports-recovery research.",
+      "description_vi": "Wolverine là blend peptide gồm BPC-157 và TB-500, hai peptide được nghiên cứu nhiều nhất trong lĩnh vực phục hồi mô mềm. Sự kết hợp này thường được nghiên cứu nhằm tận dụng đồng thời khả năng làm lành vết thương, gân, dây chằng của BPC-157 và khả năng thúc đẩy di chuyển tế bào, hình thành mạch máu của TB-500. Wolverine là một trong những blend phổ biến nhất trong nghiên cứu phục hồi chấn thương và thể thao.",
+      "reconstitution_en": "This blend vial (approx. 20mg total peptide content) is commonly reconstituted with 2mL of Bacteriostatic Water, yielding roughly 10mg/mL of combined peptide.",
+      "reconstitution_vi": "Lọ blend này (tổng khoảng 20mg peptide) thường được pha với 2ml nước Bacteriostatic Water, cho nồng độ tổng khoảng 10mg/ml.",
+      "usage_frequency_en": "As a blend of BPC-157 and TB-500, Wolverine is commonly researched following a frequency similar to TB-500 - often twice weekly during an initial phase, then once weekly - typically over multi-week cycles.",
+      "usage_frequency_vi": "Là blend của BPC-157 và TB-500, Wolverine thường được nghiên cứu theo tần suất tương tự TB-500 - thường hai lần mỗi tuần trong giai đoạn đầu, sau đó một lần mỗi tuần - thường theo các đợt kéo dài nhiều tuần.",
+      "benefits_en": [
+        "Combines BPC-157 and TB-500, two of the most-studied soft-tissue recovery peptides",
+        "Researched for supporting healing of tendons, ligaments, and muscle",
+        "Studied for promoting angiogenesis and cell migration to injury sites",
+        "Popular in sports-recovery and injury-rehabilitation research contexts",
+        "Offers the convenience of two complementary mechanisms in a single vial"
+      ],
+      "benefits_vi": [
+        "Kết hợp BPC-157 và TB-500, hai peptide phục hồi mô mềm được nghiên cứu nhiều nhất",
+        "Được nghiên cứu về hỗ trợ lành gân, dây chằng và cơ",
+        "Được nghiên cứu về thúc đẩy hình thành mạch máu và di chuyển tế bào đến vùng tổn thương",
+        "Phổ biến trong bối cảnh nghiên cứu phục hồi thể thao và phục hồi chấn thương",
+        "Mang lại sự tiện lợi khi kết hợp hai cơ chế bổ sung trong một lọ"
+      ],
+      "slug": "/wolverine",
+      "active": true,
+      "featured": true,
+      "variants": [
+        {
+          "dose": "Blend Vial",
+          "sku": "WOLVERINE-BLENDVIAL",
+          "price": 82.0,
+          "stock": 98,
+          "low_at": 5
+        }
+      ],
+      "order_url": "https://pacificpeptidesciences.com/product/wolverine",
+      "tagline_en": "BPC-157 + TB-500 stack. The classic injury-repair pair.",
+      "official_short_en": "Pre-blended injury-recovery duo: BPC-157 5 mg + TB-500 5 mg in a single vial. The most-used research stack for tendon, ligament, and joint protocols.",
+      "official_long_en": "Wolverine combines the two most studied repair peptides in a single convenient vial. BPC-157 handles microvascular formation and tendon-to-bone interface; TB-500 supports cell migration into the injury site. Together they are the canonical recovery pair.",
+      "mechanism_en": "VEGFR2 upregulation + G-actin sequestration; stem-cell migration.",
+      "protocol_en": [
+        "0.2 mL subcutaneous near the area of interest, daily for 2–4 weeks.",
+        "Maintenance: 2–3× weekly. Rotate injection sites."
+      ],
+      "half_life": "BPC-157 ~4 h; TB-500 ~2 h plasma",
+      "official_reconstitution_en": "Add 2 mL bacteriostatic water to the blend vial.",
+      "official_storage_en": "Lyophilized: 2–8 °C. Reconstituted: 2–8 °C, use within 30 days.",
+      "specs": [
+        {
+          "label": "Composition",
+          "value": "BPC-157 5 mg · TB-500 5 mg"
+        },
+        {
+          "label": "Total Mass",
+          "value": "10 mg per vial"
+        },
+        {
+          "label": "Purity",
+          "value": "99%+ HPLC per component"
+        },
+        {
+          "label": "Application",
+          "value": "Injury & tendon recovery research"
+        }
+      ]
+    }
+  ],
+  "bundles": [
+    {
+      "name": "Fat Loss Essentials",
+      "components": [
+        "Retatrutide 10mg",
+        "AOD9604 10mg",
+        "SLU-PP-332 5mg",
+        "Tesamorelin 10mg"
+      ],
+      "bundle_price": 445.5,
+      "original_price": 495.0,
+      "savings": 49.5,
+      "discount_percent": 10,
+      "synergy_en": "Maximum fat-loss protocol: appetite control (Retatrutide), direct fat breakdown (AOD9604), exercise-mimetic effects (SLU-PP-332), and visceral fat reduction (Tesamorelin).",
+      "synergy_vi": "Phac do giam mo toi da: kiem soat them an (Retatrutide), dot mo truc tiep (AOD9604), gia lap tap the duc (SLU-PP-332) va giam mo noi tang (Tesamorelin).",
+      "order_url": "https://pacificpeptidesciences.com/bundle/bundle-fat-loss-essentials",
+      "tagline_en": "Four-pillar metabolic stack for sustained fat loss."
+    },
+    {
+      "name": "Recovery & Healing Staples",
+      "components": [
+        "BPC-157 10mg",
+        "TB-500 10mg",
+        "GHK-Cu 100mg"
+      ],
+      "bundle_price": 238.5,
+      "original_price": 265.0,
+      "savings": 26.5,
+      "discount_percent": 10,
+      "synergy_en": "The \"Wolverine Stack\": rapid recovery from muscle/bone/joint injuries (BPC-157 + TB-500) combined with complete tissue and skin regeneration (GHK-Cu).",
+      "synergy_vi": "Con goi la \"Wolverine Stack\": phuc hoi chan thuong co/xuong/khop nhanh chong (BPC-157 + TB-500) ket hop tai tao mo va da hoan chinh (GHK-Cu).",
+      "order_url": "https://pacificpeptidesciences.com/bundle/bundle-recovery-healing-staples",
+      "tagline_en": "Tissue, tendon, and ligament repair foundations."
+    },
+    {
+      "name": "Skin & Hair Growth Components",
+      "components": [
+        "GHK-Cu 100mg",
+        "CJC-1295 / Ipamorelin 10mg",
+        "HGH 15mg"
+      ],
+      "bundle_price": 212.4,
+      "original_price": 236.0,
+      "savings": 23.6,
+      "discount_percent": 10,
+      "synergy_en": "Full-spectrum rejuvenation: HGH and CJC-1295/Ipamorelin drive cellular turnover from within, while GHK-Cu rebuilds collagen, supports hair growth, and firms skin from the outside.",
+      "synergy_vi": "Tre hoa toan dien: HGH va CJC-1295/Ipamorelin thuc day luan chuyen te bao tu ben trong, trong khi GHK-Cu tai tao collagen, ho tro moc toc va lam san chac da tu ben ngoai.",
+      "order_url": "https://pacificpeptidesciences.com/bundle/bundle-skin-hair",
+      "tagline_en": "Dermal repair and follicle-support compounds."
+    },
+    {
+      "name": "Longevity & Energy Collection",
+      "components": [
+        "NAD+ 500mg",
+        "Epithalon 50mg",
+        "MOTS-c 10mg",
+        "SS-31 10mg"
+      ],
+      "bundle_price": 347.4,
+      "original_price": 386.0,
+      "savings": 38.6,
+      "discount_percent": 10,
+      "synergy_en": "A longevity-focused stack: optimizes mitochondrial energy (MOTS-c, SS-31, NAD+) and supports DNA protection to help slow cellular-level aging (Epithalon).",
+      "synergy_vi": "Goi huong toi keo dai tuoi tho: toi uu nang luong ty the (MOTS-c, SS-31, NAD+) va ho tro bao ve DNA, gop phan lam cham lao hoa o cap do te bao (Epithalon).",
+      "order_url": "https://pacificpeptidesciences.com/bundle/bundle-longevity-energy",
+      "tagline_en": "Mitochondrial, cellular, and telomere support."
+    },
+    {
+      "name": "Neurological & Cognitive Necessities",
+      "components": [
+        "Semax 10mg",
+        "Selank 10mg",
+        "NAD+ 500mg"
+      ],
+      "bundle_price": 180.0,
+      "original_price": 200.0,
+      "savings": 20.0,
+      "discount_percent": 10,
+      "synergy_en": "A nootropic stack: helps reduce anxiety (Selank), supports focus and cognition (Semax), and supplies cellular energy to support brain function (NAD+).",
+      "synergy_vi": "Goi nootropic: ho tro giam lo au (Selank), tang kha nang tap trung/nhan thuc (Semax), va cung cap nang luong te bao ho tro chuc nang nao bo (NAD+).",
+      "order_url": "https://pacificpeptidesciences.com/bundle/bundle-neuro-cognitive",
+      "tagline_en": "Focus, recall, and neuroprotective support."
+    },
+    {
+      "name": "Muscle Building Stack",
+      "components": [
+        "CJC-1295 / Ipamorelin 10mg",
+        "IGF-1 LR3 1mg",
+        "HGH 15mg"
+      ],
+      "bundle_price": 302.4,
+      "original_price": 336.0,
+      "savings": 33.6,
+      "discount_percent": 10,
+      "synergy_en": "A lean-muscle stack aimed at maximizing an anabolic environment: HGH and the GH-stimulating duo CJC-1295/Ipamorelin paired with IGF-1 LR3, which is researched for supporting new muscle cell growth (hyperplasia).",
+      "synergy_vi": "Goi tang co nac, huong toi toi da hoa moi truong dong hoa: HGH va bo doi kich thich GH (CJC-1295/Ipamorelin) ket hop IGF-1 LR3 - duoc nghien cuu ve kha nang ho tro tang sinh te bao co moi (hyperplasia).",
+      "order_url": "https://pacificpeptidesciences.com/bundle/bundle-muscle-building",
+      "tagline_en": "GH-axis and anabolic recovery for hypertrophy research."
+    },
+    {
+      "name": "Libido Package",
+      "components": [
+        "PT-141 10mg",
+        "Kisspeptin-10 10mg"
+      ],
+      "bundle_price": 136.8,
+      "original_price": 152.0,
+      "savings": 15.2,
+      "discount_percent": 10,
+      "synergy_en": "A libido-focused stack that approaches desire from two angles: the central nervous system (PT-141) and the hormonal/reproductive axis (Kisspeptin-10).",
+      "synergy_vi": "Goi ho tro sinh ly, tiep can ham muon tu hai huong: he than kinh trung uong (PT-141) va truc noi tiet/sinh san (Kisspeptin-10).",
+      "order_url": "https://pacificpeptidesciences.com/bundle/bundle-libido",
+      "tagline_en": "Central-pathway libido and arousal support."
+    },
+    {
+      "name": "Metabolic Reset Fundamentals",
+      "components": [
+        "Retatrutide 10mg",
+        "SLU-PP-332 5mg",
+        "MOTS-c 10mg",
+        "SS-31 10mg"
+      ],
+      "bundle_price": 334.8,
+      "original_price": 372.0,
+      "savings": 37.2,
+      "discount_percent": 10,
+      "synergy_en": "A metabolic-reset stack: supports weight management (Retatrutide), optimizes mitochondrial function (MOTS-c, SS-31), and supports physical endurance (SLU-PP-332).",
+      "synergy_vi": "Goi tai khoi dong chuyen hoa: ho tro kiem soat can nang (Retatrutide), toi uu hoat dong ty the (MOTS-c, SS-31), va ho tro suc ben the chat (SLU-PP-332).",
+      "order_url": "https://pacificpeptidesciences.com/bundle/bundle-metabolic-reset",
+      "tagline_en": "Insulin sensitivity and mitochondrial reset."
+    },
+    {
+      "name": "Immune System Batch",
+      "components": [
+        "Thymosin Alpha-1 10mg",
+        "BPC-157 10mg",
+        "GHK-Cu 100mg"
+      ],
+      "bundle_price": 272.7,
+      "original_price": 303.0,
+      "savings": 30.3,
+      "discount_percent": 10,
+      "synergy_en": "An immune-support stack: Thymosin Alpha-1 is researched for supporting immune defenses, BPC-157 for gut-lining balance (a major site of immune activity), and GHK-Cu for its anti-inflammatory, tissue-repair properties.",
+      "synergy_vi": "Goi ho tro mien dich: Thymosin Alpha-1 duoc nghien cuu ve ho tro he mien dich, BPC-157 ho tro can bang nieu mac duong ruot (noi tap trung phan lon hoat dong mien dich), va GHK-Cu ho tro khang viem, phuc hoi mo.",
+      "order_url": "https://pacificpeptidesciences.com/bundle/bundle-immune-system",
+      "tagline_en": "Thymic, repair, and copper-peptide immune support."
+    }
+  ],
+  "guide": {
+    "title_en": "How to Reconstitute Peptides",
+    "title_vi": "Cach Pha Che Peptide",
+    "steps_en": [
+      "Gather supplies: the lyophilized (freeze-dried) peptide vial, a vial of Bacteriostatic Water, an appropriately sized syringe (e.g. an insulin syringe for small volumes), and a few alcohol swabs. Work on a clean, flat surface and wash your hands first.",
+      "Wipe the rubber stopper of the Bacteriostatic Water vial with an alcohol swab and let it air-dry for a few seconds before piercing it.",
+      "Draw the desired amount of Bacteriostatic Water into the syringe (the amount commonly used for each product's vial size is listed on that product's page). Remove any large air bubbles by tapping the syringe and pushing the plunger slightly.",
+      "Wipe the rubber stopper of the peptide vial with a fresh alcohol swab and let it air-dry.",
+      "Insert the needle into the peptide vial at an angle and slowly inject the Bacteriostatic Water down the INSIDE WALL of the vial rather than directly onto the powder. Injecting directly onto the powder or too quickly can cause excess foaming, which may denature (damage) the peptide.",
+      "Do not shake the vial. Instead, gently swirl the vial in a slow circular motion, or gently roll it between your palms, until the powder is fully dissolved.",
+      "If the solution is not fully clear after swirling, let the vial sit undisturbed at room temperature for a few minutes and then swirl again gently. Most peptides reconstitute into a clear, colorless-to-faint-tint solution (GHK-Cu based blends often show a light blue tint from the copper content, which is normal).",
+      "Once fully dissolved, label the vial with the reconstitution date (and, if helpful, the resulting concentration in mg/mL) so it is easy to track how long it has been mixed.",
+      "Store the reconstituted vial in the refrigerator (approximately 2-8°C) and keep it away from direct light, ideally in its original box or wrapped to block light exposure.",
+      "Try to use the reconstituted vial within the shelf life commonly cited for that specific peptide once mixed (often on the order of a few weeks when refrigerated) — check the product-specific guidance for that particular peptide rather than assuming one universal number, since stability varies by compound.",
+      "Avoid repeatedly freezing and thawing a reconstituted vial, and avoid leaving it at room temperature for extended periods, as both can accelerate degradation of the peptide."
+    ],
+    "steps_vi": [
+      "Chuan bi day du: lo peptide dang bot dong kho, mot lo nuoc Bacteriostatic Water, mot ong tiem (bom kim tiem) co dung tich phu hop (vi du ong tiem insulin cho the tich nho), va vai mieng gac tam con. Lam viec tren be mat sach, phang va rua tay truoc khi bat dau.",
+      "Lau nap cao su cua lo nuoc Bacteriostatic Water bang gac tam con, de kho tu nhien vai giay truoc khi dam kim vao.",
+      "Rut luong nuoc Bacteriostatic Water can dung vao ong tiem (luong thuong dung cho tung loai san pham da duoc ghi trong trang chi tiet cua san pham do). Loai bot khong khi lon bang cach go nhe vao ong tiem va day piston mot chut.",
+      "Lau nap cao su cua lo peptide bang mieng gac tam con moi, de kho tu nhien.",
+      "Dam kim vao lo peptide theo goc nghieng va bom nuoc tu tu doc theo THANH TRONG cua lo, khong bom truc tiep len bot peptide. Bom truc tiep len bot hoac bom qua nhanh co the tao bot qua nhieu, lam hong (bien tinh) peptide.",
+      "Khong lac manh lo thuoc. Thay vao do, xoay nhe lo theo chuyen dong tron cham, hoac lan nhe lo giua hai long ban tay cho den khi bot tan het.",
+      "Neu dung dich chua trong hoan toan sau khi xoay, de lo yen o nhiet do phong vai phut roi xoay nhe lai. Da so peptide sau khi pha se cho dung dich trong, khong mau hoac hoi anh mau nhe (cac blend co GHK-Cu thuong co mau xanh nhat do thanh phan dong, day la binh thuong).",
+      "Sau khi bot da tan het, dan nhan len lo ghi ro ngay pha che (va neu can, ghi ca nong do mg/ml) de de dang theo doi thoi gian da pha.",
+      "Bao quan lo da pha trong tu lanh (khoang 2-8°C) va tranh anh sang truc tiep, tot nhat la de trong hop goc hoac boc lai de chan sang.",
+      "Nen su dung lo da pha trong khoang thoi gian thuong duoc khuyen nghi cho tung loai peptide cu the (thuong khoang vai tuan neu bao quan lanh) - hay tham khao huong dan rieng cua tung san pham thay vi ap dung mot con so chung cho tat ca, vi do on dinh khac nhau tuy hop chat.",
+      "Tranh dong lanh roi ra lanh lap di lap lai doi voi lo da pha, va tranh de lo o nhiet do phong qua lau, vi ca hai deu co the lam peptide xuong cap nhanh hon."
+    ],
+    "notes_en": [
+      "Always use Bacteriostatic Water (not plain sterile water) when possible, since its antimicrobial preservative helps the reconstituted solution stay usable longer.",
+      "Use a new needle/syringe for each vial you access to reduce contamination risk, and never reuse a syringe that has already been used for injection to draw from a shared vial.",
+      "If a reconstituted solution appears cloudy, discolored beyond what is expected, or has visible particles, it is generally best not to use it.",
+      "This guide describes general, commonly published industry practice for handling research peptides and is not medical or dosing advice.",
+      "When reconstituted with Bacteriostatic Water, many peptide vendors commonly cite a shelf life of up to about 28 days (4 weeks) refrigerated, though this can vary by specific peptide -- check that product's own guidance when available."
+    ],
+    "notes_vi": [
+      "Luon uu tien dung nuoc Bacteriostatic Water (khong dung nuoc cat thuong) neu co the, vi chat bao quan khang khuan trong do giup dung dich sau khi pha su dung duoc lau hon.",
+      "Dung kim/ong tiem moi moi khi thao tac voi tung lo de giam nguy co nhiem khuan, va khong bao gio dung lai ong tiem da tiem de rut thuoc tu lo dung chung.",
+      "Neu dung dich sau khi pha bi duc, doi mau bat thuong, hoac co can/hat la, thi tot nhat khong nen su dung.",
+      "Huong dan nay mo ta thuc hanh chung, pho bien trong nganh doi voi peptide nghien cuu, khong phai loi khuyen y te hay huong dan lieu dung.",
+      "Khi pha voi nuoc Bacteriostatic Water, nhieu nha cung cap peptide thuong de cap thoi han su dung khoang 28 ngay (4 tuan) neu bao quan lanh, tuy nhien con so nay co the khac nhau tuy loai peptide - nen kiem tra huong dan rieng cua tung san pham neu co."
+    ],
+    "safety_note_en": "These products are intended for adult research use only (18+) and are not intended for use by minors, or by pregnant or nursing women. Anyone with an existing medical condition or who is taking medication should consult a qualified healthcare professional before considering use of any peptide. These items are sold for research purposes and, with limited exceptions, have not been evaluated or approved by regulatory agencies as drugs for general public use; Tirzepatide and Retatrutide are exceptions in that their active molecules have separate FDA-approved pharmaceutical formulations (e.g. Mounjaro/Zepbound, and Retatrutide's ongoing pharma development) marketed under different branding for specific medical indications, which is distinct from the research-grade product listed here.",
+    "safety_note_vi": "Cac san pham nay chi danh cho muc dich nghien cuu o nguoi truong thanh (tu 18 tuoi tro len), khong danh cho tre vi thanh nien, phu nu co thai hoac dang cho con bu. Nguoi co benh ly nen hoac dang dung thuoc dieu tri nen tham khao y kien chuyen gia y te truoc khi can nhac su dung bat ky loai peptide nao. Cac san pham nay duoc ban cho muc dich nghien cuu va, tru mot so ngoai le, chua duoc cac co quan quan ly danh gia hay phe duyet nhu thuoc dung cho cong chung noi chung; Tirzepatide va Retatrutide la ngoai le vi hoat chat cua chung co cac dang bao che duoc pham rieng da duoc FDA phe duyet (vi du Mounjaro/Zepbound, va Retatrutide dang trong qua trinh phat trien duoc pham) ban duoi thuong hieu khac cho cac chi dinh y te cu the, khac voi san pham nghien cuu duoc liet ke tai day.",
+    "cycling_note_en": "Cycling needs vary a lot by peptide class, and there is no single official per-year limit that applies to all products -- check each product's own 'cycling' info first when available, and only fall back to these general patterns otherwise. GH-secretagogues (CJC-1295/Ipamorelin, Sermorelin, HGH, Tesamorelin) are commonly cycled about 8-12 weeks on, then about 4 weeks off, since continuous stimulation is commonly linked to reduced pituitary/receptor responsiveness (tachyphylaxis) over time. GLP-1/GIP-receptor agonists (Retatrutide, Tirzepatide) generally do NOT require on/off cycling and are commonly used continuously with dose titration, since they do not cause the same receptor desensitization. Recovery peptides (BPC-157, TB-500) are typically run 4-8 weeks (up to 12-16 weeks for blends), resting at least as long as the completed cycle, allowing roughly 2-3 full cycles per year. GHK-Cu is commonly cycled in shorter blocks such as 30 days on/14 days off (several cycles per year), partly to limit cumulative copper exposure. Very short-course peptides like Epithalon (about 10 nightly doses) are followed by an extended break of several months, often cited as up to about 3 short courses per year. Thymosin Alpha-1 is commonly run in 5-8 week cycles about 2-3 times per year, or as shorter maintenance courses during specific higher-risk periods. These are patterns commonly described in peptide-community and vendor literature, not a single official regulatory limit -- present them as general starting points, not a fixed rule for a specific individual, and say so plainly for any compound not covered by this note or its own product-specific cycling info.",
+    "cycling_note_vi": "Nhu cau chia chu ky khac nhau nhieu tuy nhom peptide, va khong co con so gioi han chinh thuc theo nam ap dung chung cho tat ca san pham -- uu tien xem thong tin 'cycling' rieng cua tung san pham truoc, chi dung cac mau hinh chung duoi day khi khong co thong tin rieng. Nhom kich GH (CJC-1295/Ipamorelin, Sermorelin, HGH, Tesamorelin) thuong dung chu ky khoang 8-12 tuan roi nghi khoang 4 tuan, vi kich thich lien tuc thuong duoc cho la lam giam do nhay tuyen yen/thu the theo thoi gian (tachyphylaxis). Nhom chu van thu the GLP-1/GIP (Retatrutide, Tirzepatide) thuong KHONG can chu ky nghi va thuong duoc dung lien tuc co tang lieu dan, vi khong gay giam nhay thu the tuong tu. Peptide phuc hoi (BPC-157, TB-500) thuong dung 4-8 tuan (toi 12-16 tuan voi dang blend), nghi it nhat bang thoi gian chu ky vua dung, cho phep khoang 2-3 chu ky day du moi nam. GHK-Cu thuong dung chu ky ngan hon nhu 30 ngay dung/14 ngay nghi (nhieu chu ky hon moi nam), mot phan de han che tich luy dong. Cac peptide dung dot rat ngan nhu Epithalon (khoang 10 dem lien tiep) duoc theo sau boi mot khoang nghi dai vai thang, thuong duoc de cap toi da khoang 3 dot ngan moi nam. Thymosin Alpha-1 thuong dung chu ky 5-8 tuan khoang 2-3 lan/nam, hoac theo dot bao tri ngan hon vao cac giai doan nguy co cao hon. Day la cac mau hinh thuong duoc mo ta trong cong dong peptide va tai lieu nha cung cap, khong phai mot gioi han quy dinh chinh thuc duy nhat -- trinh bay nhu diem khoi dau chung, khong phai quy tac co dinh cho mot ca nhan cu the, va noi ro neu mot hop chat khong nam trong ghi chu nay hay khong co thong tin cycling rieng."
+  },
+  "mixing_guide": {
+    "title_en": "Can Different Peptides Be Mixed Together?",
+    "title_vi": "Co The Tron Chung Cac Peptide Voi Nhau Khong?",
+    "general_rule_en": "Always reconstitute each peptide in its OWN vial with its own Bacteriostatic Water -- never add water to more than one peptide's powder in the same vial. 'Mixing peptides' normally refers to drawing doses from two or more already-reconstituted vials into the same syringe immediately before injecting, not combining them during reconstitution.",
+    "general_rule_vi": "Luon pha tung loai peptide trong LO RIENG cua no voi nuoc Bacteriostatic Water rieng -- khong bao gio bom nuoc vao chung bot cua hai peptide khac nhau trong cung 1 lo. 'Tron peptide' thuong co nghia la rut lieu tu hai hay nhieu lo da pha san vao chung 1 ong tiem ngay truoc khi tiem, chu khong phai tron luc pha che.",
+    "notes_en": [
+      "Two reconstituted peptides are generally considered fine to draw into the same syringe when both are water-soluble, reconstituted in plain Bacteriostatic Water, and stable around a similar near-neutral pH (roughly 6-7) -- this is why combos like BPC-157 + TB-500, or CJC-1295 + Ipamorelin, are commonly drawn together or even sold as a single pre-mixed blend vial.",
+      "Avoid combining peptides whose solutions sit at very different pH extremes (very acidic, below ~4, mixed with very alkaline, above ~8), since forcing them together can push both out of their stable range and reduce potency.",
+      "GHK-Cu is a special case: it carries a copper ion, which acts as an oxidation catalyst. Combining GHK-Cu with peptides that contain oxidation-sensitive amino acids (e.g. methionine, cysteine, tryptophan) in the same syringe can accelerate degradation of the other peptide. The general recommendation is to inject GHK-Cu separately from other peptides rather than combining it in one syringe, even if both are used in the same overall protocol (e.g. GHK-Cu and NAD+ are commonly run in the same protocol, just as separate injections, not mixed together).",
+      "When in doubt about a specific pair not covered here, the safer default is to inject them separately rather than combine them, since combining is about convenience, not a requirement -- separate injections are never wrong.",
+      "This is general, commonly published compatibility guidance, not a lab-verified compatibility test for every possible pair -- it is not medical advice."
+    ],
+    "notes_vi": [
+      "Hai peptide da pha thuong duoc coi la on khi rut chung vao 1 ong tiem neu ca hai deu tan trong nuoc, pha bang nuoc Bacteriostatic Water thong thuong, va on dinh o muc pH gan trung tinh tuong tu nhau (khoang 6-7) -- day la ly do cac cap nhu BPC-157 + TB-500, hay CJC-1295 + Ipamorelin, thuong duoc rut chung hoac tham chi duoc ban san duoi dang 1 lo blend da tron san.",
+      "Tranh ket hop cac peptide co dung dich o hai thai cuc pH qua khac nhau (rat axit, duoi ~4, tron voi rat kiem, tren ~8), vi ep chung lai co the day ca hai ra khoi vung on dinh va lam giam hieu luc.",
+      "GHK-Cu la truong hop dac biet: no mang ion dong, co tac dung nhu chat xuc tac oxy hoa. Ket hop GHK-Cu voi cac peptide co chua axit amin nhay cam voi oxy hoa (vi du methionine, cysteine, tryptophan) trong cung 1 ong tiem co the day nhanh su phan huy cua peptide kia. Khuyen nghi chung la tiem GHK-Cu rieng, khong tron chung ong tiem voi peptide khac, du ca hai van co the dung chung trong 1 phac do (vi du GHK-Cu va NAD+ thuong duoc dung chung phac do, nhung tiem rieng, khong tron chung).",
+      "Neu khong chac ve 1 cap cu the chua duoc de cap o day, lua chon an toan hon la tiem rieng thay vi tron chung, vi tron chi la de tien loi chu khong bat buoc -- tiem rieng khong bao gio sai.",
+      "Day la huong dan tuong thich chung, pho bien duoc cong bo, khong phai ket qua kiem nghiem phong lab cho tung cap cu the -- khong phai loi khuyen y te."
+    ]
+  },
+  "video_insights": [
+    {
+      "video_id": "O_4biM4Bcys",
+      "title": "12 Case Studies Show BPC-157 Works | Cancer Fear-Mongering Exposed - Dr Trevor Bachmeyer",
+      "channel": "Dr Trevor Bachmeyer",
+      "url": "https://www.youtube.com/watch?v=O_4biM4Bcys",
+      "summary": "- Lieu luong duy tri suc khoe va ho tro truong tho: Su dung 500 mcg tu 1 den 2 lan moi ngay.\n\n- Lieu luong ho tro phuc hoi chan thuong: Dung 2 den 5 mg moi ngay trong 5 den 10 ngay dau, sau do giam xuong 1 mg moi ngay trong 10 den 15 ngay tiep theo, truoc khi quay lai lieu duy tri 500 mcg chia lam 2 lan moi ngay.\n\n- Hieu qua cua duong uong: BPC-157 duong uong duoc nhan xet la khong co hieu qua thuc te.\n\n- Canh bao ve chat luong va pha che: Cac trai nghiem tieu cuc khi dung BPC-157 thuong do mua phai san pham kem chat luong (chi chua chat don mannitol) hoac do pha che sai cach voi axit axetic.\n\n- Giai thich ve tinh an toan va ung thu: BPC-157 khong tu gay ra ung thu vi ung thu la do su suy giam co che tu huy cua te bao loi va loi kiem soat phan bao, chu khong don thuan la do cac tin hieu tang truong."
+    }
+  ]
+}
