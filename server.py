@@ -162,7 +162,9 @@ CHAT_PAGE = """<!doctype html>
 <title>Trợ lý Peptide Shop</title>
 <style>
   body{margin:0;font-family:'Segoe UI',sans-serif;background:#0f1420;color:#e7eaf3;height:100vh;display:flex;flex-direction:column}
-  header{background:#161d2e;padding:16px 20px;font-weight:700}
+  header{background:#161d2e;padding:16px 20px;font-weight:700;display:flex;align-items:center;justify-content:space-between}
+  header a{color:#8790a8;font-size:12px;font-weight:400;text-decoration:none;border:1px solid #2a334a;padding:5px 10px;border-radius:14px}
+  header a:hover{color:#fff;border-color:#5865f2}
   #log{flex:1;overflow-y:auto;padding:16px;display:flex;flex-direction:column;gap:10px}
   .msg{max-width:75%;padding:10px 14px;border-radius:14px;line-height:1.4;font-size:14px}
   .user{align-self:flex-end;background:#5865f2;color:#fff}
@@ -173,7 +175,7 @@ CHAT_PAGE = """<!doctype html>
   button:disabled{opacity:.5;cursor:default}
 </style></head>
 <body>
-<header>Trợ lý Peptide Shop</header>
+<header><span>Trợ lý Peptide Shop</span><a href="/admin">⚙ Admin</a></header>
 <div id="log"></div>
 <form id="f"><input id="q" placeholder="Nhập câu hỏi..." autocomplete="off"><button id="send">Gửi</button></form>
 <script>
@@ -202,7 +204,9 @@ ADMIN_PAGE = """<!doctype html>
 <title>Hoc tu YouTube - Admin</title>
 <style>
   body{margin:0;font-family:'Segoe UI',sans-serif;background:#0f1420;color:#e7eaf3;padding:20px}
-  h1{font-size:18px}
+  h1{font-size:18px;display:flex;align-items:center;justify-content:space-between}
+  h1 a{color:#8790a8;font-size:12px;font-weight:400;text-decoration:none;border:1px solid #2a334a;padding:5px 10px;border-radius:14px}
+  h1 a:hover{color:#fff;border-color:#5865f2}
   textarea{width:100%;box-sizing:border-box;padding:10px;border-radius:8px;border:none;background:#1c2438;color:#f0f2f7;font-size:14px;margin-bottom:10px}
   textarea{height:120px;resize:vertical;font-family:inherit}
   button{padding:10px 20px;border-radius:8px;border:none;background:#5865f2;color:#fff;font-weight:700;cursor:pointer}
@@ -210,7 +214,7 @@ ADMIN_PAGE = """<!doctype html>
   #out{margin-top:16px;white-space:pre-wrap;font-size:13px;background:#1c2438;padding:12px;border-radius:8px;max-height:400px;overflow-y:auto}
 </style></head>
 <body>
-<h1>Learn from YouTube</h1>
+<h1><span>Learn from YouTube</span><a href="/">💬 Chat</a></h1>
 <textarea id="links" placeholder="Paste link YouTube"></textarea>
 <button id="btn">Start</button>
 <div id="out"></div>
