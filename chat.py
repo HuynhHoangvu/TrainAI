@@ -172,6 +172,39 @@ def build_video_insight_chunks(video_insights: list[dict]) -> list[dict]:
     return chunks
 
 
+def build_education_chunks(product_education: dict) -> list[dict]:
+    """Kien thuc chuyen sau (lich su, co che, ly do thu vi...) cho tung san pham.
+    Day la lop thong tin bo sung khi khach hoi sau, KHONG dung de tra loi cac cau
+    hoi ngan gon thuong ngay (gia, lieu dung...) - tranh lam cau tra loi dai dong."""
+    chunks = []
+    for slug, entry in (product_education or {}).items():
+        en = entry.get("en") or {}
+        if not en:
+            continue
+        parts = [f"San pham: {slug}", f"Phan loai: {en.get('classLine', '')}"]
+        for field, label in [
+            ("history", "History"),
+            ("what", "What it is"),
+            ("mechanism", "Mechanism"),
+            ("benefits", "Benefits"),
+            ("research", "Research"),
+            ("anecdotal", "Anecdotal reports"),
+            ("whyInteresting", "Why interesting"),
+        ]:
+            items = en.get(field)
+            if items:
+                parts.append(f"{label}:\n" + "\n".join(f"- {i}" for i in items))
+        pairs = en.get("pairsWell") or []
+        if pairs:
+            parts.append(
+                "Pairs well with:\n"
+                + "\n".join(f"- {p.get('slug')}: {p.get('reason')}" for p in pairs)
+            )
+        text = "\n\n".join(parts)
+        chunks.append({"type": "education", "title": slug, "url": None, "text": text})
+    return chunks
+
+
 CATEGORY_ALIASES = {
     "Lose Fat": "giam can, giam mo, dot mo, giam beo",
     "Recovery": "phuc hoi, tai tao mo, lanh vet thuong, chong viem",
@@ -316,6 +349,7 @@ def retrieve_combined(
     top_k_products: int = 5,
     top_k_bundles: int = 3,
     top_k_videos: int = 2,
+    top_k_education: int = 2,
     history: list[dict] | None = None,
     client: genai.Client | None = None,
     chunk_embeddings: list[list[float]] | None = None,
@@ -325,11 +359,13 @@ def retrieve_combined(
     guide_chunks = [c for c in chunks if c.get("type") == "guide"]
     bundle_chunks = [c for c in chunks if c.get("type") == "bundle"]
     video_chunks = [c for c in chunks if c.get("type") == "video"]
+    education_chunks = [c for c in chunks if c.get("type") == "education"]
 
     results = (
         retrieve(product_chunks, search_text, top_k_products)
         + retrieve(bundle_chunks, search_text, top_k_bundles)
         + retrieve(video_chunks, search_text, top_k_videos)
+        + retrieve(education_chunks, search_text, top_k_education)
     )
 
     if client is not None and chunk_embeddings is not None:
@@ -350,6 +386,8 @@ def _format_chunk(c: dict) -> str:
         return f"[Goi combo: {c['title']}]\n{c['text']}"
     if c.get("type") == "video":
         return c["text"]
+    if c.get("type") == "education":
+        return f"[KIEN THUC CHUYEN SAU - chi dung khi khach hoi sau, khong phai thong tin ban hang] {c['text']}"
     return f"[Huong dan pha che chung]\n{c['text']}"
 
 
@@ -371,6 +409,8 @@ QUAN TRONG: Cac nhan nhu "Official protocol", "Official reconstitution", "tu web
 THU TU UU TIEN KHI CAC NGUON MAU THUAN NHAU (quan trong): THONG TIN THAM KHAO co the gom nhieu loai nguon voi do tin cay khac nhau - (1) thong tin san pham/"Official protocol"/"Official reconstitution" cua shop la nguon dang tin cay nhat, luon uu tien dung nguon nay truoc; (2) cac doan danh dau "[KINH NGHIEM CHIA SE - khong phai thong tin chinh thuc cua shop]" la quan diem/kinh nghiem ca nhan tu video YouTube cua nguoi khac, CHUA duoc xac thuc, do tin cay thap hon. Neu kinh nghiem chia se trong video KHAC voi thong tin chinh thuc cua shop (vi du lieu luong khac nhau), hay uu tien noi so lieu chinh thuc truoc, roi neu can co the them "mot so nguon/kinh nghiem chia se khac lai dung..." nhu mot ghi chu phu, KHONG duoc tron lan hai loai lam mot hay coi kinh nghiem chia se ngang hang voi thong tin chinh thuc. Neu nhieu video khac nhau ke kinh nghiem TRAI NGUOC nhau va khong co thong tin chinh thuc de doi chieu, hay noi that la co nhieu kinh nghiem khac nhau duoc chia se va khach nen tham khao them, KHONG tu chon 1 ben la dung.
 
 Khi khach hoi co the dung chung/ket hop san pham nao voi nhau, hay uu tien tra loi dua tren cac GOI COMBO co san trong THONG TIN THAM KHAO (neu co goi phu hop). Neu khong co goi combo lien quan va cung khong co thong tin nao khac ve viec ket hop, hay noi that la chua co du lieu ve viec phoi hop cu the do, KHONG tu suy doan hay bia dat.
+
+Ve cac doan danh dau "[KIEN THUC CHUYEN SAU]" (lich su phat trien, co che sinh hoc chi tiet, tinh trang nghien cuu lam sang, ly do khoa hoc thu vi): day la kien thuc nen tang, KHONG phai thong tin ban hang - co san pham trong do (vi du "glutathione") co the KHONG nam trong danh sach san pham shop dang ban, nen KHONG duoc suy ra la shop co ban chi vi co trong phan nay. CHI dua vao phan nay khi khach hoi ro rang muon tim hieu sau (vi du hoi "no hoat dong the nao", "lich su cua chat nay", "tai sao no dac biet", "co nghien cuu gi ve no"). Voi cac cau hoi ngan gon thuong ngay (gia, lieu dung, cach dung, con hang khong), KHONG tu dong nhet toan bo kien thuc chuyen sau vao cau tra loi du co trong THONG TIN THAM KHAO - se lam cau tra loi dai dong, kho hieu; chi tra loi dung trong tam cau hoi, giu ngan gon nhu binh thuong.
 
 Khi khach hoi CO THE TRON/RUT CHUNG hai peptide vao 1 ong tiem hay khong (khac voi hoi ve goi combo ban san), hay dung phan "Can Different Peptides Be Mixed Together?" / "Co The Tron Chung Cac Peptide Voi Nhau Khong?" trong THONG TIN THAM KHAO (neu co) de tra loi theo nguyen tac chung (tuong thich dung moi, do pH, luu y dac biet voi GHK-Cu do co oxy hoa). Neu cap san pham khach hoi khong duoc de cap ro trong do, ap dung nguyen tac chung va noi ro day la huong dan chung, khuyen nghi an toan la tiem rieng neu khong chac chan, KHONG khang dinh chac chan "duoc" hay "khong duoc" cho 1 cap cu the chua duoc xac nhan.
 
@@ -401,12 +441,14 @@ def load_all_chunks() -> list[dict]:
     guide = knowledge.get("guide")
     mixing = knowledge.get("mixing_guide")
     video_insights = knowledge.get("video_insights", [])
+    product_education = knowledge.get("product_education", {})
     return (
         build_product_chunks(products)
         + build_bundle_chunks(bundles)
         + build_guide_chunk(guide)
         + build_mixing_chunk(mixing)
         + build_video_insight_chunks(video_insights)
+        + build_education_chunks(product_education)
     )
 
 

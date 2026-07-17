@@ -1,0 +1,1976 @@
+{
+  "retatrutide": {
+    "en": {
+      "classLine": "Triple agonist of GLP-1, GIP and glucagon receptors",
+      "history": [
+        "Retatrutide (development code LY3437943) emerged from Eli Lilly's incretin research program in the early 2020s and became one of the most-anticipated obesity candidates of the decade. It is widely seen as the natural successor to tirzepatide in the same lab.",
+        "Researcher interest grew sharply after early Phase 1 and Phase 2 read-outs reported some of the largest body-weight changes ever observed for an investigational metabolic peptide — drawing comparisons across the entire GLP-1 class."
+      ],
+      "what": [
+        "Retatrutide is a single-molecule peptide that activates three different metabolic receptors at once: GLP-1, GIP and glucagon. Most GLP-1 drugs hit one or two of these. Retatrutide hits all three, which is why it has drawn so much attention in the obesity research community.",
+        "It belongs to the newest generation of incretin-mimetic peptides — engineered relatives of natural hormones your gut releases after a meal — and is sometimes called a 'triple agonist' to distinguish it from single-target (semaglutide) and dual-target (tirzepatide) molecules.",
+        "The molecule was designed to be stable in the bloodstream for a full week, so each administration covers seven days of receptor activity from a single subcutaneous injection."
+      ],
+      "mechanism": [
+        "GLP-1 activation slows gastric emptying so meals feel filling for longer, dampens appetite signals in the brain's hypothalamus, and improves how the pancreas releases insulin in response to food.",
+        "GIP activation supports insulin sensitivity and is thought to influence how fat tissue stores and releases energy — and may also soften the nausea that pure GLP-1 agonism can cause.",
+        "Glucagon activation is the unique third arm: it nudges the liver and fat tissue toward burning stored energy, which means retatrutide raises total energy expenditure on top of cutting appetite. That combination is what makes it stand out from older GLP-1 molecules."
+      ],
+      "benefits": [
+        "Strong appetite reduction and meal-size control",
+        "Substantial body-weight and fat-mass changes in research settings",
+        "Improvements in glycemic markers and insulin sensitivity",
+        "Potential improvements in liver-fat markers under study",
+        "Once-weekly cadence — convenient research scheduling"
+      ],
+      "research": [
+        "Retatrutide is in late-stage clinical research for obesity and metabolic disease, with active Phase 3 programs running under names such as TRIUMPH for obesity and TRIUMPH-MASH for fatty-liver disease.",
+        "Published Phase 2 obesity data reported body-weight changes in the 17–24% range over 48 weeks at the higher dose tiers — numbers widely discussed as the largest reported for any incretin-class molecule to date.",
+        "Investigators are also studying its effects on hepatic fat (MASLD/MASH), cardiovascular risk markers, and obstructive sleep apnea — areas where appetite suppression alone cannot fully explain the observed improvements."
+      ],
+      "anecdotal": [
+        "Researchers commonly report rapid early appetite suppression, fewer cravings, and meaningful changes in body composition over multi-week protocols. Gastrointestinal adjustment in the first weeks — mild nausea, slower digestion, occasional reflux — is also widely reported and typically settles with titration."
+      ],
+      "whyInteresting": [
+        "Retatrutide is the first incretin molecule to combine all three of the major metabolic-hormone arms in one weekly injection. For researchers tracking the GLP-1 class, it represents the current frontier of what a single peptide can do for energy balance — and is the closest thing the literature has to a 'maximum-effect' incretin reference."
+      ],
+      "pairsWell": [
+        {
+          "slug": "tesamorelin",
+          "reason": "Targets visceral fat from a different angle"
+        },
+        {
+          "slug": "mots-c",
+          "reason": "Mitochondrial energy and metabolic support"
+        }
+      ]
+    },
+    "vi": {
+      "classLine": "Chủ vận ba thụ thể GLP-1, GIP và glucagon",
+      "what": [
+        "Retatrutide là peptide đơn phân tử kích hoạt đồng thời ba thụ thể chuyển hóa: GLP-1, GIP và glucagon. Hầu hết thuốc GLP-1 chỉ tác động một hoặc hai. Retatrutide tác động cả ba, vì vậy nó thu hút nhiều sự quan tâm trong cộng đồng nghiên cứu béo phì.",
+        "Nó thuộc thế hệ mới nhất của các peptide bắt chước incretin — phiên bản được thiết kế từ các hormone tự nhiên mà ruột tiết ra sau bữa ăn."
+      ],
+      "mechanism": [
+        "GLP-1 làm chậm tốc độ làm rỗng dạ dày, giảm tín hiệu thèm ăn trong não và cải thiện cách tuyến tụy giải phóng insulin sau ăn.",
+        "GIP hỗ trợ độ nhạy insulin và được cho là ảnh hưởng đến cách mô mỡ lưu trữ và giải phóng năng lượng.",
+        "Glucagon là điểm độc đáo: nó thúc đẩy gan và mô mỡ đốt cháy năng lượng dự trữ, có thể giúp tăng tổng năng lượng tiêu hao bên cạnh việc giảm thèm ăn."
+      ],
+      "benefits": [
+        "Giảm thèm ăn mạnh và kiểm soát khẩu phần",
+        "Thay đổi đáng kể về cân nặng và khối lượng mỡ trong nghiên cứu",
+        "Cải thiện các chỉ số đường huyết và độ nhạy insulin",
+        "Tiềm năng cải thiện các chỉ số mỡ gan đang được nghiên cứu"
+      ],
+      "research": [
+        "Retatrutide đang trong giai đoạn nghiên cứu lâm sàng cuối cho béo phì và bệnh chuyển hóa. Nó thường được thảo luận cùng semaglutide và tirzepatide như một trong những phân tử incretin mạnh nhất được mô tả đến nay."
+      ],
+      "anecdotal": [
+        "Các nhà nghiên cứu thường báo cáo giảm cảm giác thèm ăn nhanh chóng, ít cảm giác thèm, và thay đổi đáng kể về thành phần cơ thể qua các giao thức nhiều tuần. Việc điều chỉnh tiêu hóa trong những tuần đầu cũng được báo cáo rộng rãi."
+      ],
+      "pairsWell": [
+        {
+          "slug": "tesamorelin",
+          "reason": "Nhắm vào mỡ nội tạng từ một góc độ khác"
+        },
+        {
+          "slug": "mots-c",
+          "reason": "Hỗ trợ năng lượng ty thể và chuyển hóa"
+        }
+      ]
+    }
+  },
+  "tirzepatide": {
+    "en": {
+      "classLine": "Dual agonist of GLP-1 and GIP receptors",
+      "history": [
+        "Tirzepatide was developed by Eli Lilly and approved in 2022 (Mounjaro) for type-2 diabetes and in 2023 (Zepbound) for obesity. It was the first dual GLP-1 / GIP receptor agonist to reach the clinic and quickly became the benchmark molecule for the next generation of incretin research.",
+        "Interest exploded after head-to-head trials showed it producing larger weight and glycemic changes than semaglutide — establishing the multi-receptor approach as the dominant direction for the entire field."
+      ],
+      "what": [
+        "Tirzepatide is a dual-action peptide that activates both GLP-1 and GIP receptors. It is the molecule sold clinically as Mounjaro and Zepbound and is the current benchmark for incretin-based weight and metabolic research.",
+        "Unlike single-receptor GLP-1 analogues, the GIP arm appears to add an extra metabolic dimension — particularly around insulin sensitivity and how the body handles dietary fat.",
+        "The molecule includes a fatty-acid tail that binds reversibly to albumin in the bloodstream, which is the chemistry trick that gives it a once-weekly dosing window."
+      ],
+      "mechanism": [
+        "GLP-1 signaling reduces appetite via brainstem and hypothalamic circuits, slows stomach emptying, and improves the timing of insulin release after meals.",
+        "GIP signaling acts on pancreatic beta cells and adipose tissue, improves nutrient handling, and may reduce the nausea associated with pure GLP-1 agonism.",
+        "The two receptor arms together produce strong, sustained appetite control with metabolic improvements that often go beyond what weight loss alone explains — including changes in lipid handling and liver fat."
+      ],
+      "benefits": [
+        "Sustained appetite suppression and portion control",
+        "Notable weight and fat-mass reductions in research",
+        "Improved glycemic control and insulin sensitivity",
+        "Often-reported reduction in cravings for high-palatability food",
+        "Once-weekly subcutaneous cadence"
+      ],
+      "research": [
+        "Tirzepatide has an extensive published evidence base across the SURPASS (type-2 diabetes) and SURMOUNT (obesity) programs — including head-to-head data versus semaglutide.",
+        "Investigators continue to study its effects on cardiovascular markers, MASLD/MASH liver fat, obstructive sleep apnea (where it has shown meaningful reductions in apnea-hypopnea events), and chronic kidney disease.",
+        "Pharmacologically it is notable as the first 'twincretin' to make it to market and is the reference molecule cited in essentially every new multi-receptor incretin paper."
+      ],
+      "anecdotal": [
+        "Reduced food noise, smaller meals without effort, and steady weekly weight changes are commonly reported. Mild nausea and slower digestion early in a protocol are also widely noted and usually settle within the first few weeks of titration."
+      ],
+      "whyInteresting": [
+        "Tirzepatide is the molecule that proved combining receptors works better than maximizing a single one — reshaping a decade of incretin research in one read-out. It remains the standard against which every newer multi-agonist (including retatrutide) is measured."
+      ],
+      "pairsWell": [
+        {
+          "slug": "retatrutide",
+          "reason": "Same family, different receptor mix"
+        },
+        {
+          "slug": "tesamorelin",
+          "reason": "Adds a visceral-fat-focused mechanism"
+        }
+      ]
+    },
+    "vi": {
+      "classLine": "Chủ vận kép thụ thể GLP-1 và GIP",
+      "what": [
+        "Tirzepatide là peptide hai cơ chế kích hoạt cả thụ thể GLP-1 và GIP. Đây là phân tử được bán trên lâm sàng với tên Mounjaro và Zepbound, hiện là chuẩn mực cho nghiên cứu cân nặng và chuyển hóa dựa trên incretin.",
+        "Khác với các chất đồng vận GLP-1 đơn thụ thể, nhánh GIP dường như bổ sung một chiều chuyển hóa khác — đặc biệt là độ nhạy insulin và cách cơ thể xử lý chất béo."
+      ],
+      "mechanism": [
+        "Tín hiệu GLP-1 giảm thèm ăn qua các mạch não, làm chậm tốc độ làm rỗng dạ dày và cải thiện thời điểm tiết insulin sau ăn.",
+        "Tín hiệu GIP tác động lên tế bào beta tuyến tụy và mô mỡ, có thể cải thiện xử lý dinh dưỡng và giảm buồn nôn liên quan đến GLP-1 đơn lẻ.",
+        "Hai thụ thể cùng tạo ra kiểm soát thèm ăn mạnh và bền vững với những cải thiện chuyển hóa thường vượt xa giải thích chỉ bằng giảm cân."
+      ],
+      "benefits": [
+        "Giảm thèm ăn bền vững và kiểm soát khẩu phần",
+        "Giảm cân và khối lượng mỡ đáng kể trong nghiên cứu",
+        "Cải thiện kiểm soát đường huyết và độ nhạy insulin",
+        "Thường được báo cáo giảm thèm thực phẩm hấp dẫn"
+      ],
+      "research": [
+        "Tirzepatide có cơ sở bằng chứng công bố rộng rãi cho tiểu đường týp 2 và béo phì. Các nhà nghiên cứu tiếp tục nghiên cứu tác động lên các chỉ số tim mạch, mỡ gan và kết quả chuyển hóa liên quan đến giấc ngủ."
+      ],
+      "anecdotal": [
+        "Giảm 'tiếng nói thức ăn', ăn ít hơn không cần cố gắng và thay đổi cân nặng đều đặn hàng tuần thường được báo cáo. Buồn nôn nhẹ và tiêu hóa chậm hơn ở giai đoạn đầu cũng được ghi nhận."
+      ],
+      "pairsWell": [
+        {
+          "slug": "retatrutide",
+          "reason": "Cùng họ, hỗn hợp thụ thể khác"
+        },
+        {
+          "slug": "tesamorelin",
+          "reason": "Bổ sung cơ chế nhắm mỡ nội tạng"
+        }
+      ]
+    }
+  },
+  "tesamorelin": {
+    "en": {
+      "classLine": "Growth-hormone-releasing hormone (GHRH) analogue",
+      "history": [
+        "Tesamorelin was developed by Theratechnologies and approved by the FDA in 2010 (brand name Egrifta) for reducing visceral fat in HIV-associated lipodystrophy. It remains the only GHRH-class molecule with a formal regulatory approval for a fat-distribution endpoint.",
+        "Researcher interest broadened over the following decade as investigators noticed its visceral-fat effect was meaningful in non-HIV populations too — putting tesamorelin at the center of healthy-aging and metabolic research stacks."
+      ],
+      "what": [
+        "Tesamorelin is a stabilized analogue of GHRH — the hypothalamic hormone that tells the pituitary to release growth hormone. A trans-3-hexenoic-acid modification protects it from being broken down so a single daily dose can produce a meaningful pulse.",
+        "Because it works through your own pituitary, the GH pulse it produces follows a natural rhythm rather than being a flat exogenous dose — researchers often choose it when they want GH-axis support without the supraphysiologic peaks of recombinant HGH."
+      ],
+      "mechanism": [
+        "Tesamorelin binds GHRH receptors in the anterior pituitary and triggers a pulse of endogenous growth hormone.",
+        "That GH pulse stimulates the liver to produce IGF-1, which mediates many of the downstream effects on lean tissue and fat metabolism.",
+        "The molecule is particularly associated with reductions in visceral adipose tissue (VAT) — the deep belly fat around organs that is most metabolically harmful — and the effect appears to be specific to VAT rather than subcutaneous fat."
+      ],
+      "benefits": [
+        "Targeted reduction in visceral (deep abdominal) fat",
+        "Modest improvements in lipid profile and waist circumference",
+        "Support for lean mass when paired with training",
+        "Often-reported improvements in sleep quality"
+      ],
+      "research": [
+        "Tesamorelin has the clearest visceral-fat evidence in the GHRH class, with controlled studies in HIV-associated lipodystrophy showing ~15–20% reductions in visceral fat over 26 weeks.",
+        "Ongoing research areas include MASLD/MASH (liver-fat reduction has been shown in randomized trials), cognitive endpoints in healthy older adults, and body-composition studies in non-HIV populations.",
+        "Compared with HGH it produces a pulsatile rather than flat GH profile, which is why investigators interested in physiologic GH-axis support reach for it instead of recombinant somatropin."
+      ],
+      "anecdotal": [
+        "Researchers commonly describe a slower, steadier change in waist measurement compared with incretin-class peptides, with improved sleep and recovery as secondary effects. Mild injection-site reactions are sometimes noted."
+      ],
+      "whyInteresting": [
+        "Tesamorelin sits in an unusual position — a regulatory-approved peptide for a fat-distribution endpoint, with a mechanism that supports the body's own GH rhythm. It is the cleanest tool the literature has for studying visceral-fat biology specifically."
+      ],
+      "pairsWell": [
+        {
+          "slug": "tirzepatide",
+          "reason": "Combine appetite control with visceral-fat targeting"
+        },
+        {
+          "slug": "cjc-1295-ipamorelin",
+          "reason": "Same GH axis from the complementary GHRP angle"
+        }
+      ]
+    },
+    "vi": {
+      "classLine": "Chất tương tự hormone giải phóng GH (GHRH)",
+      "what": [
+        "Tesamorelin là dạng tương tự ổn định của GHRH — hormone vùng dưới đồi báo tuyến yên giải phóng hormone tăng trưởng. Đây là phân tử thuộc lớp GHRH duy nhất được phê duyệt chính thức để giảm mỡ nội tạng.",
+        "Vì nó hoạt động thông qua tuyến yên của chính bạn, xung GH tạo ra theo nhịp tự nhiên thay vì là liều ngoại sinh phẳng."
+      ],
+      "mechanism": [
+        "Tesamorelin gắn vào thụ thể GHRH ở tuyến yên và kích hoạt một xung GH nội sinh.",
+        "Xung GH đó kích thích gan sản xuất IGF-1, vốn trung gian nhiều tác động xuôi dòng lên mô nạc và chuyển hóa mỡ.",
+        "Peptide này đặc biệt liên quan đến việc giảm mỡ nội tạng — mỡ bụng sâu quanh các cơ quan, là loại nguy hại nhất về chuyển hóa."
+      ],
+      "benefits": [
+        "Giảm mỡ nội tạng (mỡ bụng sâu) có mục tiêu",
+        "Cải thiện vừa phải về lipid và vòng eo",
+        "Hỗ trợ khối nạc khi kết hợp với tập luyện",
+        "Thường được báo cáo cải thiện chất lượng giấc ngủ"
+      ],
+      "research": [
+        "Tesamorelin có bằng chứng giảm mỡ nội tạng rõ ràng nhất trong lớp GHRH, với các nghiên cứu kiểm soát ở chứng loạn dưỡng mỡ liên quan HIV và công việc đang diễn ra trong ứng dụng chuyển hóa và nhận thức."
+      ],
+      "anecdotal": [
+        "Các nhà nghiên cứu thường mô tả sự thay đổi vòng eo chậm và đều hơn so với peptide lớp incretin, với cải thiện giấc ngủ và phục hồi như tác dụng phụ."
+      ],
+      "pairsWell": [
+        {
+          "slug": "tirzepatide",
+          "reason": "Kết hợp kiểm soát thèm ăn với nhắm mỡ nội tạng"
+        },
+        {
+          "slug": "ipamorelin",
+          "reason": "Cùng trục GH từ góc GHRP bổ sung"
+        }
+      ]
+    }
+  },
+  "aod9604": {
+    "en": {
+      "classLine": "Modified C-terminal fragment of human growth hormone",
+      "history": [
+        "AOD9604 (the 'Anti-Obesity Drug' fragment) was developed in the late 1990s at Monash University in Australia and licensed by Metabolic Pharmaceuticals as a fragment-based obesity candidate. It captures the last 16 amino acids of growth hormone — the region thought to carry GH's fat-burning activity.",
+        "It made early headlines as a slimming peptide that wouldn't carry over GH's growth and IGF-1 effects, and remains widely cited in fat-metabolism research as a 'GH fragment without the GH'."
+      ],
+      "what": [
+        "AOD9604 is a short peptide derived from the fat-burning region of growth hormone. It was engineered to keep the lipolytic (fat-mobilizing) activity of GH while removing the parts of the molecule that drive growth and IGF-1 release.",
+        "Because it does not raise IGF-1 meaningfully, it is often discussed as a more targeted fat-metabolism tool than full GH — and is sometimes chosen when investigators want to study fat mobilization without simultaneously activating anabolic pathways."
+      ],
+      "mechanism": [
+        "AOD9604 stimulates beta-3 adrenergic signaling in fat cells, encouraging the breakdown of stored triglycerides into free fatty acids that the body can burn for fuel.",
+        "It also appears to inhibit lipogenesis (new-fat creation) in some research models, which is part of why it is positioned as a body-composition tool rather than a generic fat-loss peptide.",
+        "Effects on cartilage and joint tissue have been described in animal work as well, though those mechanisms are less well characterized than its lipolytic profile."
+      ],
+      "benefits": [
+        "Mobilization of stored fat for energy use",
+        "Potential support for body-composition changes alongside training and diet",
+        "Discussion of cartilage and joint comfort in some research settings",
+        "No meaningful effect on blood glucose or IGF-1"
+      ],
+      "research": [
+        "AOD9604 has been studied as an obesity candidate in human Phase 2 trials (modest effects on weight at the highest dose tier) and in animal models for fat oxidation and cartilage health.",
+        "It remains a common entry point for researchers who want fat-metabolism activity without the IGF-1 effects of full GH or GHRH/GHRP stacks."
+      ],
+      "anecdotal": [
+        "Gradual changes in body composition over multi-week protocols are the most common reports. Effects are typically described as subtle and additive rather than dramatic on their own — which is why AOD9604 is often layered onto a larger protocol."
+      ],
+      "whyInteresting": [
+        "AOD9604 is interesting because it isolates a single GH function — fat mobilization — without dragging the growth-promoting parts of the molecule along. That makes it one of the cleanest peptide tools for studying lipolysis in isolation."
+      ],
+      "pairsWell": [
+        {
+          "slug": "cjc-1295-ipamorelin",
+          "reason": "GH axis support layered on fat mobilization"
+        },
+        {
+          "slug": "mots-c",
+          "reason": "Adds mitochondrial energy expenditure"
+        }
+      ]
+    },
+    "vi": {
+      "classLine": "Mảnh đầu C đã sửa đổi của hormone tăng trưởng người",
+      "what": [
+        "AOD9604 là peptide ngắn có nguồn gốc từ vùng đốt mỡ của GH. Nó được thiết kế để giữ hoạt tính ly giải mỡ của GH trong khi loại bỏ các phần phân tử thúc đẩy tăng trưởng và giải phóng IGF-1.",
+        "Vì không tăng IGF-1 đáng kể, nó thường được thảo luận như một công cụ chuyển hóa mỡ có mục tiêu hơn so với GH đầy đủ."
+      ],
+      "mechanism": [
+        "AOD9604 kích thích tín hiệu beta-adrenergic trong tế bào mỡ, thúc đẩy phân giải triglyceride dự trữ thành axit béo tự do để cơ thể đốt cháy.",
+        "Nó cũng được thảo luận về tác động lên sụn và mô khớp, mặc dù cơ chế này ít được mô tả rõ hơn so với hồ sơ ly giải mỡ."
+      ],
+      "benefits": [
+        "Huy động mỡ dự trữ để dùng làm năng lượng",
+        "Hỗ trợ tiềm năng cho thay đổi thành phần cơ thể khi kết hợp tập và ăn",
+        "Được thảo luận về sụn và sự thoải mái khớp trong một số nghiên cứu"
+      ],
+      "research": [
+        "AOD9604 đã được nghiên cứu như một ứng viên béo phì và vẫn là điểm khởi đầu phổ biến cho các nhà nghiên cứu muốn hoạt tính chuyển hóa mỡ mà không có tác động IGF-1 của GH đầy đủ hoặc stack GHRH/GHRP."
+      ],
+      "anecdotal": [
+        "Thay đổi dần về thành phần cơ thể qua giao thức nhiều tuần là báo cáo phổ biến nhất. Hiệu quả thường được mô tả là tinh tế và bổ trợ hơn là kịch tính khi dùng một mình."
+      ],
+      "pairsWell": [
+        {
+          "slug": "cjc-1295-ipamorelin",
+          "reason": "Hỗ trợ trục GH chồng lên huy động mỡ"
+        },
+        {
+          "slug": "mots-c",
+          "reason": "Bổ sung tiêu hao năng lượng ty thể"
+        }
+      ]
+    }
+  },
+  "slu-pp-332": {
+    "en": {
+      "classLine": "ERR (estrogen-related receptor) agonist — exercise-mimetic research compound",
+      "history": [
+        "SLU-PP-332 was reported in 2023 by a Saint Louis University research group as the first selective small-molecule pan-ERR agonist. It became one of the most-discussed 'exercise in a pill' candidates in metabolic research within months of publication.",
+        "The compound is named after the lab and the chemical-series number — the public Science paper from the Burris group is the original reference still cited today."
+      ],
+      "what": [
+        "SLU-PP-332 is a small-molecule research compound — not a peptide — that activates the ERRα/β/γ family of nuclear receptors. These receptors sit at the center of how muscle and metabolic tissues respond to endurance training.",
+        "It is widely classified as an 'exercise mimetic' because it turns on many of the same gene programs that endurance training switches on — without the exercise itself.",
+        "It is firmly a research-only molecule with no human pharmacology data yet."
+      ],
+      "mechanism": [
+        "ERR activation upregulates the genes that govern mitochondrial biogenesis, fatty-acid oxidation, and oxidative muscle-fiber phenotype — the same programs endurance training switches on.",
+        "The downstream effect in research models is increased energy expenditure, improved exercise capacity, and a shift toward burning fat for fuel even at rest.",
+        "Because the ERR pathway sits upstream of mitochondrial output, the compound's effects look more like 'trained metabolism' than 'appetite suppression'."
+      ],
+      "benefits": [
+        "Research interest in endurance and fatigue resistance",
+        "Increased fat oxidation and metabolic rate in animal models",
+        "Discussion of weight and glycemic improvements without appetite suppression"
+      ],
+      "research": [
+        "Published mouse work showed SLU-PP-332 roughly doubled running endurance and produced metabolic improvements without affecting food intake — a pattern that does not exist in any approved drug class.",
+        "It is being investigated as a research-tool molecule for mitochondrial-biogenesis pathways, obesity, and muscle-wasting models. Human data is absent.",
+        "It is the most cited new entry in the 'exercise mimetic' literature since the discovery of the original PPARδ agonists in the 2000s."
+      ],
+      "anecdotal": [
+        "Because human use is early and research-only, anecdotal reports are sparse and should be read with appropriate caution."
+      ],
+      "whyInteresting": [
+        "SLU-PP-332 sits at a unique intersection: it is small enough for oral research formulations, hits an under-drugged receptor family, and produces effects that look more like 'being trained' than 'losing weight'. It is one of the most discussed research tools in the new exercise-mimetic literature."
+      ],
+      "pairsWell": [
+        {
+          "slug": "mots-c",
+          "reason": "Both targets converge on mitochondrial function"
+        },
+        {
+          "slug": "aod9604",
+          "reason": "Different fat-metabolism mechanism"
+        }
+      ]
+    },
+    "vi": {
+      "classLine": "Chất chủ vận ERR — hợp chất nghiên cứu mô phỏng tập luyện",
+      "what": [
+        "SLU-PP-332 là hợp chất nghiên cứu phân tử nhỏ — không phải peptide — kích hoạt họ thụ thể nhân ERRα/β/γ. Các thụ thể này nằm ở trung tâm của cách cơ và mô chuyển hóa đáp ứng với tập luyện sức bền.",
+        "Nó đã thu hút sự chú ý như một trong những ứng viên 'mô phỏng tập luyện' hàng đầu trong nghiên cứu chuyển hóa."
+      ],
+      "mechanism": [
+        "Kích hoạt ERR tăng biểu hiện gen điều khiển sinh tổng hợp ty thể, oxy hóa axit béo và kiểu hình cơ oxy hóa — cùng các chương trình mà tập sức bền kích hoạt.",
+        "Hiệu ứng xuôi dòng trong mô hình nghiên cứu là tăng tiêu hao năng lượng, cải thiện khả năng tập luyện và chuyển sang đốt mỡ làm nhiên liệu."
+      ],
+      "benefits": [
+        "Mối quan tâm nghiên cứu về sức bền và chống mệt",
+        "Tăng oxy hóa mỡ và tốc độ chuyển hóa ở mô hình động vật",
+        "Thảo luận về cải thiện cân nặng và đường huyết mà không ức chế thèm ăn"
+      ],
+      "research": [
+        "Công bố trên động vật đã cho thấy cải thiện sức bền chạy và các chỉ số chuyển hóa. Dữ liệu trên người còn hạn chế, và SLU-PP-332 vẫn ở giai đoạn chỉ-nghiên-cứu."
+      ],
+      "anecdotal": [
+        "Vì sử dụng trên người còn sớm, báo cáo giai thoại còn ít và nên đọc với sự thận trọng phù hợp."
+      ],
+      "pairsWell": [
+        {
+          "slug": "mots-c",
+          "reason": "Cả hai cùng hội tụ vào chức năng ty thể"
+        },
+        {
+          "slug": "aod9604",
+          "reason": "Cơ chế chuyển hóa mỡ khác"
+        }
+      ]
+    }
+  },
+  "cjc-1295-ipamorelin": {
+    "en": {
+      "classLine": "GHRH analogue + GHRP — combined growth-hormone-releasing stack",
+      "history": [
+        "CJC-1295 was developed at ConjuChem in the mid-2000s as a long-acting GHRH analogue. Ipamorelin was developed at Novo Nordisk in the late 1990s as a highly selective ghrelin-receptor agonist. The two were never originally marketed together — the blend became a research-community standard because the mechanisms are so complementary.",
+        "The combination is now one of the most widely referenced GH-secretagogue stacks in performance and longevity research."
+      ],
+      "what": [
+        "This blend pairs two peptides that work on different parts of the same growth-hormone axis. CJC-1295 is a stabilized GHRH analogue; Ipamorelin is a selective ghrelin-receptor agonist (GHRP).",
+        "Run together they produce a larger and more natural GH pulse than either peptide alone, while preserving the body's own pulsatile rhythm — which is the main reason researchers favor the stack over recombinant HGH.",
+        "Most blends sold today are CJC-1295 'without DAC' — i.e. without the albumin-binding tail — which keeps the GH pulse short and clean instead of producing a sustained plateau."
+      ],
+      "mechanism": [
+        "CJC-1295 binds GHRH receptors on the pituitary and amplifies the size of each natural GH pulse.",
+        "Ipamorelin binds the ghrelin/GHS receptor and adds an independent push on GH release while suppressing somatostatin — the brake that normally limits how much GH is released.",
+        "Ipamorelin is notable for being highly selective: unlike older GHRPs (GHRP-6, GHRP-2), it does not meaningfully raise cortisol or prolactin, which is part of why it has displaced older GHRPs in research protocols."
+      ],
+      "benefits": [
+        "Stronger, more pulsatile GH and IGF-1 release",
+        "Support for lean mass and recovery between training sessions",
+        "Commonly reported improvements in sleep depth",
+        "Skin, hair and connective-tissue effects discussed in longer protocols"
+      ],
+      "research": [
+        "Both peptides have been studied individually in clinical and research settings — CJC-1295 in dose-finding pharmacology trials, ipamorelin across multiple Phase 2 trials for postoperative ileus.",
+        "The combination is widely discussed in performance and longevity research as a way to support GH levels while keeping the natural pulse pattern intact — particularly the deep-sleep GH pulse.",
+        "Compared with tesamorelin (GHRH alone) the stack adds a second 'push' on the pituitary, which is why research models often show a larger GH AUC than GHRH-only molecules."
+      ],
+      "anecdotal": [
+        "Deeper sleep, faster recovery between hard sessions, and gradual body-composition changes over months are the most common anecdotal reports. Some researchers describe a transient 'flushing' sensation from the ipamorelin arm in the first minutes after dosing."
+      ],
+      "whyInteresting": [
+        "The CJC-1295 / Ipamorelin stack is interesting because it gets meaningful GH support out of the body's own pituitary instead of replacing the hormone from outside — preserving the natural GH pulse profile that exogenous HGH flattens."
+      ],
+      "pairsWell": [
+        {
+          "slug": "bpc-157",
+          "reason": "Recovery and soft-tissue support"
+        },
+        {
+          "slug": "tesamorelin",
+          "reason": "Same GH axis, fat-loss leaning"
+        }
+      ]
+    },
+    "vi": {
+      "classLine": "Đồng phân GHRH + GHRP — tổ hợp giải phóng hormone tăng trưởng",
+      "what": [
+        "Sự kết hợp này ghép hai peptide tác động lên hai phần khác nhau của cùng một trục hormone tăng trưởng. CJC-1295 là đồng phân GHRH ổn định; Ipamorelin là chất chủ vận chọn lọc thụ thể ghrelin (GHRP).",
+        "Khi dùng cùng nhau, chúng tạo ra một xung GH lớn hơn và tự nhiên hơn so với khi dùng riêng, đồng thời vẫn giữ được nhịp xung tự nhiên của cơ thể."
+      ],
+      "mechanism": [
+        "CJC-1295 gắn vào thụ thể GHRH trên tuyến yên và khuếch đại biên độ mỗi xung GH tự nhiên.",
+        "Ipamorelin gắn vào thụ thể ghrelin/GHS và bổ sung lực đẩy độc lập lên sự giải phóng GH, đồng thời ức chế somatostatin — phanh giới hạn lượng GH được tiết ra.",
+        "Ipamorelin nổi bật vì tính chọn lọc cao: khác với các GHRP cũ, nó không làm tăng cortisol hay prolactin đáng kể."
+      ],
+      "benefits": [
+        "Giải phóng GH và IGF-1 mạnh hơn, theo nhịp xung",
+        "Hỗ trợ khối nạc và phục hồi giữa các buổi tập",
+        "Cải thiện độ sâu giấc ngủ thường được báo cáo",
+        "Tác dụng lên da, tóc và mô liên kết được thảo luận trong các giao thức dài hơi"
+      ],
+      "research": [
+        "Cả hai peptide đều đã được nghiên cứu riêng lẻ trong môi trường lâm sàng và nghiên cứu. Sự kết hợp được thảo luận rộng rãi trong nghiên cứu hiệu suất và tuổi thọ như một cách hỗ trợ mức GH trong khi vẫn giữ nguyên mô hình xung tự nhiên."
+      ],
+      "anecdotal": [
+        "Giấc ngủ sâu hơn, phục hồi nhanh hơn giữa các buổi tập nặng, và thay đổi dần thành phần cơ thể qua nhiều tháng là những báo cáo phổ biến nhất."
+      ],
+      "pairsWell": [
+        {
+          "slug": "bpc-157",
+          "reason": "Hỗ trợ phục hồi và mô mềm"
+        },
+        {
+          "slug": "tesamorelin",
+          "reason": "Cùng trục GH, thiên về giảm mỡ"
+        }
+      ]
+    }
+  },
+  "sermorelin": {
+    "en": {
+      "classLine": "Truncated GHRH analogue (1–29)",
+      "history": [
+        "Sermorelin was synthesized in the 1970s by Roger Guillemin's group (a line of work that won the 1977 Nobel Prize) as the shortest active fragment of GHRH. It was approved by the FDA in 1997 as Geref for pediatric GH deficiency.",
+        "After the brand was withdrawn for commercial reasons, sermorelin moved into compounded and research use, where it has been one of the most widely prescribed GH-axis peptides for two decades."
+      ],
+      "what": [
+        "Sermorelin is the first 29 amino acids of natural GHRH — the active part of the molecule. It is one of the original GHRH-class peptides and is often used as a milder, more 'physiological' entry point to the GH axis.",
+        "Because it is short-acting, it produces a brief, clean GH pulse rather than a sustained elevation — which is why it is so commonly chosen for bedtime dosing aligned with the body's natural overnight GH pulse."
+      ],
+      "mechanism": [
+        "Sermorelin binds GHRH receptors in the anterior pituitary and triggers release of stored growth hormone.",
+        "The resulting GH pulse stimulates hepatic IGF-1 production, which mediates downstream effects on lean tissue, recovery, and metabolism.",
+        "Because it does not bind ghrelin receptors, it doesn't raise cortisol, prolactin, or appetite the way older GHRPs do."
+      ],
+      "benefits": [
+        "Gentle, pulsatile increase in endogenous GH and IGF-1",
+        "Support for recovery and sleep quality",
+        "Frequently discussed in healthy-aging and longevity protocols",
+        "Long, well-characterized clinical safety profile"
+      ],
+      "research": [
+        "Sermorelin has a long clinical history, including pediatric GH-deficiency trials in the 1990s, and remains widely studied as a tool to support endogenous GH output without supraphysiologic peaks.",
+        "It is often used as the 'control' GHRH in protocols comparing newer molecules like tesamorelin or CJC-1295.",
+        "Research interest extends to age-related GH decline (somatopause), sleep quality, and body-composition endpoints in adults."
+      ],
+      "anecdotal": [
+        "Improved sleep, gradual recovery improvements, and steady but subtle body-composition shifts are typical anecdotal reports — usually described as 'milder than CJC/Ipamorelin' but cleaner."
+      ],
+      "whyInteresting": [
+        "Sermorelin is the original GHRH-class molecule and remains the reference point for everything that came after. Its short, clean pulse is the closest match to the body's own GHRH signal of any peptide in the catalog."
+      ],
+      "pairsWell": [
+        {
+          "slug": "cjc-1295-ipamorelin",
+          "reason": "Stronger combined GH release"
+        },
+        {
+          "slug": "ghk-cu",
+          "reason": "Skin and connective-tissue support"
+        }
+      ]
+    },
+    "vi": {
+      "classLine": "Đồng phân GHRH rút gọn (1–29)",
+      "what": [
+        "Sermorelin là 29 axit amin đầu tiên của GHRH tự nhiên — phần hoạt động của phân tử. Đây là một trong những peptide nhóm GHRH gốc và thường được dùng như một điểm khởi đầu nhẹ nhàng, 'sinh lý' hơn vào trục GH.",
+        "Vì có tác dụng ngắn, nó tạo ra một xung GH ngắn và sạch thay vì sự gia tăng kéo dài."
+      ],
+      "mechanism": [
+        "Sermorelin gắn vào thụ thể GHRH ở thùy trước tuyến yên và kích hoạt giải phóng hormone tăng trưởng dự trữ.",
+        "Xung GH tạo ra kích thích sản xuất IGF-1 ở gan, trung gian cho các tác động hạ nguồn lên mô nạc, phục hồi và chuyển hóa."
+      ],
+      "benefits": [
+        "Tăng GH và IGF-1 nội sinh nhẹ nhàng, theo nhịp xung",
+        "Hỗ trợ phục hồi và chất lượng giấc ngủ",
+        "Thường được thảo luận trong các giao thức lão hóa khỏe mạnh và tuổi thọ"
+      ],
+      "research": [
+        "Sermorelin có lịch sử lâm sàng lâu dài, bao gồm sử dụng cho thiếu hụt GH ở trẻ em, và vẫn được nghiên cứu rộng rãi như một công cụ hỗ trợ sản xuất GH nội sinh mà không có đỉnh siêu sinh lý."
+      ],
+      "anecdotal": [
+        "Cải thiện giấc ngủ, phục hồi dần và thay đổi nhẹ nhưng đều đặn về thành phần cơ thể là những báo cáo điển hình."
+      ],
+      "pairsWell": [
+        {
+          "slug": "cjc-1295-ipamorelin",
+          "reason": "Giải phóng GH kết hợp mạnh hơn"
+        },
+        {
+          "slug": "ghk-cu",
+          "reason": "Hỗ trợ da và mô liên kết"
+        }
+      ]
+    }
+  },
+  "igf-1-lr3": {
+    "en": {
+      "classLine": "Long-Arg3 analogue of insulin-like growth factor 1",
+      "history": [
+        "IGF-1 LR3 was engineered at GroPep in Australia in the late 1980s as a research-grade IGF-1 analogue with extended half-life and reduced binding-protein affinity. It became the dominant research IGF-1 reagent for cell-culture and animal work and has been cited in thousands of papers.",
+        "Its long-acting profile is also why it migrated out of pure lab use and into performance-research stacks, where it sits as the most-discussed IGF-1 analogue in the muscle-biology literature."
+      ],
+      "what": [
+        "IGF-1 LR3 is a modified version of natural IGF-1 with two engineered changes: a 13-amino-acid N-terminal extension and an arginine substitution at position 3. Together these give it a much longer half-life (~20–30 hours vs. ~10 minutes for native IGF-1) and reduced binding to the IGF-binding proteins that normally regulate the hormone in the bloodstream.",
+        "That means more of the molecule stays bioavailable and active in tissue, which is why it is so widely discussed in muscle and recovery research."
+      ],
+      "mechanism": [
+        "IGF-1 binds the IGF-1 receptor on muscle and many other cell types, activating the PI3K/Akt/mTOR pathway that drives protein synthesis and cell growth.",
+        "It also influences glucose uptake into muscle via insulin-receptor cross-talk, which is part of why protocols must be approached carefully — pronounced hypoglycemia is a real consideration.",
+        "Because LR3 evades the IGF-binding proteins that normally buffer native IGF-1, even small doses produce a measurably bigger tissue effect than the same dose of unmodified IGF-1."
+      ],
+      "benefits": [
+        "Strong support for muscle protein synthesis and hyperplasia in research",
+        "Discussed for recovery from heavy training and injury",
+        "Nutrient partitioning toward muscle tissue",
+        "Much longer active window than native IGF-1"
+      ],
+      "research": [
+        "IGF-1 LR3 is one of the most-studied IGF-1 analogues in muscle biology, with extensive cell-culture and rodent literature on satellite-cell activation, hypertrophy, and tendon repair.",
+        "It is also a sensitive molecule: investigators handling it pay close attention to handling, storage, and protocol design.",
+        "Compared with HGH it works downstream of the GH axis, which is why it is sometimes used as a more 'direct' research tool for muscle protein-synthesis endpoints."
+      ],
+      "anecdotal": [
+        "Pumps, fullness, and accelerated training adaptation are commonly reported. Sensitivity to hypoglycemia is also a frequently noted consideration, especially when administered on an empty stomach."
+      ],
+      "whyInteresting": [
+        "IGF-1 LR3 is the molecule that lets researchers study IGF-1's tissue effects without the binding-protein layer that normally controls native IGF-1. That makes it the closest thing the catalog has to a 'pure' anabolic-pathway probe."
+      ],
+      "pairsWell": [
+        {
+          "slug": "cjc-1295-ipamorelin",
+          "reason": "Upstream GH support"
+        },
+        {
+          "slug": "bpc-157",
+          "reason": "Tissue repair alongside growth signaling"
+        }
+      ]
+    },
+    "vi": {
+      "classLine": "Đồng phân Long-Arg3 của yếu tố tăng trưởng giống insulin 1",
+      "what": [
+        "IGF-1 LR3 là phiên bản biến đổi của IGF-1 tự nhiên với thời gian bán hủy dài hơn nhiều và giảm liên kết với các protein gắn IGF thường điều chỉnh hormone trong máu.",
+        "Điều đó có nghĩa là nhiều phân tử vẫn khả dụng sinh học và hoạt động trong mô, vì vậy nó được thảo luận rộng rãi trong nghiên cứu cơ bắp và phục hồi."
+      ],
+      "mechanism": [
+        "IGF-1 gắn vào thụ thể IGF-1 trên cơ và nhiều loại tế bào khác, kích hoạt con đường PI3K/Akt/mTOR thúc đẩy tổng hợp protein và tăng trưởng tế bào.",
+        "Nó cũng ảnh hưởng đến việc hấp thu glucose vào cơ thông qua tương tác chéo với thụ thể insulin, một phần lý do giao thức cần được tiếp cận cẩn thận."
+      ],
+      "benefits": [
+        "Hỗ trợ mạnh tổng hợp protein cơ và tăng sản trong nghiên cứu",
+        "Được thảo luận cho phục hồi sau tập nặng và chấn thương",
+        "Phân chia chất dinh dưỡng về phía mô cơ"
+      ],
+      "research": [
+        "IGF-1 LR3 là một trong những đồng phân IGF-1 được nghiên cứu nhiều nhất trong sinh học cơ bắp. Đây cũng là phân tử nhạy cảm: các nhà nghiên cứu xử lý nó chú ý kỹ đến bảo quản, lưu trữ và thiết kế giao thức."
+      ],
+      "anecdotal": [
+        "Cảm giác căng cơ, đầy đặn và thích nghi tập luyện nhanh hơn thường được báo cáo. Nhạy cảm với hạ đường huyết cũng là điểm cần lưu ý thường gặp."
+      ],
+      "pairsWell": [
+        {
+          "slug": "cjc-1295-ipamorelin",
+          "reason": "Hỗ trợ GH thượng nguồn"
+        },
+        {
+          "slug": "bpc-157",
+          "reason": "Sửa chữa mô bên cạnh tín hiệu tăng trưởng"
+        }
+      ]
+    }
+  },
+  "hgh": {
+    "en": {
+      "classLine": "Recombinant human growth hormone (somatropin)",
+      "history": [
+        "Recombinant HGH (somatropin) was first produced by Genentech in 1981 and approved by the FDA in 1985 — one of the earliest recombinant-DNA biologics in clinical use. It replaced the cadaver-derived GH that had been used since the 1950s and immediately became the standard tool for GH-axis research.",
+        "Decades of clinical use across pediatric GH deficiency, adult GH deficiency, and HIV-related wasting make it the most-characterized GH-axis molecule in human pharmacology."
+      ],
+      "what": [
+        "HGH is the full, 191-amino-acid human growth hormone molecule produced recombinantly in bacteria or mammalian cells. It is identical in sequence to the GH that your pituitary makes naturally.",
+        "Where GHRH and GHRP peptides ask your body to release more of its own GH, HGH is the hormone itself — which gives a much stronger and more direct effect on the GH/IGF-1 axis. It produces a flat exogenous level rather than a pulse, which is the main pharmacological tradeoff vs. GHRH-class peptides."
+      ],
+      "mechanism": [
+        "HGH binds the GH receptor on the liver to drive IGF-1 production, and binds GH receptors directly on muscle, fat, bone and connective tissue.",
+        "The downstream pathways include increased protein synthesis, lipolysis in adipose tissue, and support for collagen and connective-tissue turnover.",
+        "Because it floods the receptor with a non-pulsatile signal, the body's own GH feedback loops are suppressed during administration — a key reason researchers distinguish it from GHRH/GHRP stacks."
+      ],
+      "benefits": [
+        "Strong, sustained increases in IGF-1 and GH-driven pathways",
+        "Body composition shifts: lean tissue support with fat mobilization",
+        "Improvements in skin, hair, and connective-tissue markers",
+        "Recovery, sleep quality and energy commonly discussed"
+      ],
+      "research": [
+        "HGH has a deep clinical evidence base across pediatric GH deficiency, adult GH-deficiency syndromes, Turner syndrome, idiopathic short stature, and HIV-related wasting.",
+        "Active research areas include healthy-aging body composition, recovery from severe burns, and longevity biology (notably the controversial relationship between IGF-1 and lifespan in animal models).",
+        "Compared with sermorelin or CJC-1295/Ipamorelin it produces a stronger and more sustained GH/IGF-1 elevation but loses the natural pulse pattern — investigators choose based on which profile matches the question."
+      ],
+      "anecdotal": [
+        "Faster recovery, joint comfort, improved sleep, and gradual body-composition changes over months are commonly reported. Water retention, mild joint stiffness, and insulin-sensitivity adjustments in the first weeks are also typical and usually settle with dose calibration."
+      ],
+      "whyInteresting": [
+        "HGH is the molecule every other GH-axis peptide is measured against. It is also the only one that produces a fully replacement-level GH signal — which is why it remains the reference tool for the highest-stakes GH research."
+      ],
+      "pairsWell": [
+        {
+          "slug": "bpc-157",
+          "reason": "Connective-tissue repair alongside GH"
+        },
+        {
+          "slug": "mots-c",
+          "reason": "Mitochondrial energy with anabolic support"
+        }
+      ]
+    },
+    "vi": {
+      "classLine": "Hormone tăng trưởng người tái tổ hợp (somatropin)",
+      "what": [
+        "HGH là phân tử hormone tăng trưởng người đầy đủ 191 axit amin được sản xuất tái tổ hợp. Trình tự giống hệt với GH mà tuyến yên của bạn sản xuất tự nhiên.",
+        "Khi các peptide GHRH và GHRP yêu cầu cơ thể giải phóng nhiều GH hơn của chính nó, HGH chính là hormone đó — mang lại tác dụng mạnh hơn và trực tiếp hơn nhiều lên trục GH/IGF-1."
+      ],
+      "mechanism": [
+        "HGH gắn vào thụ thể GH ở gan để thúc đẩy sản xuất IGF-1, và gắn trực tiếp vào thụ thể GH trên cơ, mỡ, xương và mô liên kết.",
+        "Các con đường hạ nguồn bao gồm tăng tổng hợp protein, phân giải mỡ ở mô mỡ, và hỗ trợ chuyển hóa collagen và mô liên kết."
+      ],
+      "benefits": [
+        "Tăng mạnh và bền vững IGF-1 và các con đường do GH dẫn dắt",
+        "Thay đổi thành phần cơ thể: hỗ trợ mô nạc kèm huy động mỡ",
+        "Cải thiện các chỉ số da, tóc và mô liên kết",
+        "Phục hồi, chất lượng giấc ngủ và năng lượng thường được thảo luận"
+      ],
+      "research": [
+        "HGH có nền tảng bằng chứng lâm sàng sâu rộng cho thiếu hụt GH ở trẻ em và người lớn, với nghiên cứu đang tiếp tục về ứng dụng lão hóa khỏe mạnh, thành phần cơ thể và phục hồi."
+      ],
+      "anecdotal": [
+        "Phục hồi nhanh hơn, thoải mái khớp, cải thiện giấc ngủ và thay đổi dần thành phần cơ thể qua nhiều tháng thường được báo cáo. Giữ nước và điều chỉnh trong những tuần đầu cũng điển hình."
+      ],
+      "pairsWell": [
+        {
+          "slug": "bpc-157",
+          "reason": "Sửa chữa mô liên kết bên cạnh GH"
+        },
+        {
+          "slug": "mots-c",
+          "reason": "Năng lượng ty thể với hỗ trợ đồng hóa"
+        }
+      ]
+    }
+  },
+  "bpc-157": {
+    "en": {
+      "classLine": "Body Protection Compound — 15-amino-acid gastric peptide",
+      "history": [
+        "BPC-157 was first described in the early 1990s by Predrag Sikiric's group at the University of Zagreb, where it was isolated as a stable fragment of a larger 'gastric body protection' protein. The Zagreb group has produced most of the foundational pharmacology literature on the peptide.",
+        "Interest in BPC-157 outside academic gastroenterology grew sharply in the 2010s as performance and recovery researchers noticed its broad effects on soft-tissue repair — making it one of the most-discussed recovery peptides in the modern catalog."
+      ],
+      "what": [
+        "BPC-157 is a stable fragment of a larger protein found in human gastric juice. The 'body protection' name comes from how broadly it acts on tissue repair — gut lining, tendons, ligaments, muscle, nerves, and blood vessels.",
+        "It is one of the most-discussed peptides in recovery and injury research, especially for soft-tissue and gut applications.",
+        "The pentadecapeptide is stable in stomach acid, which is why oral routes are also studied in addition to subcutaneous."
+      ],
+      "mechanism": [
+        "BPC-157 promotes angiogenesis — the formation of new blood vessels — at sites of injury, which improves blood flow and nutrient delivery to healing tissue.",
+        "It modulates growth-factor signaling (VEGF, FGF) and supports fibroblast activity, which is central to tendon, ligament and gut-lining repair.",
+        "It influences the nitric-oxide (NO) system and the dopaminergic and serotonergic systems, which is why anti-inflammatory and gut-brain-axis effects also appear in the literature."
+      ],
+      "benefits": [
+        "Soft-tissue repair: tendons, ligaments, muscle strains",
+        "Gut-lining support and discussion in IBS/IBD research",
+        "Joint comfort during heavy training blocks",
+        "Often-discussed neuroprotective effects in animal models"
+      ],
+      "research": [
+        "Extensive animal research from the Zagreb group and others supports BPC-157's tissue-repair profile across tendon, ligament, gut, muscle, bone, and even cardiovascular models.",
+        "Main areas of active research interest: tendon and ligament repair, inflammatory bowel disease, traumatic-brain-injury recovery, and stress-related GI ulceration.",
+        "Controlled human data is more limited, which is why it remains a research-use compound in most jurisdictions — the gap between animal and human evidence is its most-cited limitation."
+      ],
+      "anecdotal": [
+        "Faster resolution of nagging tendon issues, reduced gut discomfort, and improved tolerance of training loads are the most common anecdotal reports. Researchers commonly notice effects within the first 2–3 weeks of a protocol."
+      ],
+      "whyInteresting": [
+        "BPC-157 is interesting because it appears to act 'systemically wherever it's needed' rather than at a single receptor — it is one of the few peptides whose effects don't track to a clean target/pathway diagram, which is exactly why so much research is still being done on it."
+      ],
+      "pairsWell": [
+        {
+          "slug": "tb-500",
+          "reason": "Classic recovery stack — complementary mechanisms"
+        },
+        {
+          "slug": "ghk-cu",
+          "reason": "Adds connective-tissue and collagen support"
+        }
+      ]
+    },
+    "vi": {
+      "classLine": "Body Protection Compound — peptide dạ dày 15 axit amin",
+      "what": [
+        "BPC-157 là một mảnh ổn định của một protein lớn hơn được tìm thấy trong dịch dạ dày người. Tên gọi 'body protection' xuất phát từ phạm vi tác động rộng trên sửa chữa mô — niêm mạc ruột, gân, dây chằng, cơ, dây thần kinh và mạch máu.",
+        "Đây là một trong những peptide được thảo luận nhiều nhất trong nghiên cứu phục hồi và chấn thương, đặc biệt cho ứng dụng mô mềm và đường ruột."
+      ],
+      "mechanism": [
+        "BPC-157 thúc đẩy tạo mạch — hình thành mạch máu mới — tại vị trí tổn thương, cải thiện lưu lượng máu và cung cấp dinh dưỡng cho mô đang lành.",
+        "Nó điều biến tín hiệu yếu tố tăng trưởng (VEGF, FGF) và hỗ trợ hoạt động nguyên bào sợi, trung tâm của sửa chữa gân, dây chằng và niêm mạc ruột.",
+        "Tác dụng chống viêm và niêm mạc ruột làm cho nó được sử dụng rộng rãi trong các giao thức nghiên cứu nhắm vào hội chứng ruột kích thích và các vấn đề tiêu hóa liên quan đến căng thẳng."
+      ],
+      "benefits": [
+        "Sửa chữa mô mềm: gân, dây chằng, căng cơ",
+        "Hỗ trợ niêm mạc ruột và thảo luận trong nghiên cứu IBS/IBD",
+        "Thoải mái khớp trong các khối tập luyện nặng",
+        "Tác dụng bảo vệ thần kinh thường được thảo luận trong mô hình động vật"
+      ],
+      "research": [
+        "Nghiên cứu trên động vật rộng rãi hỗ trợ hồ sơ sửa chữa mô của BPC-157. Dữ liệu kiểm soát trên người hạn chế hơn, vì vậy nó vẫn là hợp chất dùng cho nghiên cứu ở hầu hết các khu vực pháp lý."
+      ],
+      "anecdotal": [
+        "Giải quyết nhanh hơn các vấn đề gân dai dẳng, giảm khó chịu đường ruột, và cải thiện khả năng chịu tải tập luyện là những báo cáo phổ biến nhất."
+      ],
+      "pairsWell": [
+        {
+          "slug": "tb-500",
+          "reason": "Tổ hợp phục hồi cổ điển — cơ chế bổ sung"
+        },
+        {
+          "slug": "ghk-cu",
+          "reason": "Thêm hỗ trợ mô liên kết và collagen"
+        }
+      ]
+    }
+  },
+  "tb-500": {
+    "en": {
+      "classLine": "Synthetic fragment of Thymosin Beta-4",
+      "history": [
+        "Thymosin Beta-4 was first isolated in the 1980s from the thymus. TB-500 — the active 17-amino-acid actin-binding region — was developed as a synthetic research tool that captures most of TB-4's repair activity in a much easier molecule to manufacture.",
+        "It became widely known in equine and animal sports-medicine research before crossing into human soft-tissue research, where it now sits alongside BPC-157 as the canonical recovery peptide."
+      ],
+      "what": [
+        "TB-500 is the active region of Thymosin Beta-4, a naturally occurring repair protein found throughout the body and concentrated at sites of injury.",
+        "It is widely paired with BPC-157 because the two peptides hit different but complementary parts of the tissue-repair process — TB-500 leans on cell migration and remodeling, BPC-157 on vascularization and gut/connective-tissue repair."
+      ],
+      "mechanism": [
+        "TB-500 binds to G-actin and regulates how cells reorganize their internal scaffolding — a key step in cell migration to injury sites.",
+        "It supports angiogenesis, modulates inflammation, and encourages stem-cell recruitment and differentiation in damaged tissue.",
+        "It also upregulates the actin-related genes that govern wound-edge closure, which is why dermal and corneal-healing research has been so productive with TB-4 / TB-500."
+      ],
+      "benefits": [
+        "Soft-tissue, tendon and ligament repair support",
+        "Discussion of cardiac and skeletal-muscle recovery in research",
+        "Reduced inflammation at injury sites",
+        "Often-used alongside BPC-157 for stubborn recovery cases"
+      ],
+      "research": [
+        "TB-500 / Thymosin Beta-4 has been studied for wound healing, cardiac repair after infarct, ocular injury (a TB-4 eye-drop reached Phase 3 for dry eye), and dermal ulcer healing.",
+        "Active research interest includes neurological recovery (stroke and traumatic brain injury models) and chronic non-healing wounds.",
+        "Compared with BPC-157 the onset of effect is typically slower but more durable — which is why the two are so often run together rather than chosen between."
+      ],
+      "anecdotal": [
+        "Researchers commonly describe a slower-onset but durable effect on chronic soft-tissue issues, especially when combined with BPC-157. Loading phases are widely used because of the slow onset."
+      ],
+      "whyInteresting": [
+        "TB-500 is one of the few peptides whose mechanism is rooted in the cell's own structural scaffolding — a totally different angle from receptor-binding peptides. That makes it an unusual research tool for asking how cells physically rebuild damaged tissue."
+      ],
+      "pairsWell": [
+        {
+          "slug": "bpc-157",
+          "reason": "Most-used recovery pairing"
+        },
+        {
+          "slug": "ghk-cu",
+          "reason": "Adds collagen and connective-tissue effects"
+        }
+      ]
+    },
+    "vi": {
+      "classLine": "Mảnh tổng hợp của Thymosin Beta-4",
+      "what": [
+        "TB-500 là vùng hoạt động của Thymosin Beta-4, một protein sửa chữa tự nhiên có mặt khắp cơ thể và tập trung tại các vị trí tổn thương.",
+        "Nó được ghép cặp rộng rãi với BPC-157 vì hai peptide tác động vào các phần khác nhau nhưng bổ sung của quá trình sửa chữa mô."
+      ],
+      "mechanism": [
+        "TB-500 gắn với G-actin và điều chỉnh cách tế bào tổ chức lại khung nội bộ — bước then chốt trong di chuyển tế bào đến vị trí tổn thương.",
+        "Nó hỗ trợ tạo mạch, điều biến viêm và khuyến khích tuyển dụng và biệt hóa tế bào gốc trong mô bị tổn thương."
+      ],
+      "benefits": [
+        "Hỗ trợ sửa chữa mô mềm, gân và dây chằng",
+        "Thảo luận về phục hồi cơ tim và cơ xương trong nghiên cứu",
+        "Giảm viêm tại vị trí tổn thương",
+        "Thường được dùng cùng BPC-157 cho các trường hợp phục hồi khó"
+      ],
+      "research": [
+        "TB-500/Thymosin Beta-4 đã được nghiên cứu về chữa lành vết thương, sửa chữa tim và chấn thương mắt, với mối quan tâm nghiên cứu liên tục về phục hồi thần kinh."
+      ],
+      "anecdotal": [
+        "Các nhà nghiên cứu thường mô tả tác dụng khởi phát chậm nhưng bền vững lên các vấn đề mô mềm mãn tính, đặc biệt khi kết hợp với BPC-157."
+      ],
+      "pairsWell": [
+        {
+          "slug": "bpc-157",
+          "reason": "Cặp đôi phục hồi được dùng nhiều nhất"
+        },
+        {
+          "slug": "ghk-cu",
+          "reason": "Thêm tác dụng collagen và mô liên kết"
+        }
+      ]
+    }
+  },
+  "klow": {
+    "en": {
+      "classLine": "Blended recovery peptide (multi-compound)",
+      "history": [
+        "KLOW emerged in research-community compounding circles in the late 2010s as a 'one-vial recovery stack' — a way to run several complementary peptides without juggling four separate vials. It is named after its component initials.",
+        "It is a community-developed format rather than a single trademarked product, so the exact blend varies by lab — the lot label is the reliable source for component mass."
+      ],
+      "what": [
+        "KLOW is a research blend that combines several recovery-oriented peptides into a single vial. The classic formulation includes a GHK-Cu component along with BPC-157 and TB-500-class fragments and Matrixyl/Argireline-style cosmetic peptides.",
+        "It is designed for researchers who want layered tissue, skin and recovery effects in one preparation."
+      ],
+      "mechanism": [
+        "GHK-Cu supports copper-dependent collagen and elastin synthesis and modulates wound-healing gene expression.",
+        "The BPC-157 and TB-500 components contribute angiogenic and tissue-migration effects discussed above.",
+        "Cosmetic-peptide fragments contribute to surface skin signaling — fine lines, tone and turnover are commonly discussed endpoints."
+      ],
+      "benefits": [
+        "Layered recovery: deep tissue + surface skin signaling",
+        "Often-discussed effects on skin tone and quality",
+        "Convenient single-vial format for combined-mechanism protocols"
+      ],
+      "research": [
+        "Each component has its own research base. The blend itself is a community-favored format rather than a formally-studied product, so investigators reference the individual-component literature when designing protocols."
+      ],
+      "anecdotal": [
+        "Researchers often describe combined recovery and skin-quality changes over multi-week protocols."
+      ],
+      "whyInteresting": [
+        "KLOW is interesting as a convenience preparation: it lets a researcher run a four-peptide protocol from one vial, which is a meaningful workflow simplification when comparing recovery endpoints across multiple subjects."
+      ],
+      "pairsWell": [
+        {
+          "slug": "bpc-157",
+          "reason": "Targeted reinforcement of the recovery arm"
+        },
+        {
+          "slug": "ghk-cu",
+          "reason": "Boosted copper-peptide and collagen effects"
+        }
+      ]
+    },
+    "vi": {
+      "classLine": "Hỗn hợp peptide phục hồi (nhiều hợp chất)",
+      "what": [
+        "KLOW là một hỗn hợp nghiên cứu kết hợp nhiều peptide định hướng phục hồi vào một lọ duy nhất. Công thức cổ điển bao gồm thành phần GHK-Cu cùng với các mảnh BPC-157, TB-500 và các peptide mỹ phẩm kiểu Matrixyl/Argireline.",
+        "Nó được thiết kế cho các nhà nghiên cứu muốn có tác dụng mô, da và phục hồi xếp lớp trong một chế phẩm."
+      ],
+      "mechanism": [
+        "GHK-Cu hỗ trợ tổng hợp collagen và elastin phụ thuộc đồng và điều biến biểu hiện gen chữa lành vết thương.",
+        "Các thành phần BPC-157 và TB-500 đóng góp tác dụng tạo mạch và di chuyển mô đã thảo luận ở trên.",
+        "Các mảnh peptide mỹ phẩm góp phần vào tín hiệu da bề mặt — nếp nhăn nhỏ, tông màu và sự đổi mới là những điểm cuối thường được thảo luận."
+      ],
+      "benefits": [
+        "Phục hồi xếp lớp: mô sâu + tín hiệu da bề mặt",
+        "Tác dụng lên tông màu và chất lượng da thường được thảo luận",
+        "Định dạng một lọ tiện lợi cho giao thức cơ chế kết hợp"
+      ],
+      "research": [
+        "Mỗi thành phần có cơ sở nghiên cứu riêng; bản thân hỗn hợp là định dạng được cộng đồng ưa chuộng hơn là sản phẩm được nghiên cứu chính thức."
+      ],
+      "anecdotal": [
+        "Các nhà nghiên cứu thường mô tả thay đổi phục hồi và chất lượng da kết hợp qua các giao thức nhiều tuần."
+      ],
+      "pairsWell": [
+        {
+          "slug": "bpc-157",
+          "reason": "Tăng cường có mục tiêu vào nhánh phục hồi"
+        },
+        {
+          "slug": "ghk-cu",
+          "reason": "Tăng cường tác dụng copper-peptide và collagen"
+        }
+      ]
+    }
+  },
+  "glow": {
+    "en": {
+      "classLine": "Blended skin-and-recovery peptide (multi-compound)",
+      "history": [
+        "GLOW followed the KLOW model — a single-vial research blend, this time weighted toward skin and surface-recovery endpoints rather than deep tissue. It became widely referenced in dermatology-leaning research stacks during the late 2010s and 2020s."
+      ],
+      "what": [
+        "GLOW is a research blend focused on skin, collagen, and surface recovery. It typically combines GHK-Cu with BPC-157 and other connective-tissue peptides in a single vial.",
+        "It is positioned as a more cosmetic-leaning relative of KLOW."
+      ],
+      "mechanism": [
+        "GHK-Cu drives copper-dependent collagen and elastin synthesis, supports antioxidant gene expression, and improves the appearance of skin in research models.",
+        "The added repair-peptide components reinforce angiogenesis and fibroblast activity for the dermal layer."
+      ],
+      "benefits": [
+        "Skin tone, texture and elasticity discussion",
+        "Support for hair and scalp tissue under research",
+        "Wound and post-procedure recovery interest"
+      ],
+      "research": [
+        "GHK-Cu has a substantial published evidence base in dermatology research — wound healing, skin remodeling, and gene-expression studies in fibroblasts. The blend format is community-developed rather than formally trialed."
+      ],
+      "anecdotal": [
+        "Smoother skin texture, improved tone and gradual changes in fine-line appearance are commonly reported."
+      ],
+      "whyInteresting": [
+        "GLOW is interesting as a 'dermatology-first' research blend — it is one of the only single-vial preparations specifically weighted toward skin endpoints rather than systemic recovery."
+      ],
+      "pairsWell": [
+        {
+          "slug": "ghk-cu",
+          "reason": "Standalone copper-peptide reinforcement"
+        },
+        {
+          "slug": "bpc-157",
+          "reason": "Adds deeper tissue repair support"
+        }
+      ]
+    },
+    "vi": {
+      "classLine": "Hỗn hợp peptide da và phục hồi (nhiều hợp chất)",
+      "what": [
+        "GLOW là một hỗn hợp nghiên cứu tập trung vào da, collagen và phục hồi bề mặt. Nó thường kết hợp GHK-Cu với BPC-157 và các peptide mô liên kết khác trong một lọ.",
+        "Nó được định vị như một họ hàng nghiêng về mỹ phẩm hơn của KLOW."
+      ],
+      "mechanism": [
+        "GHK-Cu thúc đẩy tổng hợp collagen và elastin phụ thuộc đồng, hỗ trợ biểu hiện gen chống oxy hóa và cải thiện vẻ ngoài của da trong mô hình nghiên cứu.",
+        "Các thành phần peptide sửa chữa được bổ sung tăng cường tạo mạch và hoạt động nguyên bào sợi cho lớp hạ bì."
+      ],
+      "benefits": [
+        "Thảo luận về tông màu, kết cấu và độ đàn hồi da",
+        "Hỗ trợ cho mô tóc và da đầu đang nghiên cứu",
+        "Quan tâm phục hồi vết thương và sau thủ thuật"
+      ],
+      "research": [
+        "GHK-Cu có cơ sở bằng chứng đã công bố đáng kể trong nghiên cứu da liễu. Định dạng hỗn hợp do cộng đồng phát triển hơn là được thử nghiệm chính thức."
+      ],
+      "anecdotal": [
+        "Kết cấu da mịn hơn, tông màu cải thiện và thay đổi dần ở vẻ ngoài của nếp nhăn nhỏ thường được báo cáo."
+      ],
+      "pairsWell": [
+        {
+          "slug": "ghk-cu",
+          "reason": "Tăng cường copper-peptide độc lập"
+        },
+        {
+          "slug": "bpc-157",
+          "reason": "Thêm hỗ trợ sửa chữa mô sâu hơn"
+        }
+      ]
+    }
+  },
+  "wolverine": {
+    "en": {
+      "classLine": "Heavy-duty recovery blend (multi-compound)",
+      "history": [
+        "Wolverine emerged in research-community compounding around the same time as KLOW and GLOW — named for the comic-book character and his rapid-recovery trope. It is the recovery-weighted relative of the two: heavier on BPC-157 and TB-500 than on cosmetic peptides."
+      ],
+      "what": [
+        "Wolverine is a research blend named for its aggressive recovery profile. It typically combines BPC-157, TB-500 and additional repair peptides into one preparation.",
+        "Researchers often choose it when stacking BPC-157 and TB-500 individually would be inconvenient."
+      ],
+      "mechanism": [
+        "Combines the angiogenic, fibroblast-supporting and cell-migration effects of BPC-157 and TB-500-class peptides in one vial.",
+        "The result is a broad, layered push on tissue repair pathways — vascular, structural, and inflammatory."
+      ],
+      "benefits": [
+        "Aggressive soft-tissue recovery support",
+        "Often-discussed use during heavy training camps",
+        "Convenience of a single multi-mechanism preparation"
+      ],
+      "research": [
+        "Component peptides have their own research base. The blend is a research-community format, not a formally-studied product, so the individual-component literature is the relevant reference."
+      ],
+      "anecdotal": [
+        "Researchers commonly report durable improvements in chronic tendon and joint complaints when running this blend across a multi-week protocol."
+      ],
+      "whyInteresting": [
+        "Wolverine is interesting as a 'maximum recovery stack' format — most of the dose by mass is BPC-157 and TB-500, so the blend is closer to a co-administration than to a true four-peptide mix."
+      ],
+      "pairsWell": [
+        {
+          "slug": "bpc-157",
+          "reason": "Reinforces the gut-and-tissue arm"
+        },
+        {
+          "slug": "tb-500",
+          "reason": "Reinforces the cell-migration arm"
+        }
+      ]
+    },
+    "vi": {
+      "classLine": "Hỗn hợp phục hồi cường độ cao (nhiều hợp chất)",
+      "what": [
+        "Wolverine là một hỗn hợp nghiên cứu được đặt tên theo hồ sơ phục hồi mạnh mẽ. Nó thường kết hợp BPC-157, TB-500 và các peptide sửa chữa bổ sung vào một chế phẩm.",
+        "Các nhà nghiên cứu thường chọn nó khi việc xếp BPC-157 và TB-500 riêng lẻ sẽ bất tiện."
+      ],
+      "mechanism": [
+        "Kết hợp tác dụng tạo mạch, hỗ trợ nguyên bào sợi và di chuyển tế bào của các peptide lớp BPC-157 và TB-500 trong một lọ.",
+        "Kết quả là sự thúc đẩy rộng, xếp lớp lên các con đường sửa chữa mô — mạch máu, cấu trúc và viêm."
+      ],
+      "benefits": [
+        "Hỗ trợ phục hồi mô mềm mạnh mẽ",
+        "Sử dụng trong các trại tập luyện nặng thường được thảo luận",
+        "Tiện lợi của một chế phẩm đa cơ chế duy nhất"
+      ],
+      "research": [
+        "Các peptide thành phần có cơ sở nghiên cứu riêng. Hỗn hợp là định dạng cộng đồng nghiên cứu, không phải sản phẩm được nghiên cứu chính thức."
+      ],
+      "anecdotal": [
+        "Các nhà nghiên cứu thường báo cáo cải thiện bền vững ở các vấn đề gân và khớp mãn tính khi chạy hỗn hợp này qua giao thức nhiều tuần."
+      ],
+      "pairsWell": [
+        {
+          "slug": "bpc-157",
+          "reason": "Tăng cường nhánh ruột và mô"
+        },
+        {
+          "slug": "tb-500",
+          "reason": "Tăng cường nhánh di chuyển tế bào"
+        }
+      ]
+    }
+  },
+  "nad-plus": {
+    "en": {
+      "classLine": "Nicotinamide adenine dinucleotide — cellular energy cofactor",
+      "history": [
+        "NAD+ was first identified by Arthur Harden and William Young in 1906 as a 'cozymase' essential to fermentation — work that contributed to the 1929 Nobel Prize in Chemistry. Its central role in metabolism was mapped over the next century.",
+        "Modern longevity interest in NAD+ began in the 2000s with the discovery of sirtuins — NAD+-dependent enzymes linked to lifespan in model organisms — and exploded after work from Charles Brenner, Shin-ichiro Imai, David Sinclair and others mapped the age-related decline of NAD+ in tissue."
+      ],
+      "what": [
+        "NAD+ is not a peptide — it is a fundamental coenzyme present in every cell in your body. It sits at the center of how cells turn food into usable energy and how they repair their own DNA.",
+        "Cellular NAD+ levels decline with age (some tissue measurements show ~50% lower NAD+ by middle age vs. youth), and restoring them is one of the most actively researched topics in longevity biology.",
+        "Direct injectable NAD+ is one of three main strategies for raising NAD+ — the others being precursors like NR (nicotinamide riboside) and NMN (nicotinamide mononucleotide), which the body converts to NAD+ internally."
+      ],
+      "mechanism": [
+        "NAD+ is the substrate that sirtuins (longevity-associated enzymes), PARPs (DNA-repair enzymes) and CD38 use to do their jobs. When NAD+ runs low, all three classes of enzyme work less efficiently.",
+        "It also shuttles electrons through the mitochondrial electron-transport chain — the final step in producing ATP, the body's energy currency. Most of the ATP your cells make depends on a constant NAD+/NADH cycle.",
+        "Raising NAD+ availability supports mitochondrial output, DNA-repair capacity, and the activity of sirtuin-driven longevity pathways. This is why researchers describe it as 'restoring cellular bandwidth' rather than 'adding a new function'."
+      ],
+      "benefits": [
+        "Cellular energy and mitochondrial function support",
+        "Discussed for cognitive clarity and focus",
+        "Sirtuin-pathway and DNA-repair support",
+        "Often-reported reduction in subjective fatigue"
+      ],
+      "research": [
+        "NAD+ biology is one of the most actively published areas in healthy-aging research, with ongoing trials in metabolic disease, neurodegenerative conditions, exercise physiology, and post-viral fatigue.",
+        "Main research areas: mitochondrial function, sirtuin/PARP biology, DNA-damage repair, neuroprotection, and skeletal-muscle energetics.",
+        "Compared with NMN/NR precursors, direct injectable NAD+ raises tissue levels faster but the routes carry different pharmacokinetic profiles — investigators choose based on the question."
+      ],
+      "anecdotal": [
+        "Energy, clarity and improved exercise tolerance are common reports. Flushing or warmth during faster administration is also frequently noted — usually solved by slow push or pre-dilution with saline."
+      ],
+      "whyInteresting": [
+        "NAD+ is interesting because it sits at the intersection of three of the biggest pieces of modern aging biology — mitochondrial energy, DNA repair, and sirtuin signaling. Few molecules can claim that kind of central position in cellular metabolism."
+      ],
+      "pairsWell": [
+        {
+          "slug": "mots-c",
+          "reason": "Mitochondrial pairing — different angle on energy"
+        },
+        {
+          "slug": "ss-31",
+          "reason": "Direct mitochondrial-membrane protection"
+        }
+      ]
+    },
+    "vi": {
+      "classLine": "Nicotinamide adenine dinucleotide — coenzyme năng lượng tế bào",
+      "what": [
+        "NAD+ không phải peptide — nó là coenzyme cơ bản có mặt trong mọi tế bào. Nó nằm ở trung tâm cách tế bào biến thức ăn thành năng lượng sử dụng được và cách chúng tự sửa chữa DNA.",
+        "Mức NAD+ tế bào giảm theo tuổi, và việc khôi phục chúng là một trong những chủ đề được nghiên cứu tích cực nhất trong sinh học tuổi thọ."
+      ],
+      "mechanism": [
+        "NAD+ là cơ chất mà sirtuins (enzym liên quan đến tuổi thọ), PARPs (enzym sửa chữa DNA) và CD38 sử dụng để hoạt động.",
+        "Nó cũng vận chuyển electron qua chuỗi vận chuyển electron ty thể — bước cuối tạo ra ATP.",
+        "Tăng khả dụng NAD+ hỗ trợ đầu ra ty thể, năng lực sửa chữa DNA và hoạt động của các con đường tuổi thọ do sirtuin điều khiển."
+      ],
+      "benefits": [
+        "Hỗ trợ năng lượng tế bào và chức năng ty thể",
+        "Được thảo luận về sự minh mẫn và tập trung nhận thức",
+        "Hỗ trợ con đường sirtuin và sửa chữa DNA",
+        "Thường được báo cáo giảm mệt mỏi chủ quan"
+      ],
+      "research": [
+        "Sinh học NAD+ là một trong những lĩnh vực được công bố tích cực nhất trong nghiên cứu lão hóa khỏe mạnh, với các thử nghiệm đang diễn ra về các chỉ số chuyển hóa, thần kinh và sinh lý vận động."
+      ],
+      "anecdotal": [
+        "Năng lượng, sự minh mẫn và cải thiện khả năng chịu đựng vận động là báo cáo phổ biến. Cảm giác đỏ bừng hoặc ấm khi truyền nhanh cũng thường được ghi nhận."
+      ],
+      "pairsWell": [
+        {
+          "slug": "mots-c",
+          "reason": "Cặp đôi ty thể — góc tiếp cận năng lượng khác"
+        },
+        {
+          "slug": "ss-31",
+          "reason": "Bảo vệ màng ty thể trực tiếp"
+        }
+      ]
+    }
+  },
+  "epithalon": {
+    "en": {
+      "classLine": "Synthetic tetrapeptide derived from the pineal gland",
+      "history": [
+        "Epithalon (Ala-Glu-Asp-Gly) was developed in the 1980s by Vladimir Khavinson and colleagues at the St. Petersburg Institute of Bioregulation and Gerontology as a synthetic analogue of epithalamin — a peptide complex extracted from pineal-gland tissue.",
+        "Khavinson's group reported the now-famous long-term cohort studies in elderly patients that put Epithalon on the longevity-research map. Most of the published evidence base is Russian-language and Eastern European; Western controlled trials remain limited."
+      ],
+      "what": [
+        "Epithalon (Epitalon) is a short, four-amino-acid peptide first isolated from extracts of the pineal gland. It is one of the original Russian-research peptides in the longevity space.",
+        "Its claim to fame is its association with telomerase — the enzyme that maintains the protective caps on the ends of chromosomes — and its long-running use in pineal/circadian research."
+      ],
+      "mechanism": [
+        "Epithalon is reported to upregulate telomerase activity, which helps maintain telomere length during cell division — one of the few small peptides described as doing this directly.",
+        "It also appears to support pineal-gland function and melatonin rhythm, which is why it is so often discussed alongside sleep and circadian topics.",
+        "Animal work has reported antioxidant and stress-resilience effects, with downstream consequences on age-related markers."
+      ],
+      "benefits": [
+        "Discussion of telomere maintenance and cellular aging",
+        "Frequently reported improvements in sleep quality",
+        "Antioxidant and stress-resilience research interest",
+        "Short cycled protocol — typically run quarterly rather than continuously"
+      ],
+      "research": [
+        "Most published Epithalon work comes from long-running Russian and Eastern European research groups — including multi-year cohort studies on age-related markers and survival.",
+        "Main research areas: telomerase regulation, pineal-melatonin restoration, age-related sleep degradation, and oxidative-stress endpoints.",
+        "Western controlled human data is limited, which is the most-cited caveat when discussing the molecule."
+      ],
+      "anecdotal": [
+        "Deeper sleep and more vivid dreams are the most consistent anecdotal reports, often noticed early in a protocol. Effects on energy and mood are also commonly described."
+      ],
+      "whyInteresting": [
+        "Epithalon is one of very few small synthetic peptides linked directly to telomerase regulation — a mechanism that puts it in an entirely different conceptual bucket from the GH-axis and recovery peptides."
+      ],
+      "pairsWell": [
+        {
+          "slug": "nad-plus",
+          "reason": "Different cellular-aging mechanism"
+        },
+        {
+          "slug": "mots-c",
+          "reason": "Mitochondrial layer for longevity stacks"
+        }
+      ]
+    },
+    "vi": {
+      "classLine": "Tetrapeptide tổng hợp có nguồn gốc từ tuyến tùng",
+      "what": [
+        "Epithalon (Epitalon) là peptide ngắn gồm bốn axit amin, lần đầu được phân lập từ chiết xuất tuyến tùng. Đây là một trong những peptide nghiên cứu Nga ban đầu trong lĩnh vực tuổi thọ.",
+        "Điểm nổi bật của nó là liên hệ với telomerase — enzym duy trì các đầu mút bảo vệ của nhiễm sắc thể."
+      ],
+      "mechanism": [
+        "Epithalon được báo cáo là kích hoạt hoạt tính telomerase, giúp duy trì độ dài telomere trong quá trình phân chia tế bào.",
+        "Nó cũng có vẻ hỗ trợ chức năng tuyến tùng và nhịp melatonin, vì vậy thường được thảo luận cùng giấc ngủ và nhịp sinh học."
+      ],
+      "benefits": [
+        "Thảo luận về duy trì telomere và lão hóa tế bào",
+        "Cải thiện chất lượng giấc ngủ thường được báo cáo",
+        "Quan tâm nghiên cứu về chống oxy hóa và khả năng chịu căng thẳng"
+      ],
+      "research": [
+        "Hầu hết công trình Epithalon được công bố đến từ các nhóm nghiên cứu Nga và Đông Âu lâu năm. Dữ liệu lâm sàng có kiểm soát ở phương Tây còn hạn chế."
+      ],
+      "anecdotal": [
+        "Giấc ngủ sâu hơn và giấc mơ sống động hơn là báo cáo nhất quán nhất, thường được nhận thấy sớm trong giao thức."
+      ],
+      "pairsWell": [
+        {
+          "slug": "nad-plus",
+          "reason": "Cơ chế lão hóa tế bào khác"
+        },
+        {
+          "slug": "mots-c",
+          "reason": "Lớp ty thể cho các stack tuổi thọ"
+        }
+      ]
+    }
+  },
+  "mots-c": {
+    "en": {
+      "classLine": "Mitochondrial-derived peptide (16 amino acids)",
+      "history": [
+        "MOTS-c was discovered in 2015 by Pinchas Cohen's group at USC and was one of the first identified members of a new class called 'mitochondrial-derived peptides' (MDPs) — peptides encoded inside mitochondrial DNA itself.",
+        "Its discovery was a major surprise: mitochondrial DNA was thought to encode only the 13 known proteins of the electron-transport chain. Finding a secreted signaling peptide there opened a new research field within months."
+      ],
+      "what": [
+        "MOTS-c is a short peptide encoded inside your mitochondrial DNA — not your nuclear DNA. That makes it one of a very small class of 'mitokines' that act as messengers between mitochondria and the rest of the body.",
+        "It has become one of the most-discussed longevity and metabolic peptides in recent years, partly because the discovery of its existence reframed what mitochondria are capable of producing."
+      ],
+      "mechanism": [
+        "MOTS-c activates AMPK — the master energy sensor that responds to exercise and fasting — and influences how cells handle glucose and fat.",
+        "It supports insulin sensitivity in muscle, modulates the cellular stress response, and improves mitochondrial function in research models.",
+        "It can translocate to the nucleus during metabolic stress and influence the expression of nuclear genes — a mitochondria-to-nucleus signaling pattern that is rare among signaling peptides."
+      ],
+      "benefits": [
+        "Metabolic support: insulin sensitivity, fat oxidation",
+        "Exercise-mimetic discussion in longevity research",
+        "Mitochondrial function and resilience",
+        "Often-discussed effects on energy and endurance"
+      ],
+      "research": [
+        "MOTS-c is actively studied in metabolic and aging research, including obesity, diabetes, age-related muscle decline (sarcopenia), and exercise physiology.",
+        "Main research areas: AMPK signaling, insulin sensitivity, mitochondrial biogenesis, and the broader 'mitokine' family that MOTS-c helped open.",
+        "Compared with SS-31 it works upstream (signaling) rather than at the mitochondrial membrane — investigators sometimes pair the two for layered coverage."
+      ],
+      "anecdotal": [
+        "Improvements in training endurance, recovery from cardio, and steady metabolic changes over a protocol are commonly reported."
+      ],
+      "whyInteresting": [
+        "MOTS-c is interesting because its very existence rewrote what mitochondrial DNA was thought to do. It is the flagship of a new peptide class that researchers are still mapping out almost a decade after the original discovery."
+      ],
+      "pairsWell": [
+        {
+          "slug": "nad-plus",
+          "reason": "Layered mitochondrial-energy support"
+        },
+        {
+          "slug": "ss-31",
+          "reason": "Adds direct mitochondrial-membrane protection"
+        }
+      ]
+    },
+    "vi": {
+      "classLine": "Peptide có nguồn gốc ty thể (16 axit amin)",
+      "what": [
+        "MOTS-c là peptide ngắn được mã hóa bên trong DNA ty thể — không phải DNA nhân. Điều đó làm nó thuộc lớp 'mitokines' rất nhỏ, đóng vai trò sứ giả giữa ty thể và phần còn lại của cơ thể.",
+        "Nó đã trở thành một trong những peptide tuổi thọ và chuyển hóa được thảo luận nhiều nhất trong những năm gần đây."
+      ],
+      "mechanism": [
+        "MOTS-c kích hoạt AMPK — cảm biến năng lượng chính phản ứng với tập luyện và nhịn ăn — và ảnh hưởng cách tế bào xử lý glucose và chất béo.",
+        "Nó hỗ trợ độ nhạy insulin trong cơ, điều biến phản ứng căng thẳng tế bào và cải thiện chức năng ty thể trong các mô hình nghiên cứu."
+      ],
+      "benefits": [
+        "Hỗ trợ chuyển hóa: độ nhạy insulin, oxy hóa chất béo",
+        "Thảo luận mô phỏng tập luyện trong nghiên cứu tuổi thọ",
+        "Chức năng và sức bền ty thể",
+        "Tác dụng thường được thảo luận về năng lượng và sức bền"
+      ],
+      "research": [
+        "MOTS-c được nghiên cứu tích cực trong nghiên cứu chuyển hóa và lão hóa, bao gồm béo phì, tiểu đường và suy giảm cơ liên quan đến tuổi."
+      ],
+      "anecdotal": [
+        "Cải thiện sức bền tập luyện, phục hồi sau cardio và thay đổi chuyển hóa ổn định qua giao thức thường được báo cáo."
+      ],
+      "pairsWell": [
+        {
+          "slug": "nad-plus",
+          "reason": "Hỗ trợ năng lượng ty thể xếp lớp"
+        },
+        {
+          "slug": "ss-31",
+          "reason": "Thêm bảo vệ màng ty thể trực tiếp"
+        }
+      ]
+    }
+  },
+  "ss-31": {
+    "en": {
+      "classLine": "Mitochondria-targeted antioxidant tetrapeptide (Elamipretide)",
+      "history": [
+        "SS-31 (Elamipretide, also called MTP-131 or Bendavia) was developed by Hazel Szeto's group at Weill Cornell in the early 2000s — part of a series of 'Szeto-Schiller' peptides engineered to accumulate selectively inside mitochondria.",
+        "It has since become one of the most-studied mitochondrial-targeted therapeutics, with completed and ongoing clinical trials in cardiac, neurological and rare mitochondrial-disease settings under Stealth BioTherapeutics."
+      ],
+      "what": [
+        "SS-31 — also known as Elamipretide — is a short peptide engineered to selectively accumulate inside mitochondria, where it binds to cardiolipin in the inner membrane.",
+        "It is one of the most targeted molecules in mitochondrial medicine, with clinical research across cardiac, neurological and rare-disease applications.",
+        "Unlike most peptides it concentrates ~1000-fold inside mitochondria vs. the cytoplasm, which is what makes its mechanism so specific."
+      ],
+      "mechanism": [
+        "SS-31 binds cardiolipin and stabilizes the inner mitochondrial membrane, which is critical for the electron-transport chain to produce ATP efficiently.",
+        "By stabilizing this structure, SS-31 reduces reactive oxygen species production and supports ATP output, especially in stressed or aged mitochondria.",
+        "It also preserves cristae architecture (the folded inner-membrane structure) — when cristae break down, mitochondria stop making energy efficiently, which is a hallmark of age-related decline."
+      ],
+      "benefits": [
+        "Mitochondrial energy output and efficiency support",
+        "Reduction of oxidative stress at the source",
+        "Research interest in cardiac, neurological and age-related decline",
+        "Discussed for recovery from exercise-induced fatigue"
+      ],
+      "research": [
+        "SS-31 has been studied in clinical trials for heart failure, ischemia-reperfusion injury, Barth syndrome (a rare cardiolipin disorder), and primary mitochondrial disease.",
+        "Main research areas: cardiac energetics, age-related skeletal-muscle decline, dry age-related macular degeneration, and neurodegeneration models.",
+        "It is one of the only molecules that targets mitochondria physically rather than via signaling — which makes it conceptually distinct from MOTS-c or NAD+."
+      ],
+      "anecdotal": [
+        "Improved energy, reduced subjective fatigue, and faster recovery from physical effort are common reports."
+      ],
+      "whyInteresting": [
+        "SS-31 is interesting as a 'membrane medicine' — instead of binding a receptor or providing a cofactor, it physically stabilizes the structure mitochondria depend on. That is an unusual mechanism for a research peptide."
+      ],
+      "pairsWell": [
+        {
+          "slug": "mots-c",
+          "reason": "Two angles on mitochondrial function"
+        },
+        {
+          "slug": "nad-plus",
+          "reason": "Adds the cofactor side of cellular energy"
+        }
+      ]
+    },
+    "vi": {
+      "classLine": "Tetrapeptide chống oxy hóa nhắm ty thể (Elamipretide)",
+      "what": [
+        "SS-31 — còn gọi là Elamipretide — là peptide ngắn được thiết kế để tích tụ chọn lọc bên trong ty thể, nơi nó gắn vào cardiolipin ở màng trong.",
+        "Đây là một trong những phân tử nhắm đích nhất trong y học ty thể, với nghiên cứu lâm sàng qua các ứng dụng tim mạch, thần kinh và bệnh hiếm."
+      ],
+      "mechanism": [
+        "SS-31 gắn cardiolipin và ổn định màng trong ty thể, điều quan trọng để chuỗi vận chuyển electron tạo ATP hiệu quả.",
+        "Bằng cách ổn định cấu trúc này, SS-31 giảm sản xuất các loài oxy phản ứng và hỗ trợ đầu ra ATP, đặc biệt ở ty thể bị căng thẳng hoặc già."
+      ],
+      "benefits": [
+        "Hỗ trợ đầu ra và hiệu quả năng lượng ty thể",
+        "Giảm căng thẳng oxy hóa tại nguồn",
+        "Quan tâm nghiên cứu về tim mạch, thần kinh và suy giảm theo tuổi",
+        "Được thảo luận về phục hồi từ mệt mỏi do tập luyện"
+      ],
+      "research": [
+        "SS-31 đã được nghiên cứu trong các thử nghiệm lâm sàng cho suy tim, tổn thương thiếu máu-tái tưới máu và bệnh ty thể nguyên phát."
+      ],
+      "anecdotal": [
+        "Cải thiện năng lượng, giảm mệt mỏi chủ quan và phục hồi nhanh hơn từ nỗ lực thể chất là báo cáo phổ biến."
+      ],
+      "pairsWell": [
+        {
+          "slug": "mots-c",
+          "reason": "Hai góc tiếp cận chức năng ty thể"
+        },
+        {
+          "slug": "nad-plus",
+          "reason": "Thêm khía cạnh coenzyme của năng lượng tế bào"
+        }
+      ]
+    }
+  },
+  "thymosin-alpha-1": {
+    "en": {
+      "classLine": "Immune-modulating peptide derived from the thymus",
+      "history": [
+        "Thymosin Alpha-1 was first isolated by Allan Goldstein in 1972 from calf thymus extracts. It was synthesized in 1977 and developed commercially as Zadaxin (SciClone Pharmaceuticals), which is approved in dozens of countries for hepatitis B and as an immune-support adjunct in cancer care.",
+        "It is one of the few peptides with decades of formal clinical use outside the US — making it one of the better-characterized immune peptides in the catalog."
+      ],
+      "what": [
+        "Thymosin Alpha-1 is a 28-amino-acid peptide originally isolated from the thymus, the organ that trains your T-cells. It is one of the most clinically-used immune-modulating peptides in the world.",
+        "It is approved for clinical use in many countries (Zadaxin) for hepatitis B and as an immune-support adjunct in cancer care, infections, and severe sepsis."
+      ],
+      "mechanism": [
+        "Thymosin Alpha-1 acts through TLR (Toll-like receptor) signaling — primarily TLR2 and TLR9 — on dendritic cells and supports the maturation and balance of T-cell populations.",
+        "The net effect in research is improved immune surveillance, better antiviral response, and a more balanced inflammatory profile — boosting under-responsive immunity while damping over-active inflammation.",
+        "It also influences regulatory T-cell populations, which is part of why it has been studied as an immune adjunct rather than a pure stimulant."
+      ],
+      "benefits": [
+        "Immune-system support and surveillance",
+        "Used as an adjunct in viral and oncology research",
+        "Discussion of resilience during high-stress training or travel",
+        "Anti-inflammatory and balance effects"
+      ],
+      "research": [
+        "Thymosin Alpha-1 has decades of clinical evidence across hepatitis B and C, immune adjunct in cancer care, vaccine-response augmentation, and sepsis (notably studied during the COVID-19 pandemic).",
+        "Main research areas: viral hepatitis, oncology immune adjunct, sepsis modulation, and age-related immune decline ('immunosenescence').",
+        "It is one of the few peptides whose 'balance both directions' immunomodulation is well documented — most immune peptides only push one way."
+      ],
+      "anecdotal": [
+        "Researchers commonly describe fewer minor infections, faster recovery from illness, and steadier energy during stressful periods."
+      ],
+      "whyInteresting": [
+        "Thymosin Alpha-1 is interesting because it both raises immune response when it is too low and damps it when it is too high — a true 'modulator' rather than a stimulant or suppressant. That bidirectional behavior is rare and well documented."
+      ],
+      "pairsWell": [
+        {
+          "slug": "bpc-157",
+          "reason": "Tissue and gut-lining support alongside immunity"
+        },
+        {
+          "slug": "nad-plus",
+          "reason": "Cellular energy with immune resilience"
+        }
+      ]
+    },
+    "vi": {
+      "classLine": "Peptide điều biến miễn dịch có nguồn gốc từ tuyến ức",
+      "what": [
+        "Thymosin Alpha-1 là peptide 28 axit amin ban đầu được phân lập từ tuyến ức, cơ quan huấn luyện tế bào T. Đây là một trong những peptide điều biến miễn dịch được sử dụng lâm sàng nhiều nhất trên thế giới.",
+        "Nó được chấp thuận sử dụng lâm sàng ở nhiều quốc gia cho viêm gan B và làm phụ trợ hỗ trợ miễn dịch trong chăm sóc ung thư."
+      ],
+      "mechanism": [
+        "Thymosin Alpha-1 hoạt động qua tín hiệu TLR (Toll-like receptor) trên tế bào đuôi gai và hỗ trợ trưởng thành và cân bằng quần thể tế bào T.",
+        "Tác dụng tổng thể trong nghiên cứu là cải thiện giám sát miễn dịch, phản ứng kháng virus tốt hơn và hồ sơ viêm cân bằng hơn."
+      ],
+      "benefits": [
+        "Hỗ trợ và giám sát hệ miễn dịch",
+        "Sử dụng làm phụ trợ trong nghiên cứu virus và ung thư",
+        "Thảo luận về sức bền trong tập luyện căng thẳng cao hoặc đi lại",
+        "Tác dụng chống viêm và cân bằng"
+      ],
+      "research": [
+        "Thymosin Alpha-1 có hàng thập kỷ bằng chứng lâm sàng qua viêm gan B, phụ trợ miễn dịch trong chăm sóc ung thư và nghiên cứu sức bền nhiễm trùng."
+      ],
+      "anecdotal": [
+        "Các nhà nghiên cứu thường mô tả ít nhiễm trùng nhỏ hơn, phục hồi nhanh hơn từ bệnh và năng lượng ổn định hơn trong giai đoạn căng thẳng."
+      ],
+      "pairsWell": [
+        {
+          "slug": "bpc-157",
+          "reason": "Hỗ trợ mô và niêm mạc ruột bên cạnh miễn dịch"
+        },
+        {
+          "slug": "nad-plus",
+          "reason": "Năng lượng tế bào với sức bền miễn dịch"
+        }
+      ]
+    }
+  },
+  "ghk-cu": {
+    "en": {
+      "classLine": "Copper-binding tripeptide — collagen and tissue-signaling peptide",
+      "history": [
+        "GHK was first isolated in 1973 by Loren Pickart in human plasma as a factor that enabled aged liver tissue to behave like younger tissue in culture. Its copper-binding form, GHK-Cu, was characterized over the following decade and became one of the most-cited small peptides in dermatology and tissue-repair literature.",
+        "Plasma levels of GHK fall meaningfully with age (~200 ng/mL at age 20 to ~80 ng/mL by age 60), which is one of the main framings for why its restoration is researched."
+      ],
+      "what": [
+        "GHK-Cu is a naturally occurring tripeptide (glycyl-L-histidyl-L-lysine) that binds a single copper ion. Levels in human plasma decline meaningfully with age, and most of its claimed effects relate to restoring that signal.",
+        "It is one of the most-cited peptides in dermatology and connective-tissue research, with thousands of published papers across cosmetic and wound-healing applications."
+      ],
+      "mechanism": [
+        "GHK-Cu modulates expression of dozens of genes involved in tissue remodeling — gene-array studies have identified influence on ~30% of human genes, with the most pronounced effects on collagen, elastin, glycosaminoglycan and antioxidant pathways.",
+        "It supports fibroblast activity and angiogenesis, which translates to skin, hair, and connective-tissue effects.",
+        "It also acts as a small-molecule chelator that can shuttle copper into cells where it is needed for healing — copper is essential for several wound-repair enzymes."
+      ],
+      "benefits": [
+        "Collagen, elastin, and connective-tissue support",
+        "Skin tone, firmness and quality discussion",
+        "Hair-follicle and scalp interest",
+        "Antioxidant and DNA-repair pathway support"
+      ],
+      "research": [
+        "GHK-Cu has one of the largest published datasets of any small peptide in dermatology, with research across wound healing, skin remodeling, hair-follicle biology, and even neurological tissue support.",
+        "Main research areas: skin aging and elasticity, chronic wound healing, hair-follicle stimulation, copper trafficking, and broader gene-expression effects.",
+        "Compared with TB-500 it works through gene-expression changes rather than cytoskeletal mechanics — different angle on the same overall tissue-repair question."
+      ],
+      "anecdotal": [
+        "Improvements in skin tone, smoother texture, and gradual changes in fine-line appearance are common over multi-week protocols. The reconstituted solution is naturally blue from the copper."
+      ],
+      "whyInteresting": [
+        "GHK-Cu is interesting because it appears to act as a 'tissue-remodeling switch' at the gene-expression level rather than at a single receptor. That is why its effects span skin, hair, wounds, and connective tissue without needing a separate mechanism for each."
+      ],
+      "pairsWell": [
+        {
+          "slug": "bpc-157",
+          "reason": "Deeper soft-tissue repair alongside skin signaling"
+        },
+        {
+          "slug": "tb-500",
+          "reason": "Reinforced connective-tissue effects"
+        }
+      ]
+    },
+    "vi": {
+      "classLine": "Tripeptide gắn đồng — peptide tín hiệu collagen và mô",
+      "what": [
+        "GHK-Cu là tripeptide tự nhiên gắn một ion đồng. Mức trong huyết tương người giảm đáng kể theo tuổi, và hầu hết các tác dụng được tuyên bố liên quan đến việc khôi phục tín hiệu đó.",
+        "Đây là một trong những peptide được trích dẫn nhiều nhất trong nghiên cứu da liễu và mô liên kết."
+      ],
+      "mechanism": [
+        "GHK-Cu điều biến biểu hiện của hàng chục gen liên quan đến tái tạo mô, bao gồm collagen, elastin, glycosaminoglycan và các con đường chống oxy hóa.",
+        "Nó hỗ trợ hoạt động nguyên bào sợi và tạo mạch, dẫn đến tác dụng lên da, tóc và mô liên kết.",
+        "Nó cũng hoạt động như một chất chelate phân tử nhỏ vận chuyển đồng vào tế bào nơi cần để lành thương."
+      ],
+      "benefits": [
+        "Hỗ trợ collagen, elastin và mô liên kết",
+        "Thảo luận về sắc tố, độ săn chắc và chất lượng da",
+        "Quan tâm đến nang tóc và da đầu",
+        "Hỗ trợ chống oxy hóa và con đường sửa chữa DNA"
+      ],
+      "research": [
+        "GHK-Cu có một trong những bộ dữ liệu công bố lớn nhất trong số các peptide nhỏ trong da liễu, với quan tâm nghiên cứu rộng hơn về lành thương và cả hỗ trợ mô thần kinh."
+      ],
+      "anecdotal": [
+        "Cải thiện sắc tố da, kết cấu mịn hơn và thay đổi dần dần ở nếp nhăn nhỏ thường thấy qua các giao thức nhiều tuần."
+      ],
+      "pairsWell": [
+        {
+          "slug": "bpc-157",
+          "reason": "Sửa chữa mô mềm sâu hơn cùng tín hiệu da"
+        },
+        {
+          "slug": "tb-500",
+          "reason": "Tăng cường tác dụng mô liên kết"
+        }
+      ]
+    }
+  },
+  "semax": {
+    "en": {
+      "classLine": "Synthetic ACTH(4–10) analogue — nootropic peptide",
+      "history": [
+        "Semax was developed in the 1980s at the Institute of Molecular Genetics in Moscow as a synthetic analogue of a fragment of ACTH (4–10). It was approved in Russia in the 1990s and is included on the official list of essential drugs there.",
+        "It is one of the most widely prescribed nootropic peptides in Russia, with clinical use spanning stroke recovery, cognitive support in elderly patients, and pediatric attention research."
+      ],
+      "what": [
+        "Semax is a short heptapeptide derived from a fragment of ACTH. It was developed in Russia and is in clinical use there for stroke recovery and cognitive-support applications.",
+        "It is one of the most-used research peptides in the nootropic and cognitive-performance space."
+      ],
+      "mechanism": [
+        "Semax raises levels of BDNF (brain-derived neurotrophic factor) and NGF (nerve growth factor) — the body's main signals for forming and maintaining neural connections.",
+        "It also modulates dopaminergic and serotonergic systems, which is part of why it is described as both focus-enhancing and mood-stabilizing.",
+        "Animal work shows it can cross the blood-brain barrier via the olfactory route, which is why intranasal formulations exist alongside subcutaneous."
+      ],
+      "benefits": [
+        "Focus, attention and cognitive endurance",
+        "Mood and stress-resilience discussion",
+        "Research interest in stroke recovery and neuroprotection",
+        "Often discussed for mental performance during heavy work periods"
+      ],
+      "research": [
+        "Semax has a long Russian clinical history, especially in ischemic stroke recovery (where it is part of standard care in some Russian hospitals), cognitive-impairment research, and pediatric attention studies. Western controlled data is more limited.",
+        "Main research areas: BDNF/NGF biology, ischemic stroke recovery, ADHD models, and stress-resilience endpoints.",
+        "Compared with selank it leans toward activation/focus, where selank leans toward calm — they are often discussed as a 'focus and calm' pair."
+      ],
+      "anecdotal": [
+        "Improved focus, calmer mental state under pressure, and clearer thinking during demanding tasks are the most common reports."
+      ],
+      "whyInteresting": [
+        "Semax is one of very few cognitive peptides with a real clinical history rather than just animal data — and it works by upregulating the body's own neurotrophic factors rather than by direct stimulation, which is mechanistically unusual."
+      ],
+      "pairsWell": [
+        {
+          "slug": "selank",
+          "reason": "Calming counterpart — focus + anti-anxiety pairing"
+        },
+        {
+          "slug": "nad-plus",
+          "reason": "Cognitive energy support"
+        }
+      ]
+    },
+    "vi": {
+      "classLine": "Tương tự tổng hợp ACTH(4–10) — peptide nootropic",
+      "what": [
+        "Semax là một heptapeptide ngắn có nguồn gốc từ một mảnh của ACTH. Nó được phát triển ở Nga và đang được sử dụng lâm sàng ở đó cho phục hồi đột quỵ và ứng dụng hỗ trợ nhận thức.",
+        "Đây là một trong những peptide nghiên cứu được sử dụng nhiều nhất trong lĩnh vực nootropic và hiệu suất nhận thức."
+      ],
+      "mechanism": [
+        "Semax tăng mức BDNF (yếu tố dinh dưỡng thần kinh nguồn não) và NGF (yếu tố tăng trưởng thần kinh) — tín hiệu chính của cơ thể để hình thành và duy trì kết nối thần kinh.",
+        "Nó cũng điều biến hệ dopamin và serotonin, một phần lý do nó được mô tả vừa tăng cường tập trung vừa ổn định tâm trạng."
+      ],
+      "benefits": [
+        "Tập trung, chú ý và sức bền nhận thức",
+        "Thảo luận về tâm trạng và sức bền căng thẳng",
+        "Quan tâm nghiên cứu phục hồi đột quỵ và bảo vệ thần kinh",
+        "Thường được thảo luận về hiệu suất tinh thần trong giai đoạn làm việc nặng"
+      ],
+      "research": [
+        "Semax có lịch sử lâm sàng Nga lâu dài, đặc biệt trong nghiên cứu đột quỵ và suy giảm nhận thức. Dữ liệu có kiểm soát phương Tây hạn chế hơn."
+      ],
+      "anecdotal": [
+        "Tập trung cải thiện, trạng thái tinh thần bình tĩnh hơn dưới áp lực và tư duy rõ ràng hơn trong các nhiệm vụ đòi hỏi là báo cáo phổ biến nhất."
+      ],
+      "pairsWell": [
+        {
+          "slug": "selank",
+          "reason": "Đối tác làm dịu — cặp đôi tập trung + chống lo âu"
+        },
+        {
+          "slug": "nad-plus",
+          "reason": "Hỗ trợ năng lượng nhận thức"
+        }
+      ]
+    }
+  },
+  "selank": {
+    "en": {
+      "classLine": "Synthetic analogue of human tuftsin — anxiolytic peptide",
+      "history": [
+        "Selank was developed in the 1990s at the same Russian Institute of Molecular Genetics that produced Semax. It is a synthetic analogue of tuftsin, a natural immune-modulating peptide fragment.",
+        "It was approved in Russia and is used clinically there for generalized anxiety disorder. Its non-sedating profile is what made it stand out from classical benzodiazepine-class anxiolytics."
+      ],
+      "what": [
+        "Selank is a short peptide modeled on tuftsin, a natural immune-modulating fragment. It was developed alongside Semax in Russia and is used there for generalized anxiety research.",
+        "It is the most-discussed peptide in the anti-anxiety and stress-resilience corner of nootropic research."
+      ],
+      "mechanism": [
+        "Selank modulates GABA-receptor activity — the brain's main calming system — without the sedation, dependence or memory issues of classic anxiolytics.",
+        "It also influences enkephalin levels (the body's natural calming opioids) and BDNF expression, which is part of why mood and cognitive endurance effects are described alongside its anxiolytic profile.",
+        "It has documented immunomodulatory effects via the tuftsin pathway, which is why some research framing includes a 'stress-immune' axis."
+      ],
+      "benefits": [
+        "Calm, focused mental state",
+        "Research interest in generalized anxiety",
+        "Sleep quality and stress-resilience discussion",
+        "Non-sedating profile compared with classical anxiolytics"
+      ],
+      "research": [
+        "Selank has Russian clinical data in generalized anxiety disorder and adjustment disorder, with head-to-head comparisons against benzodiazepines showing comparable anxiolysis without sedation. Western controlled trials are limited.",
+        "Main research areas: GABAergic modulation, enkephalin biology, anxiety/PTSD models, and stress-immune crosstalk.",
+        "Compared with Semax it sits at the calming end of the same Russian peptide family — they are designed to be complementary."
+      ],
+      "anecdotal": [
+        "A quieter, more even baseline mental state — without sedation — is the most common report. Improvements in sleep are also frequently noted."
+      ],
+      "whyInteresting": [
+        "Selank is interesting as a non-sedating anxiolytic peptide — a combination that is essentially unique in the catalog. Most anti-anxiety molecules trade alertness for calm; Selank's research profile claims it doesn't have to."
+      ],
+      "pairsWell": [
+        {
+          "slug": "semax",
+          "reason": "Focus pairing — calm and clear"
+        },
+        {
+          "slug": "epithalon",
+          "reason": "Adds sleep and circadian support"
+        }
+      ]
+    },
+    "vi": {
+      "classLine": "Tương tự tổng hợp của tuftsin người — peptide chống lo âu",
+      "what": [
+        "Selank là một peptide ngắn mô phỏng tuftsin, một mảnh điều biến miễn dịch tự nhiên. Nó được phát triển cùng Semax ở Nga và được sử dụng ở đó cho nghiên cứu lo âu lan tỏa.",
+        "Đây là peptide được thảo luận nhiều nhất trong góc chống lo âu và sức bền căng thẳng của nghiên cứu nootropic."
+      ],
+      "mechanism": [
+        "Selank điều biến hoạt động thụ thể GABA — hệ thống làm dịu chính của não — mà không gây an thần, phụ thuộc hoặc vấn đề trí nhớ như thuốc chống lo âu cổ điển.",
+        "Nó cũng ảnh hưởng đến mức enkephalin và biểu hiện BDNF, một phần lý do tác dụng tâm trạng và sức bền nhận thức được mô tả cùng hồ sơ chống lo âu."
+      ],
+      "benefits": [
+        "Trạng thái tinh thần bình tĩnh, tập trung",
+        "Quan tâm nghiên cứu về lo âu lan tỏa",
+        "Thảo luận về chất lượng giấc ngủ và sức bền căng thẳng",
+        "Hồ sơ không an thần so với thuốc chống lo âu cổ điển"
+      ],
+      "research": [
+        "Selank có dữ liệu lâm sàng Nga trong nghiên cứu lo âu và rối loạn điều chỉnh. Các thử nghiệm có kiểm soát phương Tây hạn chế."
+      ],
+      "anecdotal": [
+        "Trạng thái tinh thần nền yên tĩnh, đều đặn hơn — không an thần — là báo cáo phổ biến nhất. Cải thiện giấc ngủ cũng thường được ghi nhận."
+      ],
+      "pairsWell": [
+        {
+          "slug": "semax",
+          "reason": "Cặp đôi tập trung — bình tĩnh và rõ ràng"
+        },
+        {
+          "slug": "epithalon",
+          "reason": "Thêm hỗ trợ giấc ngủ và nhịp sinh học"
+        }
+      ]
+    }
+  },
+  "pt-141": {
+    "en": {
+      "classLine": "Melanocortin-receptor agonist (Bremelanotide) — libido peptide",
+      "history": [
+        "PT-141 was developed by Palatin Technologies in the 2000s as a derivative of Melanotan II. It received FDA approval in 2019 as Vyleesi for hypoactive sexual desire disorder in premenopausal women — making it one of the few peptides in the catalog with a formal regulatory approval for libido.",
+        "Its central (brain) mechanism is what made it interesting: unlike PDE5 inhibitors (sildenafil, tadalafil) which act on blood vessels, PT-141 works upstream on desire itself."
+      ],
+      "what": [
+        "PT-141, also known as Bremelanotide, is a synthetic analogue of alpha-MSH that activates the melanocortin system in the brain. Unlike PDE5 inhibitors, it works centrally rather than vascularly.",
+        "It is approved in the US for hypoactive sexual desire disorder and is the most clinically validated libido peptide on the market."
+      ],
+      "mechanism": [
+        "PT-141 acts on melanocortin receptors (mainly MC4R) in the central nervous system, which are involved in sexual arousal pathways.",
+        "Because the effect is upstream of vascular response, it influences desire and arousal at the neural level for both sexes — which is why research interest extends beyond the female-libido indication it is approved for.",
+        "MC4R also has roles in appetite and energy expenditure, which is part of why mild appetite changes are sometimes noted alongside the primary effect."
+      ],
+      "benefits": [
+        "Centrally-acting libido and arousal support",
+        "Works through a different pathway than vascular drugs",
+        "Discussion of effects for both men and women"
+      ],
+      "research": [
+        "PT-141 has a clinical evidence base in female sexual dysfunction (the basis of its FDA approval) and ongoing research interest in male applications and PDE5-inhibitor non-responders.",
+        "Main research areas: melanocortin biology, female hypoactive sexual desire disorder, male erectile dysfunction (especially non-vascular cases), and the broader role of MC4R in motivation."
+      ],
+      "anecdotal": [
+        "Increased desire and arousal within hours of administration is the most common report. Flushing, mild nausea or yawning early in a protocol are also widely noted and typically settle with lower dose / slower titration."
+      ],
+      "whyInteresting": [
+        "PT-141 is interesting because it is one of the only approved drugs that acts on sexual desire itself rather than the downstream plumbing — a mechanism that didn't really exist in the toolkit before melanocortin research matured."
+      ],
+      "pairsWell": [
+        {
+          "slug": "kisspeptin-10",
+          "reason": "Different hormonal angle on libido and reproductive axis"
+        },
+        {
+          "slug": "ghk-cu",
+          "reason": "General wellness pairing"
+        }
+      ]
+    },
+    "vi": {
+      "classLine": "Chủ vận thụ thể melanocortin (Bremelanotide) — peptide ham muốn",
+      "what": [
+        "PT-141, còn được gọi là Bremelanotide, là một tương tự tổng hợp của alpha-MSH kích hoạt hệ thống melanocortin trong não. Khác với thuốc ức chế PDE5, nó hoạt động trung tâm chứ không phải mạch máu.",
+        "Nó được chấp thuận ở một số quốc gia cho rối loạn ham muốn tình dục thấp."
+      ],
+      "mechanism": [
+        "PT-141 hoạt động trên thụ thể melanocortin (chủ yếu MC4R) trong hệ thần kinh trung ương, liên quan đến các con đường kích thích tình dục.",
+        "Vì hiệu ứng ở thượng nguồn của phản ứng mạch máu, nó ảnh hưởng đến ham muốn và kích thích ở cấp độ thần kinh cho cả hai giới."
+      ],
+      "benefits": [
+        "Hỗ trợ ham muốn và kích thích hoạt động trung tâm",
+        "Hoạt động qua con đường khác với thuốc mạch máu",
+        "Thảo luận về tác dụng cho cả nam và nữ"
+      ],
+      "research": [
+        "PT-141 có cơ sở bằng chứng lâm sàng trong rối loạn chức năng tình dục nữ và quan tâm nghiên cứu liên tục trong ứng dụng nam."
+      ],
+      "anecdotal": [
+        "Tăng ham muốn và kích thích trong vài giờ sau khi dùng là báo cáo phổ biến nhất. Đỏ bừng, buồn nôn nhẹ hoặc ngáp đầu giao thức cũng được ghi nhận rộng rãi."
+      ],
+      "pairsWell": [
+        {
+          "slug": "kisspeptin-10",
+          "reason": "Góc nội tiết khác về ham muốn và trục sinh sản"
+        },
+        {
+          "slug": "ghk-cu",
+          "reason": "Cặp đôi sức khỏe chung"
+        }
+      ]
+    }
+  },
+  "kisspeptin-10": {
+    "en": {
+      "classLine": "Truncated kisspeptin — upstream regulator of the reproductive axis",
+      "history": [
+        "Kisspeptin was first identified in 1996 as a tumor-metastasis suppressor (originally named metastin) at Pennsylvania State University. Its central role in puberty and reproductive biology was discovered in 2003 when mutations in its receptor (KISS1R/GPR54) were linked to absent puberty.",
+        "That discovery rewrote reproductive endocrinology — kisspeptin is now recognized as the upstream switch that turns on the entire HPG axis, and research interest has expanded rapidly ever since."
+      ],
+      "what": [
+        "Kisspeptin-10 is the active 10-amino-acid fragment of kisspeptin, the master regulator of GnRH release and therefore the entire HPG (hypothalamic-pituitary-gonadal) axis.",
+        "It sits one step upstream of LH, FSH, and the downstream sex hormones in both men and women — making it conceptually different from any other peptide that influences libido or reproduction."
+      ],
+      "mechanism": [
+        "Kisspeptin-10 binds the KISS1R receptor in the hypothalamus and triggers GnRH release.",
+        "GnRH in turn drives LH and FSH from the pituitary, which then act on the gonads to produce testosterone or estradiol.",
+        "The peptide is being investigated as a more physiologic alternative to GnRH analogues for fertility and hormonal-axis research — because it works one step upstream, it preserves more of the natural pulsatile rhythm."
+      ],
+      "benefits": [
+        "Upstream support of LH/FSH and natural sex-hormone production",
+        "Discussion in fertility, libido, and HPG-axis research",
+        "Often-discussed as a recovery tool after axis suppression"
+      ],
+      "research": [
+        "Kisspeptin biology is one of the most actively researched areas in reproductive endocrinology, including fertility (ovulation triggering), hypothalamic amenorrhea, hypogonadism, and metabolic-reproductive crosstalk.",
+        "Main research areas: ovulation induction, male hypogonadism, post-cycle HPG-axis recovery, and metabolic regulation of reproduction.",
+        "Compared with PT-141 it works on the hormonal axis rather than central arousal — different question, different tool."
+      ],
+      "anecdotal": [
+        "Researchers commonly report subtle shifts in baseline libido, energy and mood across a protocol."
+      ],
+      "whyInteresting": [
+        "Kisspeptin-10 is interesting because it sits at the very top of the reproductive cascade — the master switch above GnRH itself. That kind of upstream position is rare for an injectable research peptide."
+      ],
+      "pairsWell": [
+        {
+          "slug": "pt-141",
+          "reason": "Different mechanism on the same broad area"
+        },
+        {
+          "slug": "cjc-1295-ipamorelin",
+          "reason": "Pituitary-axis layering for performance research"
+        }
+      ]
+    },
+    "vi": {
+      "classLine": "Kisspeptin rút gọn — bộ điều hòa thượng nguồn trục sinh sản",
+      "what": [
+        "Kisspeptin-10 là mảnh hoạt động 10 axit amin của kisspeptin, bộ điều hòa chính của giải phóng GnRH và do đó toàn bộ trục HPG (vùng dưới đồi-tuyến yên-sinh dục).",
+        "Nó nằm một bước ở thượng nguồn của LH, FSH và các hormone sinh dục hạ nguồn ở cả nam và nữ."
+      ],
+      "mechanism": [
+        "Kisspeptin-10 gắn thụ thể KISS1R ở vùng dưới đồi và kích hoạt giải phóng GnRH.",
+        "GnRH đến lượt thúc đẩy LH và FSH từ tuyến yên, sau đó tác động lên tuyến sinh dục để sản xuất testosterone hoặc estradiol.",
+        "Peptide đang được nghiên cứu như một thay thế sinh lý hơn cho các tương tự GnRH trong nghiên cứu sinh sản và trục nội tiết."
+      ],
+      "benefits": [
+        "Hỗ trợ thượng nguồn LH/FSH và sản xuất hormone sinh dục tự nhiên",
+        "Thảo luận trong nghiên cứu sinh sản, ham muốn và trục HPG",
+        "Thường được thảo luận như công cụ phục hồi sau ức chế trục"
+      ],
+      "research": [
+        "Sinh học kisspeptin là một trong những lĩnh vực được nghiên cứu tích cực nhất trong nội tiết sinh sản, bao gồm sinh sản, suy sinh dục và giao thoa chuyển hóa-sinh sản."
+      ],
+      "anecdotal": [
+        "Các nhà nghiên cứu thường báo cáo những thay đổi tinh tế về ham muốn nền, năng lượng và tâm trạng qua giao thức."
+      ],
+      "pairsWell": [
+        {
+          "slug": "pt-141",
+          "reason": "Cơ chế khác trên cùng lĩnh vực rộng"
+        },
+        {
+          "slug": "cjc-1295-ipamorelin",
+          "reason": "Xếp lớp trục tuyến yên cho nghiên cứu hiệu suất"
+        }
+      ]
+    }
+  },
+  "glutathione": {
+    "en": {
+      "classLine": "Endogenous tripeptide — master antioxidant",
+      "history": [
+        "Glutathione was first characterized in the late 1880s and its tripeptide structure (glutamate-cysteine-glycine) was confirmed by Frederick Gowland Hopkins in the 1920s — work that contributed to his 1929 Nobel Prize. It is one of the oldest biochemically-characterized molecules in the modern catalog.",
+        "Injectable preparations have a long clinical history in Japan, Korea and parts of Europe, particularly for hepatic and oxidative-stress applications — making it the most widely-used 'antioxidant peptide' in real-world research practice."
+      ],
+      "what": [
+        "Glutathione is a naturally-occurring tripeptide that the body produces in every cell. It is considered the body's master antioxidant and a central player in detoxification.",
+        "Injectable glutathione is widely used in research and clinical settings where oral or hepatic-first-pass bioavailability is not enough."
+      ],
+      "mechanism": [
+        "Glutathione neutralizes free radicals and supports the regeneration of other antioxidants like vitamins C and E — sitting at the top of the cellular antioxidant network.",
+        "It is essential for liver-phase II detoxification, where it conjugates with toxic metabolites to make them water-soluble for excretion.",
+        "It also influences the redox state of cells, which feeds into everything from inflammation to mitochondrial function."
+      ],
+      "benefits": [
+        "Antioxidant capacity support",
+        "Liver and detoxification pathway research",
+        "Skin tone and complexion discussion in cosmetic research",
+        "Discussion of effects on chronic inflammation markers"
+      ],
+      "research": [
+        "Glutathione has a deep clinical evidence base in hepatology (chemo-induced liver injury, NAFLD), Parkinson's research, and oxidative-stress conditions.",
+        "Main research areas: hepatic detoxification, neurodegenerative disease, dermatology (skin lightening and complexion endpoints), and post-exercise recovery from oxidative stress.",
+        "Because intracellular glutathione is what matters biologically, route of administration is a more important variable here than for most peptides — oral, IV, IM and SC all behave differently."
+      ],
+      "anecdotal": [
+        "Clearer complexion, improved energy, and reduced subjective fatigue are commonly reported. Researchers often note effects developing gradually over weeks rather than acutely."
+      ],
+      "whyInteresting": [
+        "Glutathione is interesting because the body makes it, levels decline with age and oxidative stress, and yet it sits at the center of essentially every antioxidant pathway in the cell. That makes it one of the few molecules where 'restoring what's already there' is both a real and well-characterized strategy."
+      ],
+      "pairsWell": [
+        {
+          "slug": "nad-plus",
+          "reason": "Two angles on cellular resilience"
+        },
+        {
+          "slug": "ghk-cu",
+          "reason": "Skin and tissue-repair pairing"
+        }
+      ]
+    },
+    "vi": null
+  },
+  "bac-water": {
+    "en": {
+      "classLine": "Bacteriostatic water — reconstitution solvent",
+      "what": [
+        "Bacteriostatic water is sterile water that contains 0.9% benzyl alcohol as a preservative. It is the standard solvent used in peptide research to reconstitute lyophilized (freeze-dried) peptides into solution.",
+        "It is not a peptide and has no biological activity of its own — it exists to safely dissolve and store peptides during a research protocol."
+      ],
+      "mechanism": [
+        "The benzyl alcohol preservative inhibits bacterial growth, allowing a reconstituted vial to be re-entered safely over multiple weeks under refrigeration.",
+        "Plain sterile water does not contain a preservative and is single-use only — which is why bacteriostatic water is the preferred solvent for multi-dose research vials."
+      ],
+      "benefits": [
+        "Safe multi-dose storage of reconstituted research peptides",
+        "Standard solvent across virtually every peptide research protocol",
+        "Long shelf life when stored cool and dark"
+      ],
+      "research": [
+        "Bacteriostatic water is a long-established pharmaceutical-grade solvent. The research community treats it as table-stakes consumable for any serious peptide work."
+      ],
+      "anecdotal": [
+        "No biological reports — it is a solvent. Quality and sterility are the only meaningful variables."
+      ],
+      "pairsWell": [
+        {
+          "slug": "bpc-157",
+          "reason": "Required to reconstitute lyophilized peptides"
+        },
+        {
+          "slug": "ghk-cu",
+          "reason": "Required to reconstitute lyophilized peptides"
+        }
+      ]
+    },
+    "vi": {
+      "classLine": "Nước kìm khuẩn — dung môi pha chế",
+      "what": [
+        "Nước kìm khuẩn là nước vô trùng chứa 0.9% benzyl alcohol làm chất bảo quản. Đây là dung môi tiêu chuẩn được sử dụng trong nghiên cứu peptide để pha chế peptide đông khô thành dung dịch.",
+        "Nó không phải peptide và không có hoạt tính sinh học riêng — nó tồn tại để hòa tan và lưu trữ peptide an toàn trong giao thức nghiên cứu."
+      ],
+      "mechanism": [
+        "Chất bảo quản benzyl alcohol ức chế phát triển vi khuẩn, cho phép một lọ đã pha được sử dụng lại an toàn qua nhiều tuần khi bảo quản lạnh.",
+        "Nước vô trùng thường không chứa chất bảo quản và chỉ dùng một lần — đó là lý do nước kìm khuẩn là dung môi ưa thích cho lọ nghiên cứu nhiều liều."
+      ],
+      "benefits": [
+        "Bảo quản nhiều liều an toàn các peptide nghiên cứu đã pha",
+        "Dung môi tiêu chuẩn trong hầu như mọi giao thức nghiên cứu peptide",
+        "Thời hạn sử dụng dài khi bảo quản mát và tối"
+      ],
+      "research": [
+        "Nước kìm khuẩn là dung môi cấp dược phẩm đã được thiết lập lâu dài. Cộng đồng nghiên cứu coi nó là vật tư cơ bản cho bất kỳ công việc peptide nghiêm túc nào."
+      ],
+      "anecdotal": [
+        "Không có báo cáo sinh học — nó là dung môi. Chất lượng và độ vô trùng là các biến số duy nhất có ý nghĩa."
+      ],
+      "pairsWell": [
+        {
+          "slug": "bpc-157",
+          "reason": "Cần để pha peptide đông khô"
+        },
+        {
+          "slug": "ghk-cu",
+          "reason": "Cần để pha peptide đông khô"
+        }
+      ]
+    }
+  }
+}
