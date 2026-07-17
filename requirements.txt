@@ -6,3 +6,4 @@ python-dotenv
 yt-dlp
 youtube-transcript-api
 pymongo
+pysocks

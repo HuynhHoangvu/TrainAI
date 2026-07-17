@@ -21,10 +21,12 @@ from dotenv import load_dotenv
 from google import genai
 from google.genai import types
 from youtube_transcript_api import YouTubeTranscriptApi
+from youtube_transcript_api.proxies import GenericProxyConfig
 
 load_dotenv()
 API_KEY = os.getenv("GEMINI_API_KEY", "").strip()
 MODEL = "gemini-3.5-flash"
+YOUTUBE_PROXY_URL = os.getenv("YOUTUBE_PROXY_URL", "").strip()
 _VIDEO_ID_RE = re.compile(
     r"(?:youtu\.be/|youtube\.com/(?:watch\?v=|shorts/|embed/|live/))([A-Za-z0-9_-]{11})"
 )
@@ -43,6 +45,8 @@ def extract_video_id(link_or_id: str) -> str:
 def fetch_metadata(video_id: str) -> dict:
     url = f"https://www.youtube.com/watch?v={video_id}"
     ydl_opts = {"quiet": True, "no_warnings": True, "skip_download": True}
+    if YOUTUBE_PROXY_URL:
+        ydl_opts["proxy"] = YOUTUBE_PROXY_URL
     with yt_dlp.YoutubeDL(ydl_opts) as ydl:
         info = ydl.extract_info(url, download=False)
     return {
@@ -53,7 +57,10 @@ def fetch_metadata(video_id: str) -> dict:
 
 
 def fetch_transcript(video_id: str, languages: list[str] = ["en", "vi"]) -> str:
-    api = YouTubeTranscriptApi()
+    proxy_config = None
+    if YOUTUBE_PROXY_URL:
+        proxy_config = GenericProxyConfig(http_url=YOUTUBE_PROXY_URL, https_url=YOUTUBE_PROXY_URL)
+    api = YouTubeTranscriptApi(proxy_config=proxy_config)
     transcript_list = api.list(video_id)
     try:
         transcript = transcript_list.find_transcript(languages)
