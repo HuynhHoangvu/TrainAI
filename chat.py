@@ -426,7 +426,7 @@ LICH SU HOI THOAI GAN NHAT:
 
 CAU HOI CUA KHACH HANG: {question}
 
-Tra loi tu nhien nhu nguoi that dang nhan tin tu van (kieu chat/nhan tin, KHONG phai van ban trang trong), NGAN GON va di thang vao trong tam. Uu tien 2-4 cau hoac vai gach dau dong ngan, chi noi dai hon khi khach thuc su can huong dan tung buoc chi tiet (vi du cach pha che). Khong nhac lai nhung gi khach da biet hoac da hoi truoc do trong LICH SU HOI THOAI. Khong mo dau dai dong, di thang vao cau tra loi.
+Tra loi tu nhien nhu nguoi that dang nhan tin tu van (kieu chat/nhan tin, KHONG phai van ban trang trong), NGAN GON va di thang vao trong tam. Uu tien 2-4 cau van xuoi lien mach, chi noi dai hon khi khach thuc su can huong dan tung buoc chi tiet (vi du cach pha che) - ke ca luc do van viet thanh cau/doan van, KHONG dung gach dau dong. Khong nhac lai nhung gi khach da biet hoac da hoi truoc do trong LICH SU HOI THOAI. Khong mo dau dai dong, di thang vao cau tra loi.
 
 NGON NGU TRA LOI: hay tra loi bang chinh ngon ngu ma khach hang dung o CAU HOI CUA KHACH HANG ben tren (khach hoi tieng Anh thi tra loi hoan toan bang tieng Anh, khach hoi tieng Viet thi tra loi bang tieng Viet, v.v.). Khong tron ngon ngu trong cung 1 cau tra loi.
 
