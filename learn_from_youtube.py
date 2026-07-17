@@ -10,13 +10,11 @@ Chay dong lenh (khong giao dien, cho scripting):
     py learn_from_youtube.py "<link YouTube>" [<them link khac>...]
 """
 
-import json
 import os
 import re
 import sys
 import threading
 import tkinter as tk
-from pathlib import Path
 
 import yt_dlp
 from dotenv import load_dotenv
@@ -27,8 +25,6 @@ from youtube_transcript_api import YouTubeTranscriptApi
 load_dotenv()
 API_KEY = os.getenv("GEMINI_API_KEY", "").strip()
 MODEL = "gemini-3.5-flash"
-KNOWLEDGE_FILE = os.getenv("KNOWLEDGE_FILE", "knowledge.json")
-
 _VIDEO_ID_RE = re.compile(
     r"(?:youtu\.be/|youtube\.com/(?:watch\?v=|shorts/|embed/|live/))([A-Za-z0-9_-]{11})"
 )
@@ -96,22 +92,18 @@ markdown bold/italics."""
     return (response.text or "").strip()
 
 
-def load_knowledge() -> dict:
-    if not Path(KNOWLEDGE_FILE).exists():
-        return {}
-    with open(KNOWLEDGE_FILE, encoding="utf-8") as f:
-        return json.load(f)
-
-
 def save_video_insight(video_id: str, title: str, channel: str, url: str, summary: str) -> None:
-    knowledge = load_knowledge()
+    """Luu vao knowledge.json (local) hoac MongoDB (neu co MONGODB_URI) - dung chung
+    logic luu tru voi chat.py de 2 noi luon dong bo."""
+    import chat
+
+    knowledge = chat.load_knowledge()
     insights = knowledge.setdefault("video_insights", [])
     insights[:] = [i for i in insights if i.get("video_id") != video_id]
     insights.append(
         {"video_id": video_id, "title": title, "channel": channel, "url": url, "summary": summary}
     )
-    with open(KNOWLEDGE_FILE, "w", encoding="utf-8") as f:
-        json.dump(knowledge, f, ensure_ascii=False, indent=2)
+    chat.save_knowledge(knowledge)
 
 
 BG_APP = "#0f1420"

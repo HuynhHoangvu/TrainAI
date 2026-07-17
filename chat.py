@@ -30,7 +30,12 @@ def ask_gemini(client: genai.Client, prompt: str) -> str:
     tra loi sai/tu choi ngau nhien du da co du du lieu trong ngu canh."""
     response = client.models.generate_content(model=MODEL, contents=prompt, config=GENERATE_CONFIG)
     return response.text
+
+
 KNOWLEDGE_FILE = os.getenv("KNOWLEDGE_FILE", "knowledge.json")
+MONGODB_URI = os.getenv("MONGODB_URI") or os.getenv("MONGO_URL") or os.getenv("MONGO_PUBLIC_URL")
+MONGODB_DB = os.getenv("MONGODB_DB", "trainai")
+_mongo_collection = None
 
 _WORD_RE = re.compile(r"\w+", re.UNICODE)
 
@@ -49,11 +54,39 @@ _STOPWORDS = {
 }
 
 
+def _get_mongo_collection():
+    global _mongo_collection
+    if _mongo_collection is None:
+        from pymongo import MongoClient
+
+        client = MongoClient(MONGODB_URI)
+        _mongo_collection = client[MONGODB_DB]["knowledge"]
+    return _mongo_collection
+
+
 def load_knowledge(path: str = KNOWLEDGE_FILE) -> dict:
+    if MONGODB_URI:
+        doc = _get_mongo_collection().find_one({"_id": "singleton"})
+        if not doc:
+            return {"products": [], "bundles": [], "guide": None}
+        doc.pop("_id", None)
+        return doc
+
     if not Path(path).exists():
         return {"products": [], "bundles": [], "guide": None}
     with open(path, encoding="utf-8") as f:
         return json.load(f)
+
+
+def save_knowledge(data: dict, path: str = KNOWLEDGE_FILE) -> None:
+    if MONGODB_URI:
+        doc = dict(data)
+        doc["_id"] = "singleton"
+        _get_mongo_collection().replace_one({"_id": "singleton"}, doc, upsert=True)
+        return
+
+    with open(path, "w", encoding="utf-8") as f:
+        json.dump(data, f, ensure_ascii=False, indent=2)
 
 
 def load_products(path: str = KNOWLEDGE_FILE) -> list[dict]:
@@ -128,8 +161,10 @@ def build_video_insight_chunks(video_insights: list[dict]) -> list[dict]:
     chunks = []
     for v in video_insights or []:
         text = (
+            f"[KINH NGHIEM CHIA SE - khong phai thong tin chinh thuc cua shop] "
             f"Nguon: video YouTube \"{v.get('title')}\" - kenh {v.get('channel')}\n"
-            f"Thong tin duoc trich tu video:\n{v.get('summary', '')}"
+            f"Noi dung duoc chia se trong video (quan diem/kinh nghiem ca nhan cua nguoi lam video, "
+            f"CHUA duoc shop xac thuc):\n{v.get('summary', '')}"
         )
         chunks.append(
             {"type": "video", "title": v.get("title"), "url": v.get("url"), "text": text}
@@ -332,6 +367,8 @@ Neu THONG TIN THAM KHAO khong du de tra loi, hay noi that la chua co du lieu ve 
 THONG TIN THAM KHAO co the bao gom: mo ta san pham, cong dung thuong duoc nghien cuu, tan suat su dung thuong gap, "Official protocol" (giao thuc lieu dung chinh thuc lay truc tiep tu website cua shop - vi du "250 mcg subcutaneous, 1-2x daily"), cach pha che (bao gom ca "Official reconstitution" ghi chinh xac ty le mg/ml tu website), cac goi combo (bundle) san pham co san cua shop, va luu y an toan chung. Khi trong THONG TIN THAM KHAO co "Official protocol" hoac "Official reconstitution", day la thong tin CHINH THUC da duoc shop cong bo cong khai tren website san pham - ban DUOC PHEP va NEN trich dan truc tiep cac con so cu the (mg, mcg, ml, so lan/tuan...) tu do khi khach hoi ve lieu dung, vi day khong phai ban tu bia ra hay tu van y te ca nhan hoa, ma chi la nhac lai thong tin san pham da duoc cong bo. Neu chi co "tan suat su dung thuong gap" (khong co Official protocol cu the), thi trinh bay o dang "thuong duoc nghien cuu/su dung o...". Chi khi KHONG co bat ky thong tin lieu dung nao (ca protocol chinh thuc lan tan suat chung) trong THONG TIN THAM KHAO thi moi noi that la chua co du lieu.
 
 QUAN TRONG: Cac nhan nhu "Official protocol", "Official reconstitution", "tu website chinh thuc" chi la ten truong du lieu noi bo de BAN hieu do la thong tin dang tin cay - KHONG duoc lap lai cac cum tu nay hay nhac den "theo protocol chinh thuc/website chinh thuc cua chung toi" trong cau tra loi. Chi noi thang cac con so (vi du "BPC-157 thuong dung 250 mcg, 1-2 lan/ngay") nhu the do la kien thuc ban dang co san, tu nhien nhu dang tu van chu khong phai dang trich dan tai lieu.
+
+THU TU UU TIEN KHI CAC NGUON MAU THUAN NHAU (quan trong): THONG TIN THAM KHAO co the gom nhieu loai nguon voi do tin cay khac nhau - (1) thong tin san pham/"Official protocol"/"Official reconstitution" cua shop la nguon dang tin cay nhat, luon uu tien dung nguon nay truoc; (2) cac doan danh dau "[KINH NGHIEM CHIA SE - khong phai thong tin chinh thuc cua shop]" la quan diem/kinh nghiem ca nhan tu video YouTube cua nguoi khac, CHUA duoc xac thuc, do tin cay thap hon. Neu kinh nghiem chia se trong video KHAC voi thong tin chinh thuc cua shop (vi du lieu luong khac nhau), hay uu tien noi so lieu chinh thuc truoc, roi neu can co the them "mot so nguon/kinh nghiem chia se khac lai dung..." nhu mot ghi chu phu, KHONG duoc tron lan hai loai lam mot hay coi kinh nghiem chia se ngang hang voi thong tin chinh thuc. Neu nhieu video khac nhau ke kinh nghiem TRAI NGUOC nhau va khong co thong tin chinh thuc de doi chieu, hay noi that la co nhieu kinh nghiem khac nhau duoc chia se va khach nen tham khao them, KHONG tu chon 1 ben la dung.
 
 Khi khach hoi co the dung chung/ket hop san pham nao voi nhau, hay uu tien tra loi dua tren cac GOI COMBO co san trong THONG TIN THAM KHAO (neu co goi phu hop). Neu khong co goi combo lien quan va cung khong co thong tin nao khac ve viec ket hop, hay noi that la chua co du lieu ve viec phoi hop cu the do, KHONG tu suy doan hay bia dat.
 
