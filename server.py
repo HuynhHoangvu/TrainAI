@@ -158,26 +158,34 @@ def admin_learn(req: LearnRequest):
 
 CHAT_PAGE = """<!doctype html>
 <html lang="vi"><head><meta charset="utf-8">
-<meta name="viewport" content="width=device-width, initial-scale=1">
+<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, viewport-fit=cover">
 <title>Trợ lý Peptide Shop</title>
 <style>
-  body{margin:0;font-family:'Segoe UI',sans-serif;background:#0f1420;color:#e7eaf3;height:100vh;display:flex;flex-direction:column}
-  header{background:#161d2e;padding:16px 20px;font-weight:700;display:flex;align-items:center;justify-content:space-between}
-  header a{color:#8790a8;font-size:12px;font-weight:400;text-decoration:none;border:1px solid #2a334a;padding:5px 10px;border-radius:14px}
+  *{box-sizing:border-box;-webkit-tap-highlight-color:transparent}
+  html{-webkit-text-size-adjust:100%}
+  body{margin:0;font-family:'Segoe UI',sans-serif;background:#0f1420;color:#e7eaf3;height:100vh;height:100dvh;display:flex;flex-direction:column;overflow:hidden}
+  header{background:#161d2e;padding:14px 16px;padding-top:max(14px,env(safe-area-inset-top));font-weight:700;display:flex;align-items:center;justify-content:space-between;flex-shrink:0}
+  header span{font-size:15px}
+  header a{color:#8790a8;font-size:12px;font-weight:400;text-decoration:none;border:1px solid #2a334a;padding:6px 12px;border-radius:14px;touch-action:manipulation}
   header a:hover{color:#fff;border-color:#5865f2}
-  #log{flex:1;overflow-y:auto;padding:16px;display:flex;flex-direction:column;gap:10px}
-  .msg{max-width:75%;padding:10px 14px;border-radius:14px;line-height:1.4;font-size:14px}
+  #log{flex:1;overflow-y:auto;-webkit-overflow-scrolling:touch;padding:16px;display:flex;flex-direction:column;gap:10px}
+  .msg{max-width:85%;padding:10px 14px;border-radius:14px;line-height:1.4;font-size:15px;word-break:break-word;overflow-wrap:anywhere}
   .user{align-self:flex-end;background:#5865f2;color:#fff}
   .bot{align-self:flex-start;background:#212a3d;color:#e7eaf3}
-  form{display:flex;gap:8px;padding:12px;background:#141a29}
-  input{flex:1;padding:10px 14px;border-radius:20px;border:none;background:#1c2438;color:#f0f2f7;font-size:14px}
-  button{padding:10px 20px;border-radius:20px;border:none;background:#5865f2;color:#fff;font-weight:700;cursor:pointer}
+  form{display:flex;gap:8px;padding:12px;padding-bottom:max(12px,env(safe-area-inset-bottom));background:#141a29;flex-shrink:0}
+  input{flex:1;min-width:0;padding:12px 14px;border-radius:20px;border:none;background:#1c2438;color:#f0f2f7;font-size:16px;touch-action:manipulation}
+  input:focus{outline:2px solid #5865f2}
+  button{padding:10px 18px;border-radius:20px;border:none;background:#5865f2;color:#fff;font-weight:700;cursor:pointer;touch-action:manipulation;flex-shrink:0}
   button:disabled{opacity:.5;cursor:default}
+  @media (max-width:480px){
+    .msg{max-width:90%;font-size:14px}
+    header span{font-size:14px}
+  }
 </style></head>
 <body>
 <header><span>Trợ lý Peptide Shop</span><a href="/admin">⚙ Admin</a></header>
 <div id="log"></div>
-<form id="f"><input id="q" placeholder="Nhập câu hỏi..." autocomplete="off"><button id="send">Gửi</button></form>
+<form id="f"><input id="q" placeholder="Nhập câu hỏi..." autocomplete="off" enterkeyhint="send"><button id="send">Gửi</button></form>
 <script>
 const log=document.getElementById('log'), q=document.getElementById('q'), f=document.getElementById('f'), send=document.getElementById('send');
 let history=[];
@@ -200,18 +208,21 @@ add('Xin chào! Bạn muốn hỏi gì về sản phẩm, cách dùng, hay giá 
 
 ADMIN_PAGE = """<!doctype html>
 <html lang="vi"><head><meta charset="utf-8">
-<meta name="viewport" content="width=device-width, initial-scale=1">
+<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, viewport-fit=cover">
 <title>Hoc tu YouTube - Admin</title>
 <style>
-  body{margin:0;font-family:'Segoe UI',sans-serif;background:#0f1420;color:#e7eaf3;padding:20px}
-  h1{font-size:18px;display:flex;align-items:center;justify-content:space-between}
-  h1 a{color:#8790a8;font-size:12px;font-weight:400;text-decoration:none;border:1px solid #2a334a;padding:5px 10px;border-radius:14px}
+  *{box-sizing:border-box;-webkit-tap-highlight-color:transparent}
+  html{-webkit-text-size-adjust:100%}
+  body{margin:0;font-family:'Segoe UI',sans-serif;background:#0f1420;color:#e7eaf3;padding:16px;padding-top:max(16px,env(safe-area-inset-top));padding-bottom:max(16px,env(safe-area-inset-bottom))}
+  h1{font-size:17px;display:flex;align-items:center;justify-content:space-between;gap:8px;flex-wrap:wrap}
+  h1 a{color:#8790a8;font-size:12px;font-weight:400;text-decoration:none;border:1px solid #2a334a;padding:6px 12px;border-radius:14px;touch-action:manipulation}
   h1 a:hover{color:#fff;border-color:#5865f2}
-  textarea{width:100%;box-sizing:border-box;padding:10px;border-radius:8px;border:none;background:#1c2438;color:#f0f2f7;font-size:14px;margin-bottom:10px}
+  textarea{width:100%;padding:10px;border-radius:8px;border:none;background:#1c2438;color:#f0f2f7;font-size:16px;margin-bottom:10px}
   textarea{height:120px;resize:vertical;font-family:inherit}
-  button{padding:10px 20px;border-radius:8px;border:none;background:#5865f2;color:#fff;font-weight:700;cursor:pointer}
+  button{width:100%;padding:12px 20px;border-radius:8px;border:none;background:#5865f2;color:#fff;font-weight:700;font-size:15px;cursor:pointer;touch-action:manipulation}
   button:disabled{opacity:.5;cursor:default}
-  #out{margin-top:16px;white-space:pre-wrap;font-size:13px;background:#1c2438;padding:12px;border-radius:8px;max-height:400px;overflow-y:auto}
+  #out{margin-top:16px;white-space:pre-wrap;word-break:break-word;font-size:13px;background:#1c2438;padding:12px;border-radius:8px;max-height:400px;overflow-y:auto}
+  @media (min-width:480px){ button{width:auto} }
 </style></head>
 <body>
 <h1><span>Learn from YouTube</span><a href="/">💬 Chat</a></h1>
