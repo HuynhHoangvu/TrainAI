@@ -22,13 +22,34 @@ from dotenv import load_dotenv
 from google import genai
 from google.genai import types
 from youtube_transcript_api import YouTubeTranscriptApi
-from youtube_transcript_api.proxies import GenericProxyConfig
+from youtube_transcript_api.proxies import GenericProxyConfig, WebshareProxyConfig
 
 load_dotenv()
 API_KEY = os.getenv("GEMINI_API_KEY", "").strip()
 MODEL = "gemini-3.5-flash"
 YOUTUBE_PROXY_URL = os.getenv("YOUTUBE_PROXY_URL", "").strip()
+WEBSHARE_USERNAME = os.getenv("WEBSHARE_USERNAME", "").strip()
+WEBSHARE_PASSWORD = os.getenv("WEBSHARE_PASSWORD", "").strip()
 DELAY_BETWEEN_VIDEOS = 4.0  # giay - tranh goi YouTube qua nhanh lam IP bi chan khi hoc hang loat
+
+
+def _build_proxy_config():
+    """Uu tien Webshare (rotating residential proxy, chuyen danh cho viec ne chan
+    IP cua YouTube - moi request tu dong doi IP khac) neu co cau hinh; khong thi
+    fallback ve 1 proxy tinh (YOUTUBE_PROXY_URL, vd tu ngrok/pproxy tu dung)."""
+    if WEBSHARE_USERNAME and WEBSHARE_PASSWORD:
+        return WebshareProxyConfig(proxy_username=WEBSHARE_USERNAME, proxy_password=WEBSHARE_PASSWORD)
+    if YOUTUBE_PROXY_URL:
+        return GenericProxyConfig(http_url=YOUTUBE_PROXY_URL, https_url=YOUTUBE_PROXY_URL)
+    return None
+
+
+def _yt_dlp_proxy_url() -> str:
+    """URL proxy dang dung cho yt-dlp (lay metadata) - Webshare dung chung 1 cong
+    gateway roi tu xoay IP phia sau, nen chi can 1 URL http proxy binh thuong."""
+    if WEBSHARE_USERNAME and WEBSHARE_PASSWORD:
+        return f"http://{WEBSHARE_USERNAME}:{WEBSHARE_PASSWORD}@p.webshare.io:80"
+    return YOUTUBE_PROXY_URL
 _VIDEO_ID_RE = re.compile(
     r"(?:youtu\.be/|youtube\.com/(?:watch\?v=|shorts/|embed/|live/))([A-Za-z0-9_-]{11})"
 )
@@ -47,8 +68,9 @@ def extract_video_id(link_or_id: str) -> str:
 def fetch_metadata(video_id: str) -> dict:
     url = f"https://www.youtube.com/watch?v={video_id}"
     ydl_opts = {"quiet": True, "no_warnings": True, "skip_download": True}
-    if YOUTUBE_PROXY_URL:
-        ydl_opts["proxy"] = YOUTUBE_PROXY_URL
+    proxy_url = _yt_dlp_proxy_url()
+    if proxy_url:
+        ydl_opts["proxy"] = proxy_url
     with yt_dlp.YoutubeDL(ydl_opts) as ydl:
         info = ydl.extract_info(url, download=False)
     return {
@@ -59,10 +81,7 @@ def fetch_metadata(video_id: str) -> dict:
 
 
 def fetch_transcript(video_id: str, languages: list[str] = ["en", "vi"]) -> str:
-    proxy_config = None
-    if YOUTUBE_PROXY_URL:
-        proxy_config = GenericProxyConfig(http_url=YOUTUBE_PROXY_URL, https_url=YOUTUBE_PROXY_URL)
-    api = YouTubeTranscriptApi(proxy_config=proxy_config)
+    api = YouTubeTranscriptApi(proxy_config=_build_proxy_config())
     transcript_list = api.list(video_id)
     try:
         transcript = transcript_list.find_transcript(languages)

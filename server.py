@@ -7,9 +7,15 @@ Backend web app cho chat AI + trang "Hoc tu YouTube" (dung de deploy len Railway
 - "/admin/learn" API hoc tu YouTube (JSON)
 
 Bien moi truong can co tren Railway:
-    GEMINI_API_KEY   - API key Gemini
-    KNOWLEDGE_FILE    - (tuy chon) duong dan file knowledge.json, vd /data/knowledge.json neu
-                        gan Railway Volume de du lieu khong mat khi redeploy
+    GEMINI_API_KEY      - API key Gemini
+    KNOWLEDGE_FILE      - (tuy chon) duong dan file knowledge.json, vd /data/knowledge.json neu
+                          gan Railway Volume de du lieu khong mat khi redeploy
+    WEBSHARE_USERNAME,
+    WEBSHARE_PASSWORD  - (tuy chon, khuyen dung cho hoc hang loat) rotating residential
+                          proxy tu webshare.io - moi request tu dong doi IP khac, tranh
+                          bi YouTube chan khi hoc nhieu video lien tuc
+    YOUTUBE_PROXY_URL   - (tuy chon) proxy tinh don gian (vd tu ngrok/pproxy tu dung) -
+                          chi dung khi khong co Webshare
 
 Chay local de test:
     py server.py
