@@ -14,6 +14,7 @@ import os
 import re
 import sys
 import threading
+import time
 import tkinter as tk
 
 import yt_dlp
@@ -27,6 +28,7 @@ load_dotenv()
 API_KEY = os.getenv("GEMINI_API_KEY", "").strip()
 MODEL = "gemini-3.5-flash"
 YOUTUBE_PROXY_URL = os.getenv("YOUTUBE_PROXY_URL", "").strip()
+DELAY_BETWEEN_VIDEOS = 4.0  # giay - tranh goi YouTube qua nhanh lam IP bi chan khi hoc hang loat
 _VIDEO_ID_RE = re.compile(
     r"(?:youtu\.be/|youtube\.com/(?:watch\?v=|shorts/|embed/|live/))([A-Za-z0-9_-]{11})"
 )
@@ -214,6 +216,8 @@ class LearnApp(tk.Tk):
     def _worker(self, links: list[str]):
         ok, skipped, failed = 0, 0, 0
         for i, link in enumerate(links, 1):
+            if i > 1:
+                time.sleep(DELAY_BETWEEN_VIDEOS)
             try:
                 video_id = extract_video_id(link)
             except ValueError as e:
@@ -271,7 +275,9 @@ def main():
 
     client = genai.Client(api_key=API_KEY)
 
-    for link in sys.argv[1:]:
+    for i, link in enumerate(sys.argv[1:], 1):
+        if i > 1:
+            time.sleep(DELAY_BETWEEN_VIDEOS)
         try:
             video_id = extract_video_id(link)
         except ValueError as e:

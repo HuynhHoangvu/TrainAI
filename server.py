@@ -17,6 +17,7 @@ Chay local de test:
 
 import os
 import threading
+import time
 from contextlib import asynccontextmanager
 
 from fastapi import FastAPI, HTTPException
@@ -122,7 +123,9 @@ def admin_learn(req: LearnRequest):
         raise HTTPException(status_code=503, detail="Server chua cau hinh GEMINI_API_KEY.")
 
     results: list[LearnResultItem] = []
-    for link in req.links:
+    for i, link in enumerate(req.links, 1):
+        if i > 1:
+            time.sleep(lfy.DELAY_BETWEEN_VIDEOS)
         try:
             video_id = lfy.extract_video_id(link)
         except ValueError as e:
