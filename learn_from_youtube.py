@@ -99,6 +99,16 @@ markdown bold/italics."""
     return (response.text or "").strip()
 
 
+def is_already_learned(video_id: str) -> bool:
+    """Kiem tra video da co trong video_insights chua, de bao trung va bo qua
+    thay vi hoc lai (ton API) hoac tao ban ghi trung."""
+    import chat
+
+    knowledge = chat.load_knowledge()
+    insights = knowledge.get("video_insights", [])
+    return any(i.get("video_id") == video_id for i in insights)
+
+
 def save_video_insight(video_id: str, title: str, channel: str, url: str, summary: str) -> None:
     """Luu vao knowledge.json (local) hoac MongoDB (neu co MONGODB_URI) - dung chung
     logic luu tru voi chat.py de 2 noi luon dong bo."""
@@ -211,6 +221,11 @@ class LearnApp(tk.Tk):
                 self._log_async(f"({i}/{len(links)}) Link khong hop le: {e}")
                 continue
 
+            if is_already_learned(video_id):
+                skipped += 1
+                self._log_async(f"({i}/{len(links)}) Video {video_id} da hoc truoc do, bo qua (trung).")
+                continue
+
             self._set_status(f"({i}/{len(links)}) Dang lay thong tin video...")
             try:
                 meta = fetch_metadata(video_id)
@@ -261,6 +276,10 @@ def main():
             video_id = extract_video_id(link)
         except ValueError as e:
             print(f"Bo qua '{link}': {e}")
+            continue
+
+        if is_already_learned(video_id):
+            print(f"\nVideo {video_id} da hoc truoc do, bo qua (trung).")
             continue
 
         print(f"\nDang xu ly video {video_id}...")

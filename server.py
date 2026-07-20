@@ -129,6 +129,12 @@ def admin_learn(req: LearnRequest):
             results.append(LearnResultItem(link=link, status="loi", detail=str(e)))
             continue
 
+        if lfy.is_already_learned(video_id):
+            results.append(
+                LearnResultItem(link=link, status="trung", detail=f"Video {video_id} da hoc truoc do, bo qua.")
+            )
+            continue
+
         try:
             meta = lfy.fetch_metadata(video_id)
         except Exception:
