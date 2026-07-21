@@ -179,10 +179,8 @@ CHAT_PAGE = """<!doctype html>
   *{box-sizing:border-box;-webkit-tap-highlight-color:transparent}
   html{-webkit-text-size-adjust:100%}
   body{margin:0;font-family:'Segoe UI',sans-serif;background:#0f1420;color:#e7eaf3;height:100vh;height:100dvh;display:flex;flex-direction:column;overflow:hidden}
-  header{background:#161d2e;padding:14px 16px;padding-top:max(14px,env(safe-area-inset-top));font-weight:700;display:flex;align-items:center;justify-content:space-between;flex-shrink:0}
+  header{background:#161d2e;padding:14px 16px;padding-top:max(14px,env(safe-area-inset-top));font-weight:700;display:flex;align-items:center;justify-content:center;flex-shrink:0}
   header span{font-size:15px}
-  header a{color:#8790a8;font-size:12px;font-weight:400;text-decoration:none;border:1px solid #2a334a;padding:6px 12px;border-radius:14px;touch-action:manipulation}
-  header a:hover{color:#fff;border-color:#5865f2}
   #log{flex:1;overflow-y:auto;-webkit-overflow-scrolling:touch;padding:16px;display:flex;flex-direction:column;gap:10px}
   .msg{max-width:85%;padding:10px 14px;border-radius:14px;line-height:1.4;font-size:15px;word-break:break-word;overflow-wrap:anywhere}
   .user{align-self:flex-end;background:#5865f2;color:#fff}
@@ -198,7 +196,7 @@ CHAT_PAGE = """<!doctype html>
   }
 </style></head>
 <body>
-<header><span>Trợ lý Peptide Shop</span><a href="/admin">⚙ Admin</a></header>
+<header><span>Trợ lý Peptide Shop</span></header>
 <div id="log"></div>
 <form id="f"><input id="q" placeholder="Nhập câu hỏi..." autocomplete="off" enterkeyhint="send"><button id="send">Gửi</button></form>
 <script>
