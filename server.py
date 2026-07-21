@@ -178,15 +178,15 @@ CHAT_PAGE = """<!doctype html>
 <style>
   *{box-sizing:border-box;-webkit-tap-highlight-color:transparent}
   html{-webkit-text-size-adjust:100%}
-  body{margin:0;font-family:'Segoe UI',sans-serif;background:#0f1420;color:#e7eaf3;height:100vh;height:100dvh;display:flex;flex-direction:column;overflow:hidden}
-  header{background:#161d2e;padding:14px 16px;padding-top:max(14px,env(safe-area-inset-top));font-weight:700;display:flex;align-items:center;justify-content:center;flex-shrink:0}
+  body{margin:0;font-family:'Segoe UI',sans-serif;background:#f5f6fa;color:#20242f;height:100vh;height:100dvh;display:flex;flex-direction:column;overflow:hidden}
+  header{background:#fff;padding:14px 16px;padding-top:max(14px,env(safe-area-inset-top));font-weight:700;display:flex;align-items:center;justify-content:center;flex-shrink:0;box-shadow:0 1px 3px rgba(0,0,0,.06)}
   header span{font-size:15px}
   #log{flex:1;overflow-y:auto;-webkit-overflow-scrolling:touch;padding:16px;display:flex;flex-direction:column;gap:10px}
   .msg{max-width:85%;padding:10px 14px;border-radius:14px;line-height:1.4;font-size:15px;word-break:break-word;overflow-wrap:anywhere}
   .user{align-self:flex-end;background:#5865f2;color:#fff}
-  .bot{align-self:flex-start;background:#212a3d;color:#e7eaf3}
-  form{display:flex;gap:8px;padding:12px;padding-bottom:max(12px,env(safe-area-inset-bottom));background:#141a29;flex-shrink:0}
-  input{flex:1;min-width:0;padding:12px 14px;border-radius:20px;border:none;background:#1c2438;color:#f0f2f7;font-size:16px;touch-action:manipulation}
+  .bot{align-self:flex-start;background:#fff;color:#20242f;box-shadow:0 1px 2px rgba(0,0,0,.08)}
+  form{display:flex;gap:8px;padding:12px;padding-bottom:max(12px,env(safe-area-inset-bottom));background:#fff;flex-shrink:0;box-shadow:0 -1px 3px rgba(0,0,0,.06)}
+  input{flex:1;min-width:0;padding:12px 14px;border-radius:20px;border:1px solid #dfe2ea;background:#f5f6fa;color:#20242f;font-size:16px;touch-action:manipulation}
   input:focus{outline:2px solid #5865f2}
   button{padding:10px 18px;border-radius:20px;border:none;background:#5865f2;color:#fff;font-weight:700;cursor:pointer;touch-action:manipulation;flex-shrink:0}
   button:disabled{opacity:.5;cursor:default}
